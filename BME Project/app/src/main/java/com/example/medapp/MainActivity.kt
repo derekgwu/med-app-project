@@ -63,6 +63,8 @@ fun Routes() {
         composable("Triage") {
             Triage().Content(navController)
         }
+
+
     }
 }
 
