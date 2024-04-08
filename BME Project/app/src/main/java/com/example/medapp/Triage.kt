@@ -194,11 +194,8 @@ fun TriagePriorityTable() {
             {
             val custom_yellow = Color(0xFFFCBA03);
             Row(Modifier.fillMaxSize()) {
-
                 TableCell(text = "EMERGENCY [E]", weight = columnWeight, height=120.dp,color = Color.Red)
-
                 TableCell(text = "Patient must be seen at once may need life-saving treatment", weight = 0.5f, height=120.dp, color=Color.Red)
-
             }
 
             Row(Modifier.fillMaxSize()) {
@@ -415,15 +412,49 @@ fun Priorities(){
 @Composable
 fun PrioritiesTable(){
     Column(Modifier.padding(10.dp)){
-        val column_weight = .3f
-        val column_height = 150.dp
-        Row{
-            TableCell("3Ts", weight = column_weight, column_height, color = Color.Black)
-            TableCell("Tiny (less than 2 month of age)\n" +
-                    "Temperature (high temperature as judged by your hand)\n" +
-                    "Trauma", column_weight, column_height, Color.Black)
+        val custom_yellow = Color(0xFFFCBA03);
+        val heading = buildAnnotatedString {
+            withStyle(style = SpanStyle()){
+                append("3T's")
+            }
         }
+        Text(heading, textAlign = TextAlign.Left, fontSize = 32.sp)
+        val t_bullet_points = arrayOf(
+            "Tiny (less than 2 month of age)",
+            "Temperature (high temperature as judged by your hand)",
+            "Trauma"
+        )
+        Text(bullet_point(t_bullet_points))
+
+        Text("3P's", textAlign = TextAlign.Left, fontSize = 32.sp)
+        val p_bullet_points = arrayOf(
+            "Pain",
+            "Pallor",
+            "Poisoning"
+        )
+        Text(bullet_point(p_bullet_points))
+
+        Text("3R's", textAlign = TextAlign.Left, fontSize = 32.sp)
+        val r_bullet_points = arrayOf(
+            "Respiratory distress (not life threatening)",
+            "Referral (urgent)",
+            "Restless"
+        )
+        Text(bullet_point(r_bullet_points))
+        Text("MOB", textAlign = TextAlign.Left, fontSize = 32.sp)
+        val mob_bullet_points = arrayOf(
+            "Malnutrition",
+            "Oedema",
+            "Burns"
+        )
+        Text(bullet_point(mob_bullet_points))
+
+
+
+
+
     }
+
 }
 
 

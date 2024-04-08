@@ -64,6 +64,10 @@ fun Routes() {
             Triage().Content(navController)
         }
 
+        composable("RoutineCareOfNewborn"){
+            RoutineCareOfNewborn().Content(navController)
+        }
+
 
     }
 }

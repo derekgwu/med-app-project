@@ -80,6 +80,22 @@ class SelectionPage {
                         Text(label)
                     }
                 }
+
+                item{
+                    Button(
+                        onClick = {
+                            navController.navigate("RoutineCareOfNewborn")
+                        },
+                        modifier = Modifier
+                            .width(400.dp)
+                            .padding(16.dp),
+                        shape = RoundedCornerShape(16.dp)
+
+                    ) {
+                        Text("Routine Care of Newborn Infant")
+                    }
+                }
+
             }
         }
     }
