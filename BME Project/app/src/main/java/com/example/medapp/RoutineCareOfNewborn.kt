@@ -167,7 +167,36 @@ class RoutineCareOfNewborn {
                         "difficulties (1).")
             }
             Text(para2)
+            val heading2 = buildAnnotatedString {
+                withStyle(style = SpanStyle(color = Color.Blue)){
+                    append("Daily Routine Care of the Newborn")
+                }
+            }
+            Text("\n")
+
+            Text(heading2, fontSize = 24.sp, fontWeight = FontWeight.Bold)
+            val subheading1 = buildAnnotatedString {
+                withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)){
+                    append("1. Review labour and birth record\n")
+                }
+            }
+            Text(subheading1)
+
         }
+    }
+
+
+    //bullet points
+    fun bullet_point(labels: Array<String>): AnnotatedString {
+        val text = buildAnnotatedString {
+            for(label in labels){
+                withStyle(style = SpanStyle(color = Color.Black)) {
+                    append("• ")
+                }
+                append(label +"\n")
+            }
+        }
+        return text
     }
 
 
