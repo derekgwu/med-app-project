@@ -47,14 +47,77 @@ class SelectionPage {
                     )
 
                 }
+                item{
+                    Button(
+                        onClick = {
+                            navController.navigate("Triage")
+                        },
+                        modifier = Modifier
+                            .width(400.dp)
+                            .padding(16.dp),
+                        shape = RoundedCornerShape(16.dp)
+
+                    ) {
+                        Text("Triage")
+                    }
+                }
+
+                item{
+                    Button(
+                        onClick = {
+                            navController.navigate("RespEmergency")
+                        },
+                        modifier = Modifier
+                            .width(400.dp)
+                            .padding(16.dp),
+                        shape = RoundedCornerShape(16.dp)
+
+                    ) {
+                        Text("Emergencies (Resuscitation, Breathing (oxygen, CPAP), Shock, Coma/ Convulsions and Hypoglycaemia)")
+                    }
+                }
+
+                item{
+                    Button(
+                        onClick = {
+                            navController.navigate("RoutineCareOfNewborn")
+                        },
+                        modifier = Modifier
+                            .width(400.dp)
+                            .padding(16.dp),
+                        shape = RoundedCornerShape(16.dp)
+
+                    ) {
+                        Text("Routine Care of Newborn Infant")
+                    }
+                }
+
+                item{
+                    Text("IN PROGRESS")
+                }
+                item{
+                    Button(
+                        onClick = {
+                            navController.navigate("Jaundice")
+                        },
+                        modifier = Modifier
+                            .width(400.dp)
+                            .padding(16.dp),
+                        shape = RoundedCornerShape(16.dp)
+
+                    ) {
+                        Text( "Jaundice and Phototherapy")
+                    }
+                }
+
+                item{
+                    Text("TODO")
+                }
                 //button labels
                 val btn_labels = arrayOf(
-                    "Triage",
-                    "Emergencies (Resuscitation, Breathing (oxygen, CPAP), Shock, Coma/ Convulsions and Hypoglycaemia)",
-                    "Routine Care of the Normal Newborn Infant",
                     "Birth Asphyxia/Hypoxic Ischaemic Encephalopathy (HIE)",
                     "LBW/Preterm incl Hypothermia",
-                    "Jaundice and Phototherapy",
+
                     "Infections (Sepsis and Meningitis) incl Infection Prevention",
                     "Fluid management and diarrhoea/dehydration",
                     "Equipment",
@@ -81,20 +144,7 @@ class SelectionPage {
                     }
                 }
 
-                item{
-                    Button(
-                        onClick = {
-                            navController.navigate("RoutineCareOfNewborn")
-                        },
-                        modifier = Modifier
-                            .width(400.dp)
-                            .padding(16.dp),
-                        shape = RoundedCornerShape(16.dp)
 
-                    ) {
-                        Text("Routine Care of Newborn Infant")
-                    }
-                }
 
             }
         }

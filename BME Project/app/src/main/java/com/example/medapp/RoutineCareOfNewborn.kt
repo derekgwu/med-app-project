@@ -1,18 +1,12 @@
 package com.example.medapp
 
-import androidx.compose.foundation.border
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Row
-import androidx.compose.foundation.layout.RowScope
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Divider
-import androidx.compose.material3.Button
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
@@ -26,14 +20,11 @@ import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.text.withStyle
-import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import androidx.navigation.compose.NavHost
-import androidx.navigation.compose.composable
-import androidx.navigation.compose.rememberNavController
 
 class RoutineCareOfNewborn {
     @Composable
@@ -44,6 +35,8 @@ class RoutineCareOfNewborn {
 
             color = MaterialTheme.colorScheme.background
         ) {
+
+
             LazyColumn(
                 modifier = Modifier.fillMaxSize(),
                 verticalArrangement = Arrangement.Center,
@@ -51,6 +44,7 @@ class RoutineCareOfNewborn {
             ) {
                 item{
                     //title
+                    ClickableText(navController = navController, text = "Return to Home", route = "main")
                     Text(
                         "Routine Care Of Newborn",
                         fontWeight = FontWeight.Bold,
@@ -60,6 +54,7 @@ class RoutineCareOfNewborn {
 
                     Objectives()
                     Main(navController)
+
 
 
 
@@ -129,6 +124,7 @@ class RoutineCareOfNewborn {
                 }
             }
             Text(heading)
+
             /*
             Button(
                 onClick = {
@@ -143,6 +139,8 @@ class RoutineCareOfNewborn {
                 Text("Triage")
             }
             */
+
+
              val para1 = buildAnnotatedString {
                  withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)){
                      append("The vast majority of newborns require no intervention at birth other than routine normal care. ")
@@ -181,6 +179,67 @@ class RoutineCareOfNewborn {
                 }
             }
             Text(subheading1)
+            Text("Review the labour and birth record to identify risk factors or any events during the birth that may be " +
+                    "important in the management of the mother and the baby.\n")
+
+
+            val subheading2 = buildAnnotatedString {
+                withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)){
+                    append("2. Ask the Mother\n")
+                }
+            }
+            Text(subheading2)
+            val subheading2_bulletpoint = buildAnnotatedString{
+                append("• ")
+                withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)){
+                    append("\"Is the baby sucking well?\"")
+                }
+                append(" Health care professionals should discuss a mother’s progress with breastfeeding within the first two days after delivery to assess if she is on course to breastfeeding effectively.")
+            }
+            Text(subheading2_bulletpoint)
+            val sub2_bulpoint2 = buildAnnotatedString {
+                append("• ")
+                withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)){
+                    append("\"Has the baby passed stools?\"")
+                }
+                append(" Term babies should pass meconium by 24 hours of birth. Passage after 24 hours is NOT NORMAL and needs evaluation by a clinician.")
+
+            }
+            Text(sub2_bulpoint2)
+            val sub2_bulpoint3 = buildAnnotatedString {
+                append("• ")
+                withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)){
+                    append("\"Has the baby passed urine?\"")
+                }
+                append(" Urine should be passed by 48 hours. It is NOT NORMAL if no urine is passed by 48 hours.")
+            }
+            Text(sub2_bulpoint3)
+            val sub2_bulpoint4_clickable = buildAnnotatedString {
+                pushStringAnnotation(
+                    tag = "clickable",
+                    annotation = "Triage"
+                )
+                append(" jaundice ")
+            }
+            val sub2_bulpoint4 = buildAnnotatedString {
+                append("• ")
+                withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)){
+                    append("\"Is the baby jaundiced (yellow)?\"")
+                }
+                append(" Babies who develop")
+                append(sub2_bulpoint4_clickable)
+            }
+            Text(sub2_bulpoint4)
+            SeeResources()
+            ClickableText(navController = navController, text = "Breastfeeding", route = "Triage")
+            ClickableText(navController = navController, text = "Jaundice" , route = "Jaundice")
+
+
+
+
+
+
+
 
         }
     }
@@ -198,6 +257,35 @@ class RoutineCareOfNewborn {
         }
         return text
     }
+
+    @Composable
+    fun SeeResources(){
+        val header = buildAnnotatedString {
+            withStyle(style = SpanStyle(fontWeight = FontWeight.Bold, fontSize = 18.sp )){
+                append("See Resources")
+            }
+        }
+        Text(header)
+    }
+
+
+    @Composable
+    fun ClickableText(navController: NavController, text:String, route: String) {
+        val color_text = buildAnnotatedString {
+            withStyle(style = SpanStyle(color = Color.Blue, textDecoration = TextDecoration.Underline)) {
+                append(text)
+            }
+        }
+
+        Text(
+            text = color_text,
+            modifier = Modifier.clickable { navController.navigate(route) },
+
+        )
+    }
+
+
+
 
 
 

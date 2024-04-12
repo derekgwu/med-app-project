@@ -64,8 +64,17 @@ fun Routes() {
             Triage().Content(navController)
         }
 
+        //respiratory emergencies route
+        composable("RespEmergency"){
+            RespEmergencies().Content(navController)
+        }
+
         composable("RoutineCareOfNewborn"){
             RoutineCareOfNewborn().Content(navController)
+        }
+
+        composable("Jaundice"){
+            Jaundice().Content(navController)
         }
 
 
