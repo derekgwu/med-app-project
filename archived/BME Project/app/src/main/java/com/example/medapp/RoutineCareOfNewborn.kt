@@ -214,20 +214,14 @@ class RoutineCareOfNewborn {
                 append(" Urine should be passed by 48 hours. It is NOT NORMAL if no urine is passed by 48 hours.")
             }
             Text(sub2_bulpoint3)
-            val sub2_bulpoint4_clickable = buildAnnotatedString {
-                pushStringAnnotation(
-                    tag = "clickable",
-                    annotation = "Triage"
-                )
-                append(" jaundice ")
-            }
+
             val sub2_bulpoint4 = buildAnnotatedString {
                 append("• ")
                 withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)){
                     append("\"Is the baby jaundiced (yellow)?\"")
                 }
-                append(" Babies who develop")
-                append(sub2_bulpoint4_clickable)
+                append("  Babies who develop jaundice within the first 24 hours after birth should be evaluated, as this is NOT NORMAL.\n")
+
             }
             Text(sub2_bulpoint4)
             SeeResources()
@@ -261,7 +255,7 @@ class RoutineCareOfNewborn {
     @Composable
     fun SeeResources(){
         val header = buildAnnotatedString {
-            withStyle(style = SpanStyle(fontWeight = FontWeight.Bold, fontSize = 18.sp )){
+            withStyle(style = SpanStyle(fontWeight = FontWeight.Bold, fontSize = 18.sp, color = Color.Red )){
                 append("See Resources")
             }
         }
