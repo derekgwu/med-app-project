@@ -1,14 +1,11 @@
 import React from 'react';
 import { StyleSheet, View, Platform, Text } from 'react-native';
 import {WebView} from 'react-native-webview'
-import TopBar  from './TopBar.js';
 import {NavigationContainer} from '@react-navigation/native';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
-import Home from './Home.js'
+import TopBar  from './TopBar';
 
-const Stack = createNativeStackNavigator();
-
-const App = () => {
+const Home = () => {
   const source = {
     link : require('./assets/demo.html')
   }
@@ -16,12 +13,13 @@ const App = () => {
   const uri = htmlFilePath
 
   return (
-    <NavigationContainer>
-      <Stack.Navigator initialRouteName="Main" screenOptions={{ headerShown: false }}>
-        <Stack.Screen name="Main" component={Home}/>
-      
-      </Stack.Navigator>
-    </NavigationContainer>
+    <View style={styles.container}>
+      <TopBar/>
+      <WebView
+        source={source.link}
+        style={{ flex: 1 }}
+      />
+    </View>
   );
 }
 
@@ -32,4 +30,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default App;
+export default Home;
