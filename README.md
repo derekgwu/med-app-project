@@ -1,4 +1,4 @@
-# How To View A Prototype of the App
+# How To Run Application Locally
 
 ### Install Node.js
 Install [Node.js](https://nodejs.org/en) here and run through the setup. To check if Node.js is installed, run: 
@@ -18,6 +18,8 @@ Additionally, you may need to install the dependecies of the app which are
 npm install -g create-react-native-app
 npm install react-native-webview
 ```
+
+(you can likely bypass this by run `npm install`)
 
 ### Running the App
 Go into Android Studio and start up an emulator (Pixel 4 API 30 will work fine). Once the emulator is running, run 
