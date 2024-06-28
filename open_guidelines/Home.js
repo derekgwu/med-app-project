@@ -7,9 +7,9 @@ import TopBar  from './TopBar';
 
 const Home = () => {
   const source = {
-    link : require('./assets/demo.html')
+    link : require('./assets/title.html')
   }
-  const htmlFilePath = require('./assets/demo.html');
+  const htmlFilePath = require('./assets/title.html');
   const uri = htmlFilePath
 
   return (
