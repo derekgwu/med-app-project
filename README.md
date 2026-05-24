@@ -29,3 +29,10 @@ npm start
 ```
 
 When prompted, press S to switch to Expo Go mode and press A to run on android
+
+### RAG Offline Model
+
+Start the virtual environment
+```
+source venv/bin/activate
+```
