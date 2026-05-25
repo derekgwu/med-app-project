@@ -1,0 +1,151 @@
+{
+    "title": "How to Deliver Oxygen to a NYI (Chapter\u202f6)",
+    "learningObjectives": [
+        "Explain when oxygen is needed.",
+        "Describe how to deliver oxygen therapy (see equipment section for details).",
+        "Explain when to stop oxygen therapy."
+    ],
+    "sections": [
+        {
+            "id": "requires",
+            "title": "An infant who has signs of severe respiratory distress requires oxygen.",
+            "content": "Lists clinical signs that indicate the newborn infant (NYI) needs supplemental oxygen and the saturation thresholds that trigger therapy.",
+            "keyPoints": [
+                "Grunting",
+                "Head nodding",
+                "Nasal flaring",
+                "Severe chest indrawing",
+                "Tachypnoea (RR\u202f>\u202f60\u202fbpm)",
+                "Apnoea",
+                "Poor feeding due to respiratory distress",
+                "Cyanosis (confirm with pulse oximeter if available)"
+            ],
+            "saturationGuidelines": {
+                "thresholdForTherapy": "<90\u202f% SpO\u2082",
+                "normalRanges": {
+                    "withoutOxygen": "90\u2011100\u202f%",
+                    "withOxygen": "90\u201195\u202f%"
+                },
+                "targetWithin15\u202fminPost\u2011birth": "90\u201195\u202f%"
+            },
+            "images": []
+        },
+        {
+            "id": "delivery",
+            "title": "Delivery Methods of Oxygen",
+            "content": "Describes the sources of oxygen (concentrator or cylinder) and preferred delivery devices (nasal prongs \u2192 nasal catheter \u2192 face mask). Explains step\u2011wise escalation and monitoring.",
+            "subsections": [
+                {
+                    "id": "eskalation",
+                    "title": "Stepwise escalation of oxygen therapy according to the YI condition",
+                    "content": "Provides a flow\u2011chart style escalation from low\u2011flow nasal prongs up to bCPAP and, if needed, investigation for pneumothorax.",
+                    "images": [
+                        {
+                            "url": "../images/coin65.png",
+                            "description": "Flow\u2011chart illustrating stepwise escalation of oxygen therapy."
+                        }
+                    ]
+                },
+                {
+                    "id": "monitoring",
+                    "title": "Monitoring and ongoing care of the patient",
+                    "content": "Checklist for mothers and staff to ensure safe delivery of oxygen and early detection of problems.",
+                    "checklist": [
+                        "Displacement of the prongs or catheter",
+                        "Concentrator malfunction or accidental switch\u2011off",
+                        "Four\u2011hour airway patency check",
+                        "Mucus blockage of airways",
+                        "Abdominal distension from air",
+                        "Increasing respiratory distress",
+                        "Check SpO\u2082 (target 90\u201195\u202f%)",
+                        "Apply nasal drops every 4\u202fh",
+                        "Keep infant warm",
+                        "Feed regularly",
+                        "Prevent infection"
+                    ],
+                    "images": []
+                }
+            ],
+            "images": []
+        },
+        {
+            "id": "stop",
+            "title": "When and How to Stop Oxygen Therapy",
+            "content": "Guidelines for weaning oxygen based on stable saturations and clinical status, with a step\u2011wise reduction protocol and safety checks.",
+            "weaningSteps": [
+                "Reduce flow by 0.5\u202fL/min; re\u2011check SpO\u2082 & clinical condition after 15\u202fmin.",
+                "If stable, repeat reduction by 0.5\u202fL/min with 15\u2011min checks.",
+                "If SpO\u2082 <\u202f90\u202f% or clinical deterioration, return to previous flow level."
+            ],
+            "discontinuationCriteria": [
+                "SpO\u2082\u202f>\u202f95\u202f% on 0.5\u202fL/min and clinically stable.",
+                "Gentle removal of tape and nasal prongs.",
+                "Re\u2011check SpO\u2082 after 15\u202fmin; restart if saturation drops or clinical status worsens."
+            ],
+            "specialConsiderations": [
+                "If pulse oximetry unavailable, use clinical signs (no increased work of breathing, normal RR, no tiring).",
+                "Avoid SpO\u2082\u202f>\u202f96\u202f% in premature infants \u2013 risk of retinopathy of prematurity, brain & lung injury. Target 90\u201194\u202f% when on supplemental O\u2082 or CPAP."
+            ],
+            "images": []
+        },
+        {
+            "id": "sources",
+            "title": "Sources and delivery methods of oxygen",
+            "content": "Overview of the equipment used to provide oxygen to NYI, with brief how\u2011to notes for each device.",
+            "subsections": [
+                {
+                    "id": "concentrator",
+                    "title": "Oxygen concentrator",
+                    "content": "Main source; delivers 5\u201110\u202fL/min, adjustable concentration gauge; filter cleaning weekly; keep SpO\u2082\u202f>\u202f90\u202f%.",
+                    "images": [
+                        {
+                            "url": "../images/coin66.png",
+                            "description": "Diagram of a typical oxygen concentrator."
+                        }
+                    ]
+                },
+                {
+                    "id": "nasal\u2011prongs",
+                    "title": "Nasal prongs",
+                    "content": "Preferred device; various sizes, placed just inside nostrils and taped; keep nostrils clear; 0.5\u20111\u202fL/min gives ~30\u201135\u202f% FiO\u2082; aim SpO\u2082\u202f>\u202f92\u202f%.",
+                    "images": [
+                        {
+                            "url": "../images/coin67.png",
+                            "description": "Illustration of nasal prongs placement."
+                        }
+                    ]
+                },
+                {
+                    "id": "nasal\u2011catheter",
+                    "title": "Nasal tube or catheter",
+                    "content": "Use 8\u202fFr catheter; measure insertion depth from nostril to inner eyebrow margin; 0.5\u20111\u202fL/min gives ~30\u201135\u202f% FiO\u2082; aim SpO\u2082\u202f>\u202f90\u202f%.",
+                    "images": [
+                        {
+                            "url": "../images/coin68.png",
+                            "description": "Diagram showing correct catheter length measurement."
+                        }
+                    ]
+                },
+                {
+                    "id": "face\u2011mask",
+                    "title": "Face mask",
+                    "content": "Used for severe distress; delivers 40\u201160\u202f% FiO\u2082 at \u22654\u202fL/min; reservoir mask can deliver 100\u202f% (resuscitation); may require one concentrator per infant; aim SpO\u2082\u202f>\u202f90\u202f%.",
+                    "images": [
+                        {
+                            "url": "../images/coin69.png",
+                            "description": "Face\u2011mask delivery illustration."
+                        }
+                    ]
+                }
+            ],
+            "images": []
+        },
+        {
+            "id": "e6",
+            "title": "E\u202f6 Oxygen Therapy (Supplementary)",
+            "content": "Brief note that oxygen sources can be shared via a flow splitter and combined with CPAP. Supplemental O\u2082 is indicated for sick children with SpO\u2082\u202f<\u202f90\u202f%. References to additional modules.",
+            "images": []
+        }
+    ],
+    "_source_file": "C6_oxygen.html"
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Discharge from the Hospital (Chapter 20)",
+    "learningObjectives": [
+        "Describe the indications for the discharge of a NYI from hospital.",
+        "Describe the elements of the discharge of a NYI from hospital.",
+        "List discharge planning advice for family."
+    ],
+    "introParagraph": "Planning of discharge from the hospital is as important as diagnosis and treatment. The NYI has to remain in hospital while receiving oxygen for respiratory instability, IV treatment, if feeding has not been established, or body temperature cannot be maintained.",
+    "sections": [
+        {
+            "title": "Indications for Discharge",
+            "id": "indications",
+            "points": [
+                "Patient stable and has improved.",
+                "Baby gaining weight for three (3) consecutive days.",
+                "Established lactation in a mother.",
+                "Ability to breastfeed or cup feed satisfactorily."
+            ],
+            "subsections": [
+                {
+                    "title": "Counsel the mother on:",
+                    "points": [
+                        "Diagnosis and care given.",
+                        "Treatment if ongoing and how to administer it.",
+                        "Exclusive breastfeeding of the infant at home for six (6) months.",
+                        "Importance of keeping the NYI warm including KMC if < 2000\u202fg (reference\u202f3).",
+                        "Danger signs and when to present immediately to the nearest healthcare facility.",
+                        "Upcoming vaccinations.",
+                        "Importance of attending any follow\u2011up appointments (e.g., KMC, physiotherapy, audiology, ophthalmology and surgical)."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Providing Follow\u2011Up Care",
+            "id": "planning",
+            "points": [
+                "Infants who are discharged from the hospital should return for follow\u2011up in relation to the present problem as needed.",
+                "Plan the routine follow\u2011up with the local provider depending on weight, age, and HIV exposure status of the NYI \u2013 clearly write the purpose of the follow\u2011up (e.g., to do HIV DNA PCR).",
+                "Discuss where and when the NYI will receive their next scheduled immunisation.",
+                "Discuss where the mother will access care if the NYI shows a danger sign."
+            ]
+        },
+        {
+            "title": "Record Keeping",
+            "points": [
+                "Ensure the infant\u2019s immunisation status and record is up\u2011to\u2011date.",
+                "Ensure the HIV exposure status is recorded.",
+                "Communicate with the health personnel who referred the infant or who will be responsible for follow\u2011up care.",
+                "Clearly document in the health passport: date of birth, birth and discharge weight, mode of delivery, APGAR scores, date of admission, date of discharge, diagnosis, most recent investigations done, treatment given, ongoing treatment, counselling given and reason for follow\u2011up.",
+                "Documentation must be signed together with a printed name and the health facility for follow\u2011up should be clear.",
+                "If referred from another health facility, complete the feedback form.",
+                "Ask the mother to attend the local facility as soon as possible and to show the passport / feedback form to the local healthcare team."
+            ]
+        },
+        {
+            "title": "Key Facts for Providers",
+            "points": [
+                "Know the indications for discharge and ensure that the patient qualifies:",
+                "Patient stable and has improved.",
+                "Baby gaining weight for three (3) consecutive days.",
+                "Established lactation in a mother.",
+                "Ability to breastfeed or cup feed satisfactorily.",
+                "Counsel mother on diagnosis, follow\u2011up plan, feeding, and immunisation.",
+                "Document clearly what has been done, results of tests and follow\u2011up plan."
+            ]
+        }
+    ],
+    "imageLinks": [],
+    "_source_file": "C20_Discharge.html"
+}

@@ -1,0 +1,371 @@
+{
+  "title": "Routine Care of the Normal Newborn Infant (Chapter 2)",
+  "learning_objectives": [
+    "Provide routine care for every newborn.",
+    "Offer relevant and timely information, advice and support to caregivers.",
+    "Identify newborns with danger signs and those who need special care."
+  ],
+  "related_links": [
+    { "text": "Breastfeeding", "href": "#Breastfeeding" },
+    { "text": "Common Congenital Infections", "href": "#Common Infections" },
+    { "text": "HIV", "href": "#HIV" },
+    { "text": "Tuberculosis", "href": "#Tuberculosis" },
+    { "text": "Syphilis", "href": "#Syphilis" },
+    { "text": "Discharge and Providing Follow‑up care", "href": "#Discharge" }
+  ],
+  "sections": [
+    {
+      "id": "importance",
+      "title": "Why is care of the normal term infant so important?",
+      "content": "The vast majority of newborns require no intervention at birth other than routine normal care.  If this is done well, it vastly reduces the likelihood of problems.  Most newborns should be transferred to the post‑natal wards for rooming‑in with their mothers.  These babies still need to be monitored because they are at continued risk of hypothermia and feeding difficulties during the first few days of life.  They can also become sick and develop danger signs.  The mother needs counselling and appropriate treatment when required.  Babies born in health facilities should not be sent home in the crucial first 48 hours of life.  Follow‑up care should be organised before the mothers are discharged (see the chapter on discharge from the hospital).  Take time to counsel her, involve another guardian where possible, ensure they understand the implications of leaving early, advise them on danger signs and arrange a follow‑up plan for the baby.\n\nA post‑natal room should be kept warm with no draughts from open doors or windows.  A room temperature of at least 25 °C is required to help keep the baby warm.  A mother and her baby should be kept together from birth if possible – this promotes bonding and allows the mother to respond quickly when the baby wants to feed, which helps establish and sustain breastfeeding.",
+      "lists": [],
+      "tables": [],
+      "image_links": []
+    },
+
+    {
+      "id": "routine",
+      "title": "Daily Routine Care of the Newborn",
+      "content": "",
+      "lists": {
+        "ordered": [
+          "Review labour and birth record",
+          "Ask the mother"
+        ],
+        "unordered": [
+          "\"Is the baby sucking well?\" – discuss breastfeeding progress within the first two days after delivery.",
+          "\"Has the baby passed stools?\" – term babies should pass meconium by 24 h; later is abnormal.",
+          "\"Has the baby passed urine?\" – urine should be passed by 48 h; later is abnormal.",
+          "\"Is the baby jaundiced (yellow)?\" – jaundice within the first 24 h should be evaluated."
+        ]
+      },
+      "tables": [
+        {
+          "caption": "Key Facts for Providers: Routine Care of the Term Newborn",
+          "headers": null,
+          "rows": [
+            [
+              "After ensuring the baby is dry and warm, and the eyes are clean, apply chlorhexidine (CHX) to the tip of the cord, the stump, and around the base of the stump. Apply CHX once within 24 h after birth, preferably in the first 2 h."
+            ],
+            [
+              "A full examination of the newborn must be done on admission, at 24 h, and at discharge. HIV and VDRL exposure status must be known and acted on if exposed."
+            ],
+            [
+              "Keep mother and baby together, unless medically indicated to separate the pair."
+            ],
+            [
+              "Encourage unrestricted frequency and duration of breastfeeding."
+            ],
+            [
+              "Assess breastfeeding in terms of position and attachment."
+            ],
+            [
+              "Tetracycline Eye Ointment (TEO) should be administered to both eyes once after birth, according to national guidelines."
+            ],
+            [
+              "Vitamin K should be administered to all newborns (1 mg IM to term and 0.5 mg IM to preterm infants)."
+            ],
+            [
+              "BCG and oral polio vaccine should be administered to all newborns."
+            ]
+          ]
+        },
+        {
+          "caption": "Key Facts for Providers: How to Examine the Newborn",
+          "headers": null,
+          "rows": [
+            [
+              "On admission (day 0) to the post‑natal ward, at 24 h and at discharge check:"
+            ],
+            [
+              "ABCCCD"
+            ],
+            [
+              "Temperature, Pulse rate and Respiratory rate (TPR)"
+            ],
+            [
+              "Head to toe, look for: congenital abnormalities; head – fontanelle, moulding, signs of birth trauma; eyes – jaundice, red reflex; ears – shape, discharges, deformities; nose – shape, discharges, deformities; lips/mouth – cyanosis, pallor, cleft lip/palate, sucking reflex; chest – severe chest indrawing, grunting, murmurs, capillary refill time; abdomen – umbilical redness/discharge, abdominal wall defects, organomegaly; genitalia – normal; femoral pulses; patent anus; extremities – extra digits, talipes, pallor, cyanosis, coldness; turn baby prone and check for spina bifida."
+            ]
+          ]
+        }
+      ],
+      "image_links": []
+    },
+
+    {
+      "id": "Danger",
+      "title": "Assess Danger Signs",
+      "content": "Signs should be assessed during each post‑natal care contact, and the newborn should be referred for further evaluation if any danger symptoms or signs are present (see “Danger Symptoms or Signs” for the list).",
+      "lists": [],
+      "tables": [
+        {
+          "caption": "Danger Symptoms or Signs",
+          "headers": null,
+          "rows": [
+            [
+              "Not feeding, poor feeding, vomiting"
+            ],
+            [
+              "Lethargy"
+            ],
+            [
+              "Convulsion"
+            ],
+            [
+              "Low body temperature (< 35.5 °C)"
+            ],
+            [
+              "Fever (> 38 °C)"
+            ],
+            [
+              "Chest in‑drawing"
+            ],
+            [
+              "Fast breathing (rate > 60 /min), grunting"
+            ],
+            [
+              "Any jaundice in the first 24 h of life, or yellow palms and soles at any age"
+            ]
+          ]
+        }
+      ],
+      "image_links": []
+    },
+
+    {
+      "id": "parental_education",
+      "title": "Parental Education about Maintaining Infant Health",
+      "content": "At each post‑natal contact, parents should be offered information and guidance to enable them to care for their baby.",
+      "lists": [],
+      "tables": [
+        {
+          "caption": "Key Facts for Providers and Mothers/Guardians",
+          "headers": ["Topic", "Details"],
+          "rows": [
+            ["Warmth", "Appropriate clothing of the baby for ambient temperature is recommended – 1‑2 layers more than adults and use of hats/caps."],
+            ["Skin", "Babies are NOT bathed routinely in the hospital to prevent hypothermia and infection; they may be sponged with lukewarm water."],
+            ["Cord Care", "Chlorhexidine is applied once after birth. Afterwards, keep the cord clean, dry and outside the nappy; do NOT apply spirit or salty water."],
+            ["Nappy Rash", "Prevent by frequent changes, gentle cleansing and exposure of the perineal area; avoid plastic pants and avoid adding soaps, lotions, powders or medicated wipes. Use only mild, non‑perfumed soap when needed."],
+            ["Thrush", "If identified, advise hand‑washing, clean bra and treat oral thrush if the infant is symptomatic."],
+            ["Jaundice", "50 % of newborns and 80 % of pre‑term babies develop some jaundice. Physiological jaundice appears around days 3‑4. Encourage frequent breastfeeding, awaken the baby to feed if needed, and do NOT routinely supplement with formula, water or dextrose. Advise parents to seek care if jaundice worsens or the baby appears unwell. Evaluate if jaundice persists beyond 14 days (21 days in pre‑term)."],
+            ["Weight Loss", "A loss of up to 10 % of birth weight in the first days is normal; most term infants regain birth weight by 10‑14 days."],
+            ["Hygiene", "Advise mothers to wash hands with soap and water before and after using the toilet and before and after caring for the baby."],
+            ["Danger Signs", "Remind the mother about danger signs and appropriate care‑seeking."],
+            ["Transitional Stools", "Frequent loose yellow‑green stools between days 3‑14 are normal and need no treatment."],
+            ["Vaginal White Discharge / Bleeding", "This is normal."]
+          ]
+        }
+      ],
+      "image_links": []
+    },
+
+    {
+      "id": "Breastfeeding",
+      "title": "Breastfeeding",
+      "content": "Benefits of Breastfeeding – exclusive breastfeeding for six months gives the greatest health benefits and disease prevention.  Colostrum (the first yellowish milk) meets the newborn’s needs in the first few days.  Short‑term breast‑feed discomfort for the mother is common but should not persist.\n\nBenefits to the mother include decreased risk of breast, uterine and ovarian cancers; natural contraception (LAM) for the first six months; and reduction of postpartum haemorrhage.",
+      "lists": {
+        "unordered": [
+          "Decreased risk of breast, uterine, and ovarian cancers.",
+          "Natural contraceptive method in the first six months of breastfeeding (LAM).",
+          "Helps to prevent postpartum haemorrhage."
+        ]
+      },
+      "tables": [
+        {
+          "caption": "Key Facts for Providers and Mothers/Guardians: Breastfeeding",
+          "headers": null,
+          "rows": [
+            [
+              "If breastfeeding is not progressing, provide support with positioning and attachment."
+            ],
+            [
+              "If nipple pain persists after repositioning, evaluate for thrush or cracks."
+            ],
+            [
+              "If engorgement signs are present, encourage the mother to wear a well‑fitting bra, feed frequently (including prolonged feeds from the affected breast), massage the breasts, hand‑express milk if needed, and take compatible analgesia (e.g., paracetamol)."
+            ],
+            [
+              "If mastitis signs are present (red, tender, hot breast, possible fever), advise the mother to continue breastfeeding or hand‑express, gently massage the breast, seek positioning/attachment assistance, take breastfeeding‑compatible analgesia, and increase fluid intake."
+            ]
+          ]
+        }
+      ],
+      "image_links": [
+        {
+          "src": "../images/coin2.png",
+          "description": "Illustration of good attachment (chin touching breast, wide open mouth, lower lip turned outward)."
+        },
+        {
+          "src": "../images/coin2a.png",
+          "description": "Illustration of bad attachment."
+        }
+      ],
+      "subsections": [
+        {
+          "id": "Assess_Breastfeeding",
+          "title": "Assess Breastfeeding",
+          "content": "Ask the mother if the infant has breastfed in the previous hour.  If not, ask why and then put the infant to the breast and assess:",
+          "lists": {
+            "ordered": [
+              "First assess the position (see #Position).",
+              "Then assess the attachment (see #Attachment).",
+              "Then assess the sucking (see #Sucking)."
+            ]
+          },
+          "tables": [],
+          "image_links": []
+        },
+        {
+          "id": "Position",
+          "title": "Position",
+          "content": "Observe the breastfeed.  Signs of good positioning:",
+          "lists": {
+            "unordered": [
+              "Baby’s body is well supported.",
+              "Head, neck and body are kept in the same plane.",
+              "Entire baby faces the mother; baby's abdomen touches mother’s abdomen."
+            ]
+          },
+          "tables": [],
+          "image_links": []
+        },
+        {
+          "id": "Attachment",
+          "title": "Attachment",
+          "content": "Signs of good attachment:",
+          "lists": {
+            "unordered": [
+              "Chin touching breast, mouth wide open.",
+              "Lower lip turned outward.",
+              "More areola above than below the mouth."
+            ]
+          },
+          "tables": [],
+          "image_links": [
+            {
+              "src": "../images/coin2.png",
+              "description": "Good attachment illustration."
+            },
+            {
+              "src": "../images/coin2a.png",
+              "description": "Bad attachment illustration."
+            }
+          ]
+        },
+        {
+          "id": "Sucking",
+          "title": "Sucking",
+          "content": "Effective sucking occurs when the infant makes slow deep sucks, sometimes pausing.  If not sucking well, look for oral thrush (ulcers or white patches).",
+          "lists": [],
+          "tables": [],
+          "image_links": []
+        }
+      ]
+    },
+
+    {
+      "id": "Common_Infections",
+      "title": "Common Congenital Infections",
+      "content": "",
+      "lists": [],
+      "tables": [],
+      "image_links": [],
+      "subsections": [
+        {
+          "id": "HIV",
+          "title": "HIV",
+          "content": "All babies born to HIV‑positive mothers should be managed according to the current Malawi Integrated Guidelines for HIV services in Children and Adults.  The lactating mother should receive antiretroviral (ARV) medication.  Nevirapine syrup is given to all HIV‑exposed babies as soon as possible after birth until six weeks of age.",
+          "lists": [
+            "At six weeks a dried blood spot (DBS) is taken for HIV PCR.",
+            "The baby is started on cotrimoxazole preventive therapy (CPT) 120 mg (dispersible paediatric tablet or ¼ adult tablet) until the infant is confirmed HIV‑negative, at least six weeks after breastfeeding has stopped."
+          ],
+          "tables": [
+            {
+              "caption": "Nevirapine dosage by birth weight",
+              "headers": ["Birth Weight", "Dose of Nevirapine"],
+              "rows": [
+                ["<2500 g", "1.0 ml PO every 24 h"],
+                [">2500 g", "1.5 ml PO every 24 h"]
+              ]
+            }
+          ],
+          "image_links": []
+        },
+        {
+          "id": "Syphilis",
+          "title": "Syphilis",
+          "content": "Test the mother for syphilis if she has not been tested in the last three months.  Treat all infants of VDRL‑seropositive, untreated or inadequately treated mothers (or where documentation is unclear) because clinical signs may be absent or variable.",
+          "lists": [],
+          "tables": [
+            {
+              "caption": "Clinical Findings / Treatment for Syphilis",
+              "headers": ["Clinical Findings Suggestive of Syphilis", "Treatment"],
+              "rows": [
+                [
+                  [
+                    "Small for dates",
+                    "Jaundice",
+                    "Recurring rashes",
+                    "Anaemia",
+                    "Hepatosplenomegaly",
+                    "\"Snuffles\" (serous rhinitis)"
+                  ],
+                  [
+                    "Proven or highly probable disease: X‑pen (Benzyl Penicillin) 50 000 IU/kg BID for 10 days.",
+                    "Emphasise that both parents receive treatment."
+                  ]
+                ]
+              ]
+            }
+          ],
+          "image_links": []
+        },
+        {
+          "id": "Tuberculosis",
+          "title": "Tuberculosis",
+          "content": "If the mother has active lung TB in the third trimester or is diagnosed after delivery, manage according to the National TB Control Programme.  Examine the baby closely.  If the baby is well, start isoniazid (H) prophylaxis at 10 mg/kg/day and do not give BCG vaccine.  Re‑evaluate at six weeks; if investigations are negative, continue prophylaxis for six months.  If active disease is suspected, start full anti‑TB treatment.",
+          "lists": [
+            "Continue to breastfeed as normal.",
+            "Delay BCG vaccination until 2 weeks after TB treatment is completed.",
+            "If BCG has already been given, repeat 2 weeks after the end of isoniazid prophylaxis."
+          ],
+          "tables": [
+            {
+              "caption": "Isoniazid dose for TB‑exposed newborns (not infected)",
+              "headers": ["Baby’s Weight", "Isoniazid Dose"],
+              "rows": [
+                ["<2500 g", "25 mg (¼ tablet) every 24 h"],
+                ["2500‑5000 g", "50 mg (½ tablet) every 24 h"]
+              ]
+            }
+          ],
+          "image_links": []
+        }
+      ]
+    },
+
+    {
+      "id": "Discharge",
+      "title": "Discharge and Providing Follow‑Up Care",
+      "content": "Correct planning of discharge from the hospital is very important for the newborn.  Infants who are discharged should return for follow‑up care at the nearest health facility at one week and six weeks.  If any danger sign is present, the baby should be brought to the clinic immediately.  Communicate the follow‑up plan to the health personnel responsible for ongoing care by writing in the health passport.  See the chapter on discharge for more information.",
+      "lists": [],
+      "tables": [
+        {
+          "caption": "Key Facts for Providers and Mothers/Guardians: Discharge",
+          "headers": ["Action", "Details"],
+          "rows": [
+            ["Breastfeeding", "Ensure exclusive breastfeeding is established."],
+            ["Health passport", "Write the birth weight and birth date; record any neonatal problems (jaundice, sepsis, asphyxia)."],
+            ["HIV", "Ensure HIV exposure status is known and recorded."],
+            ["Vitamin K", "Confirm it has been administered and recorded."],
+            ["Immunisations", "Ensure BCG and oral polio have been received; remind parents of the ongoing EPI schedule."],
+            ["Counselling", "Advise exclusive breastfeeding, keeping baby warm and seeking care early if danger signs appear."],
+            ["Danger‑sign recall", "Ask the parent to repeat the danger signs to confirm they remember them."],
+            ["Follow‑up schedule", "Arrange a follow‑up visit at home or as close to home as possible – at one week and at six weeks after discharge."]
+          ]
+        }
+      ],
+      "image_links": []
+    }
+  ]
+}

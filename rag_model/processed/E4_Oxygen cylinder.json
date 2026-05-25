@@ -1,0 +1,183 @@
+{
+    "title": "E4 Oxygen Cylinder",
+    "learningObjectives": [
+        "Identify the clinical situations in which oxygen cylinders are used for neonates and young infants.",
+        "Describe the physical characteristics, sizing system and pressure specifications of oxygen cylinders.",
+        "Perform a proper assessment of oxygen needs, including flow\u2011meter selection and target SpO\u2082 ranges.",
+        "Set\u2011up an oxygen cylinder safely for a patient and know the steps to remove a patient from therapy.",
+        "Implement infection\u2011prevention and disinfection procedures for oxygen\u2011cylinder equipment.",
+        "Recognise common device\u2011related complications and the safety alerts that accompany them.",
+        "Apply routine care, storage and preventive maintenance practices for oxygen cylinders.",
+        "Troubleshoot basic flow\u2011related problems before contacting engineering support."
+    ],
+    "sections": [
+        {
+            "id": "clinical-problem",
+            "title": "Clinical Problem",
+            "description": "Oxygen cylinders may be used to provide supplemental oxygen directly to hypoxic patients, to be shared between patients using a flow splitter, or used with devices such as CPAP.",
+            "imageLinks": [],
+            "subsections": []
+        },
+        {
+            "id": "assessment",
+            "title": "Assessment",
+            "description": "Explanation of hypoxia, cylinder construction, capacity sizing, pressure, flow\u2011meter precision, and target SpO\u2082 for neonates.",
+            "imageLinks": [
+                "../images/coin50.png",
+                "../images/coin50a.png",
+                "../images/coin51.png",
+                "../images/coin52.png"
+            ],
+            "subsections": []
+        },
+        {
+            "id": "management",
+            "title": "Management",
+            "description": "Guidelines for using an oxygen cylinder in clinical practice, from set\u2011up to removal of the patient.",
+            "imageLinks": [
+                "../images/coin53.png"
+            ],
+            "subsections": [
+                {
+                    "id": "setting-up-for-a-patient",
+                    "title": "Setting up for a patient",
+                    "steps": [
+                        "Clean hands with soap and water or 70\u202f% alcohol before and after handling the patient or tubing.",
+                        "Secure the cylinder upright to a wall or stable object.",
+                        "Assemble the pressure regulator and flowmeter; connect using the pin\u2011index connector; ensure the flowmeter is vertical.",
+                        "Open the on/off valve and regulator; read the pressure gauge.",
+                        "Connect the oxygen\u2011delivery device and adjust the flowrate.",
+                        "Determine if humidified flow is required ( >\u202f4\u202fL/min).",
+                        "Perform a bubble test to confirm flow at the patient end."
+                    ],
+                    "imageLinks": []
+                },
+                {
+                    "id": "removing-a-patient",
+                    "title": "Removing a patient",
+                    "steps": [
+                        "Close the flowmeter on the cylinder once the patient no longer requires oxygen therapy."
+                    ],
+                    "imageLinks": []
+                }
+            ]
+        },
+        {
+            "id": "infection-prevention",
+            "title": "Infection Prevention",
+            "description": "Routine cleaning and disinfection procedures to avoid hospital\u2011acquired infections.",
+            "imageLinks": [],
+            "subsections": [
+                {
+                    "id": "general-infection-prevention",
+                    "title": "General infection prevention",
+                    "steps": [
+                        "Wash hands with soap and water or 70\u202f% alcohol before and after handling the patient or tubing.",
+                        "Clean the cylinder housing according to ward guidelines or with soapy water.",
+                        "Ensure the stop valve is tightly shut when not in use and during storage."
+                    ]
+                },
+                {
+                    "id": "disinfection-after-use",
+                    "title": "Disinfection after use",
+                    "steps": [
+                        "Close the flowmeter; follow hospital protocol for tubing disinfection.",
+                        "Clean the flowmeter, gauge and dials with 70\u202f% alcohol after every use."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "complications",
+            "title": "Complications",
+            "description": "Potential hazards associated with high\u2011pressure oxygen cylinders and safety alerts.",
+            "imageLinks": [],
+            "subsections": [
+                {
+                    "id": "device-complications",
+                    "title": "Device complications",
+                    "items": [
+                        {
+                            "title": "Fire",
+                            "detail": "Oxygen supports combustion; never use grease or oil on cylinder components."
+                        },
+                        {
+                            "title": "Pressurised gas",
+                            "detail": "Cylinders are filled to 137\u2011200\u202fbar and must be chained securely to prevent projectile hazards."
+                        },
+                        {
+                            "title": "Cylinder empty",
+                            "detail": "A partially open stop valve can cause slow depletion; ensure valve is fully closed when not in use."
+                        },
+                        {
+                            "title": "Cylinder unstable",
+                            "detail": "Heavy cylinders must be upright and chained; instability can cause falls, injury, or damage to gauges."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "maintenance",
+            "title": "Care & Maintenance",
+            "description": "First\u2011line care responsibilities, storage, and preventive maintenance for oxygen cylinders.",
+            "imageLinks": [],
+            "subsections": [
+                {
+                    "id": "power-source",
+                    "title": "Power source",
+                    "content": "Not powered."
+                },
+                {
+                    "id": "ward-location",
+                    "title": "Ward location",
+                    "content": "Keep cylinders secured to walls with chains, store in ventilated, clean, dry areas away from oil, grease, heat or ignition sources. Use a secure trolley for transport."
+                },
+                {
+                    "id": "user-preventive-maintenance",
+                    "title": "User preventive maintenance",
+                    "content": "Open the flowmeter and allow the cylinder to release oxygen for 1\u202fminute each week if not in use."
+                }
+            ]
+        },
+        {
+            "id": "troubleshooting",
+            "title": "Troubleshooting & Repair",
+            "description": "First\u2011line steps to resolve common flow problems before contacting engineering.",
+            "imageLinks": [],
+            "subsections": [
+                {
+                    "id": "no-flow",
+                    "title": "No flow is emitted from the oxygen cylinder",
+                    "steps": [
+                        "Ensure flow\u2011meter knob and cylinder valve are open.",
+                        "Check the pressure gauge \u2013 the cylinder may be empty; arrange refill.",
+                        "If still no flow, close the stop valve and send the cylinder for maintenance; replace with a full cylinder."
+                    ]
+                },
+                {
+                    "id": "audible-hiss",
+                    "title": "The cylinder is making an audible hiss",
+                    "steps": [
+                        "Listen for leaks; tighten any loose fittings between regulator and cylinder.",
+                        "If the hiss persists, close the stop valve, send to maintenance and replace with a full cylinder."
+                    ]
+                }
+            ]
+        }
+    ],
+    "references": [
+        "Textbook of Neonatal Resuscitation (NRP), 7th Ed. (American Academy of Pediatrics, 2016).",
+        "Oxygen therapy for children. (World Health Organization, 2016).",
+        "Bancalari, E. & Claure, N. Oxygenation Targets and Outcomes in Premature Infants. JAMA 309, 2161 (2013).",
+        "Cummings, J. J., Polin, R. A. & Committee on Fetus and Newborn. Oxygen Targeting in Extremely Low Birth Weight Infants. Pediatrics 138, e20161576 (2016).",
+        "Manja, V., Lakshminrusimha, S. & Cook, D. J. Oxygen Saturation Target Range for Extremely Preterm Infants: A Systematic Review and Meta\u2011analysis. JAMA Pediatrics 169, 332 (2015).",
+        "Polin, R. A. & Bateman, D. Oxygen\u2011Saturation Targets in Preterm Infants. New England Journal of Medicine 368, 2141\u20132142 (2013).",
+        "Walsh, M. Oxygen Delivery Through Nasal Cannulae to Preterm Infants: Can Practice Be Improved? Pediatrics 116, 857\u2013861 (2005).",
+        "Locke, R. G., Wolfson, M. R., Shaffer, T. H., Rubenstein, S. D. & Greenspan, J. S. Inadvertent administration of positive end\u2011distending pressure during nasal cannula flow. Pediatrics 91, 135\u2013138 (1993).",
+        "Sreenan, C., Lemke, R. P., Hudson\u2011Mason, A. & Osiovich, H. High\u2011Flow Nasal Cannulae in the Management of Apnea of Prematurity: A Comparison With Conventional Nasal Continuous Positive Airway Pressure. Pediatrics 107, 1081\u20131083 (2001).",
+        "Curless MS, Ruparelia CS, Thompson E, and Trexler PA, eds. Infection Prevention and Control: Reference Manual for Health Care Facilities with Limited Resources. Jhpiego: Baltimore, MD (2018).",
+        "World Health Organization. Technical specifications for oxygen concentrators. (2016)."
+    ],
+    "_source_file": "E4_Oxygen cylinder.html"
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Foreword \u2013 Malawi Newborn Care Manual",
+    "sections": [
+        {
+            "title": "Foreword",
+            "content": "Malawi is one of the countries that made significant progress in reducing child mortality, achieving MDG\u202f4 targets ahead of the 2015 deadline recognised in the Promise Renewed report of 2014. The current under\u2011five mortality rate has fallen to 71 per 1,000 live births from 244 in 1999. Neonatal mortality is still very high at 27 per 1,000 live births and accounts for over 40\u202fpercent of under\u2011five mortality. Newborn survival is receiving international attention, with an established global target of 12 deaths per 1,000 live births by 2030. Newborns in Malawi continue to die from preventable conditions\u2014infection, prematurity and asphyxia. Malawi\u2019s Every Newborn Action Plan (ENAP) targets reducing preventable neonatal deaths from 27 per 1,000 live births to 23 by 2020 and to 15 per 1,000 live births by 2035. Improving quality of care is one of the pillars for ensuring attainment of the objectives.\n\nThe Ministry of Health (MoH) fully recognizes the immediate and long\u2011term health, social and economic repercussions of acute and prolonged morbidity and mortality among neonates and infants. In the last few years there have been major advances for the care of newborns in Malawi. To achieve these ambitious targets purpose\u2011built special newborn care units (SNCU) have been opened in most hospitals. Nurses and midwives are now assigned to the neonatal wards and a package of equipment for comprehensive care has been provided to every hospital in Malawi. Trained and skilled health workers are one of the cornerstones of quality care and in order to address the knowledge and skills gap that were there, the MoH in collaboration with the Paediatric and Child Health Association (PACHA) and UNICEF developed the Care of the young Infant and Newborn (COIN) training course in 2015. The COIN manual and course have been updated on a regular basis to reflect new developments in neonatal care and respond to changes in practice.\n\nThe use of modern technologies played a vital role in improving outcomes of neonates in the West and is critical if Malawi is to achieve the ambitious neonatal mortality targets. To address this need the MOH partnered with NEST\u202f360\u00b0 (Rice University and Malawi College of Medicine) to create a package of durable, high\u2011impact, low\u2011cost technologies for comprehensive newborn care. For these reasons a supplement has been added to the COIN course to explain the use and maintenance of the technologies. The manual is intended to be used by clinicians, nurses/midwives and biomedical technicians/engineers involved in taking care of neonates and young infants with the equipment placed in the SNCUs. The manual contains guidelines on basic clinical management of major causes of morbidity and mortality of neonates and young infants presenting to health facilities in Malawi. It is complementary to the existing MoH policies and guidelines on Maternal, Newborn and Child Health.\n\nIt is the hope of the Ministry that this document will be widely disseminated and utilised across the country to achieve the desired goal. The MoH would like to acknowledge and appreciate contributions made by individuals and institutions in various forms.\n\nDr\u202fCharles\u202fMwansambo\nSecretary for Health",
+            "learningObjectives": [
+                "Describe the current state of child and neonatal mortality in Malawi and the national targets for 2020, 2030 and 2035.",
+                "Identify the key components of Malawi\u2019s Every Newborn Action Plan (ENAP) and the role of quality\u2011of\u2011care improvement.",
+                "Explain the initiatives undertaken by the Ministry of Health, including the establishment of Special Newborn Care Units (SNCU) and the COIN training programme.",
+                "Summarise the partnership with NEST\u202f360\u00b0 and the purpose of the technology supplement added to the COIN course.",
+                "Recognise the intended audience for this manual and how it complements existing MoH policies on maternal, newborn and child health."
+            ],
+            "subsections": [
+                {
+                    "title": "Progress in Child Mortality & Neonatal Challenges",
+                    "content": "Malawi reduced under\u2011five mortality from 244/1,000 in 1999 to 71/1,000 today. Neonatal mortality remains high (27/1,000) and accounts for >40\u202f% of under\u2011five deaths. Global target: 12/1,000 by 2030.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "National Targets & ENAP Goals",
+                    "content": "ENAP aims to lower preventable neonatal deaths to 23/1,000 by 2020 and 15/1,000 by 2035. Improving quality of care is a central pillar.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Health\u2011System Strengthening Initiatives",
+                    "content": "Established Special Newborn Care Units (SNCU) in most hospitals, assigned dedicated nurses/midwives, provided comprehensive equipment packages.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "COIN Training Programme",
+                    "content": "Developed in 2015 by MoH, PACHA and UNICEF; regularly updated to reflect new neonatal care developments.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Technology Partnership \u2013 NEST\u202f360\u00b0",
+                    "content": "Collaboration with Rice University and Malawi College of Medicine to deliver durable, low\u2011cost technologies; supplement added to COIN to cover use and maintenance.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Purpose & Audience of the Manual",
+                    "content": "Guidelines for clinicians, nurses/midwives, and biomedical technicians/engineers on clinical management and equipment use in SNCUs; complements existing MoH policies.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Acknowledgements & Vision",
+                    "content": "The Ministry hopes for wide dissemination and thanks contributors.",
+                    "imageLinks": []
+                }
+            ],
+            "imageLinks": []
+        }
+    ],
+    "metadata": {
+        "source": "Foreword HTML excerpt",
+        "lastUpdated": "2026-05-25",
+        "author": "Dr Charles Mwansambo, Secretary for Health"
+    },
+    "_source_file": "foreword.html"
+}

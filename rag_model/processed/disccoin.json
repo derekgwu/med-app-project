@@ -1,0 +1,125 @@
+{
+    "documentTitle": "Disclaimer",
+    "imageLinks": [],
+    "sections": [
+        {
+            "title": "General",
+            "learningObjectives": [
+                "Identify the intended audience (registered healthcare professionals).",
+                "Explain the scope of the guidelines (neonates and infants) and their limitations.",
+                "Recognize the source material (2022 COIN course, Malawi) and its non\u2011comprehensive nature.",
+                "Understand the contractual agreement created by using the application."
+            ],
+            "subsections": [
+                {
+                    "heading": null,
+                    "content": "The material in this application by The Open Guideline Project may be used for general informational and assistive clinical medical purposes. This application is intended for use by registered healthcare professionals only as it relates to the administration of patient care in the form of clinical practice guidelines across various health domains and specializations including locally relevant guidelines, policies and directories."
+                },
+                {
+                    "heading": null,
+                    "content": "All referenced guidelines, protocols, assistive clinical tools, values, discriminators and indicators are for neonates and infants. Referenced information and values should not be regarded as absolute indicators of health or disease. Reference intervals and indicators should be used with caution."
+                },
+                {
+                    "heading": null,
+                    "content": "The application and included content is based on the 2022 COIN course material, used in Malawi. It is not a comprehensive set of clinical practice guidelines or support tools but they have endeavoured to respond in the simplest and most practical way possible. The list is incomplete, but covers the essential requirements."
+                },
+                {
+                    "heading": null,
+                    "content": "By using this application and accessing the materials through the application and/or registering you agree to the following Terms and Conditions as well as Terms of Use, which constitute an agreement between you and the respective owners and operators of The Open Guideline Project."
+                },
+                {
+                    "heading": null,
+                    "content": "The Open Guideline Project reserves the right, in our sole discretion, to change these terms from time to time, and your continuing use of the application constitutes your acceptance of and agreement to any altered terms and conditions. If you use this material, you agree to these terms. If you do not agree to them, do not use the application."
+                }
+            ]
+        },
+        {
+            "title": "Use of Content",
+            "learningObjectives": [
+                "Describe permissible personal, non\u2011commercial uses of the content.",
+                "Identify prohibited actions (modifying, publishing, distributing, reverse\u2011engineering, etc.)."
+            ],
+            "subsections": [
+                {
+                    "heading": null,
+                    "content": "Users of the application may use the content only for their personal, non\u2011commercial use. Users may not modify, publish, transmit, transfer or sell, reproduce, create derivative works from, distribute, perform, display, or in any way exploit any of the content, in whole or in part. Content may not be reverse engineered unless specifically authorized by the owner of the applications patent and/or copyright."
+                }
+            ],
+            "imageLinks": []
+        },
+        {
+            "title": "Limits on Accuracy",
+            "learningObjectives": [
+                "Understand that the information reflects the knowledge at the time of creation and may contain errors.",
+                "Know the responsibility of the prescribing professional to verify dosing against manufacturer specifications.",
+                "Explain the disclaimer of endorsement and liability for misdiagnosis or inaccuracies."
+            ],
+            "subsections": [
+                {
+                    "heading": null,
+                    "content": "The application was developed by The Open Guideline Project to provide and disseminate information, clinical practice guidelines and support tools to assist healthcare professionals in Malawi in the treatment of patients at point of care. Information is believed to be accurate at the time it is created. Despite all efforts, it is possible that certain errors may have been overlooked in this application. Please inform the authors of any errors detected. It is important to remember, that if in doubt, it is the responsibility of the prescribing medical professional to ensure that the doses indicated in this application conform to the manufacturer\u2019s specifications."
+                },
+                {
+                    "heading": null,
+                    "content": "The Open Guideline Project does not endorse any specific methods of treatment."
+                },
+                {
+                    "heading": null,
+                    "content": "The user agrees to the terms & conditions attached to the usage of the application and cannot hold The Open Guideline Project; COIN; and/or The Queen Elizabeth Central Hospital reliable for misdiagnosis or inaccuracies based on following and implementing the presented clinical practice guidelines and assistive support tools as well as the according end result."
+                },
+                {
+                    "heading": null,
+                    "content": "The Open Guideline Project and Queen Elizabeth Central Hospital assume no responsibility or risk for the use of any information presented within the application, which may contain inaccuracies or errors or unauthorized alterations by external third parties."
+                },
+                {
+                    "heading": null,
+                    "content": "All users agree that all access to and use of the application is at their own risk."
+                }
+            ],
+            "imageLinks": []
+        },
+        {
+            "title": "Medical Disclaimer",
+            "learningObjectives": [
+                "Recognize that the content is for informational and educational aid only.",
+                "Understand that it does not replace professional medical judgment.",
+                "Acknowledge that reliance on the content is at the user\u2019s own risk."
+            ],
+            "subsections": [
+                {
+                    "heading": null,
+                    "content": "The content is for informational, educational aid and clinical assistive purposes only and is not a substitute for or independent of the professional judgement of the health care professional in diagnosing and treating a variety of patients. The Open Guideline Project; COIN and Queen Elizabeth Central Hospital, do not give medical advice, nor do we provide medical or diagnostic services. Your reliance upon content obtained by you on or through the application is solely at your own risk."
+                }
+            ],
+            "imageLinks": []
+        },
+        {
+            "title": "Disclaimer Open Guideline Project",
+            "learningObjectives": [
+                "Identify the warranties and security guarantees that are expressly disclaimed.",
+                "Understand user responsibilities for protecting their own systems and data.",
+                "Recognize that transmission of data occurs over networks beyond the project's control."
+            ],
+            "subsections": [
+                {
+                    "heading": null,
+                    "content": "The Open Guideline Project makes no representations or warranties that user access to and use of the application (1) will be uninterrupted or error\u2011free, (2) is free of viruses, unauthorized code, or other harmful components, or (3) is completely secure. User is responsible for taking all precautions believed necessary or advisable to protect against any claim, damage, loss or hazard that may arise by virtue of your use of the application."
+                },
+                {
+                    "heading": null,
+                    "content": "When using the application, information will be transmitted over a medium that is beyond the control and jurisdiction of The Open Guideline Project and its suppliers. Accordingly, The Open Guideline Project assumes no liability for or relating to the delay, failure, interruption, or corruption of any data or other information transmitted in with use of the application."
+                },
+                {
+                    "heading": null,
+                    "content": "The guidelines are to be used in conjunction with good clinical judgment and an awareness of local practice guidelines."
+                },
+                {
+                    "heading": null,
+                    "content": "Please ensure that the latest version of the application is accessible on your chosen device. The Open Guideline Project assumes no responsibility for the use of an outdated application."
+                }
+            ],
+            "imageLinks": []
+        }
+    ],
+    "_source_file": "disccoin.html"
+}

@@ -1,0 +1,324 @@
+{
+    "title": "E 11 Phototherapy Lights",
+    "learningObjectives": [
+        "Explain the pathophysiology of neonatal jaundice and why phototherapy is required.",
+        "Identify clinical situations that indicate the need for phototherapy.",
+        "Describe the physical principles of phototherapy (wavelength, irradiance, device types).",
+        "Perform a systematic assessment for phototherapy initiation, including use of the Kramer scale and bilirubin measurements.",
+        "Demonstrate step\u2011by\u2011step management: set\u2011up, patient preparation, initiation, ongoing care, and safe discontinuation.",
+        "Apply infection\u2011prevention practices for phototherapy equipment and the newborn environment.",
+        "Recognise common clinical and device\u2011related complications of phototherapy and know how to respond.",
+        "Carry out routine maintenance, preventive checks and basic troubleshooting of phototherapy units."
+    ],
+    "sections": [
+        {
+            "id": "Clinical_Problem",
+            "title": "Clinical Problem",
+            "content": "Infants have a large volume of bilirubin due to high red\u2011cell mass and rapid breakdown. The immature liver often cannot clear bilirubin quickly, leading to unconjugated hyperbilirubinemia (jaundice). Phototherapy is indicated for visible jaundice at birth, jaundice extending below the umbilicus, bilirubin levels above treatment thresholds, and in the presence of prematurity, sepsis, bruising/cephalohaematoma, maternal\u2011infant blood incompatibility, or G6PD deficiency.",
+            "subsections": [],
+            "images": []
+        },
+        {
+            "id": "Assessment",
+            "title": "Assessment",
+            "content": "Phototherapy uses blue light (425\u2011475\u202fnm) to convert unconjugated bilirubin into a water\u2011soluble form. Devices can be overhead, over\u2011/under\u2011body, or flexible blankets. LEDs are preferred over halogen/fluorescent bulbs because of efficiency, durability and lower heat output.",
+            "subsections": [
+                {
+                    "id": "Kramer",
+                    "title": "Need for Phototherapy",
+                    "content": "Phototherapy need can be determined by serum bilirubin, transcutaneous bilirubin, or visual assessment using Kramer\u2019s scale. In the absence of serum values, treat any visible jaundice on day\u202f1, or Kramer level\u202f3 on day\u202f2+ (jaundice visible below the umbilicus).",
+                    "images": [
+                        {
+                            "src": "../images/coin136.png",
+                            "alt": "Kramer scale illustration"
+                        }
+                    ]
+                },
+                {
+                    "id": "bili",
+                    "title": "TABLE 2.1 JAUNDICE & PHOTOTHERAPY VS TRANSFUSION",
+                    "content": "Reference table showing bilirubin thresholds for phototherapy and exchange transfusion for term and pre\u2011term infants across days of life.",
+                    "images": []
+                },
+                {
+                    "id": "Alert_2_1",
+                    "title": "ALERT 2.1 \u2013 Physical exam estimation of serum bilirubin",
+                    "content": "Kramer\u2019s scale is the only studied proxy when serum bilirubin is unavailable. It is most reliable for ruling out levels >12\u202fmg/dL in term infants using zones\u202f1\u20112.",
+                    "images": []
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/coin135.png",
+                    "alt": "Overhead phototherapy unit \u2013 view 1"
+                },
+                {
+                    "src": "../images/coin135a.png",
+                    "alt": "Overhead phototherapy unit \u2013 view 2"
+                },
+                {
+                    "src": "../images/coin135b.png",
+                    "alt": "Overhead phototherapy unit \u2013 view 3"
+                }
+            ]
+        },
+        {
+            "id": "Management",
+            "title": "Management",
+            "content": "Guidelines for using an overhead phototherapy unit: set\u2011up, patient preparation, start\u2011up, ongoing care, and removal.",
+            "subsections": [
+                {
+                    "id": "setting_up",
+                    "title": "SETTING UP FOR A PATIENT",
+                    "content": "Collect device, power cable, and light meter. Verify blue light emission. Position meter on mattress. Adjust height (\u224820\u201130\u202fcm) to achieve therapeutic irradiance (25\u201135\u202f\u00b5W/cm\u00b2).",
+                    "images": [
+                        {
+                            "src": "../images/coin139.png",
+                            "alt": "Light meter placement"
+                        },
+                        {
+                            "src": "../images/coin139a.png",
+                            "alt": "Height adjustment of overhead light"
+                        }
+                    ]
+                },
+                {
+                    "id": "preparing_patient",
+                    "title": "PREPARING A PATIENT",
+                    "content": "Explain procedure, perform hand hygiene, gather eye mask/gauze, remove clothing leaving only a minimal diaper, place eye protection securely.",
+                    "images": [
+                        {
+                            "src": "../images/coin140.png",
+                            "alt": "Eye mask placement"
+                        }
+                    ]
+                },
+                {
+                    "id": "starting_patient",
+                    "title": "STARTING A PATIENT",
+                    "content": "Place infant directly under the switched\u2011on light, document start date/time.",
+                    "images": [
+                        {
+                            "src": "../images/coin140a.png",
+                            "alt": "Infant under overhead phototherapy"
+                        }
+                    ]
+                },
+                {
+                    "id": "caring_patient",
+                    "title": "CARING FOR A PATIENT",
+                    "content": "Provide continuous therapy, monitor vitals, rotate skin every 4\u202fh, check bilirubin (serum or Kramer), ensure hydration, weigh daily, verify eye\u2011mask integrity, assess for worsening jaundice and adjust irradiance if needed.",
+                    "images": [],
+                    "alerts": [
+                        {
+                            "id": "Alert_3_1",
+                            "title": "ALERT 3.1 \u2013 Eye\u2011mask removal for feeding",
+                            "content": "When feeding off the light, remove eye mask, check for infection, and encourage mother\u2011baby bonding."
+                        }
+                    ]
+                },
+                {
+                    "id": "removing_patient",
+                    "title": "REMOVING A PATIENT",
+                    "content": "Discontinue phototherapy when Kramer zones are resolved or bilirubin <50\u202fmmol/L (or 3\u202fmg/dL below treatment threshold). Turn off light, remove eye protection, continue monitoring for 24\u201148\u202fh.",
+                    "images": [
+                        {
+                            "src": "../images/coin142.png",
+                            "alt": "Turning off the phototherapy unit"
+                        }
+                    ],
+                    "alerts": [
+                        {
+                            "id": "Alert_3_2",
+                            "title": "ALERT 3.2 \u2013 Discontinuation when bilirubin unavailable",
+                            "content": "Minimum 12\u202fh phototherapy is insufficient; recommend \u226524\u202fh for term infants and longer for pre\u2011terms. Use cleared conjunctiva or Kramer scale as surrogate."
+                        }
+                    ]
+                }
+            ],
+            "images": []
+        },
+        {
+            "id": "Infection_prevention",
+            "title": "Infection Prevention",
+            "content": "Routine cleaning and hand hygiene are essential to avoid healthcare\u2011associated infections with phototherapy equipment.",
+            "subsections": [
+                {
+                    "id": "general_prevention",
+                    "title": "GENERAL INFECTION PREVENTION",
+                    "content": "Hand hygiene before/after use, use new or cleaned eye coverings, store equipment dry, avoid cable kinks, single\u2011patient use per unit.",
+                    "images": []
+                },
+                {
+                    "id": "disinfection_after_use",
+                    "title": "DISINFECTION AFTER USE",
+                    "content": "Turn off and unplug unit, disinfect handles and LCD with alcohol, clean housing per ward guidelines.",
+                    "images": [],
+                    "alerts": [
+                        {
+                            "id": "Alert_4_1",
+                            "title": "ALERT 4.1 \u2013 Equipment Disinfection",
+                            "content": "Follow manufacturer directions; low\u2011level disinfectants include 70\u201190\u202f% isopropyl alcohol, 0.05\u202f% sodium hypochlorite, quaternary ammonium, or iodophor. Avoid phenolics in neonatal areas."
+                        }
+                    ]
+                },
+                {
+                    "id": "infection_image",
+                    "title": "Infection\u2011prevention illustration",
+                    "content": "",
+                    "images": [
+                        {
+                            "src": "../images/coin145.png",
+                            "alt": "Hand hygiene and equipment cleaning"
+                        }
+                    ]
+                }
+            ],
+            "images": []
+        },
+        {
+            "id": "Complications",
+            "title": "Complications",
+            "content": "Both clinical and device\u2011related complications can occur with phototherapy.",
+            "subsections": [
+                {
+                    "id": "clinical_complications",
+                    "title": "CLINICAL COMPLICATIONS",
+                    "content": "Dehydration, hypothermia, retinal damage, eye infections, bronze\u2011baby syndrome, and acute bilirubin encephalopathy (kernicterus).",
+                    "images": [
+                        {
+                            "src": "../images/coin146.png",
+                            "alt": "Illustration of clinical complications"
+                        }
+                    ]
+                },
+                {
+                    "id": "device_complications",
+                    "title": "DEVICE COMPLICATIONS",
+                    "content": "Loss of therapeutic output after 20\u202f000\u201150\u202f000\u202fh of use; regular irradiance testing required.",
+                    "images": []
+                }
+            ],
+            "images": []
+        },
+        {
+            "id": "Maintenance",
+            "title": "Care & Maintenance",
+            "content": "Basic first\u2011line care to prolong equipment life.",
+            "subsections": [
+                {
+                    "id": "power_source",
+                    "title": "POWER SOURCE",
+                    "content": "Units may be mains\u2011powered or battery\u2011backed depending on model.",
+                    "images": []
+                },
+                {
+                    "id": "ward_location",
+                    "title": "WARD LOCATION",
+                    "content": "Typically rolling units with caster wheels; can be moved bedside as needed.",
+                    "images": []
+                },
+                {
+                    "id": "preventive_maintenance",
+                    "title": "USER PREVENTIVE MAINTENANCE",
+                    "content": "Test light output weekly with a phototherapy light meter (see \u2018Setting up for a patient\u2019).",
+                    "images": []
+                }
+            ],
+            "images": []
+        },
+        {
+            "id": "Troubleshooting",
+            "title": "Troubleshooting & Repair",
+            "content": "First\u2011line steps before contacting biomedical engineering.",
+            "subsections": [
+                {
+                    "id": "trouble_01",
+                    "title": "The phototherapy light does not turn on",
+                    "content": "Check power cable, switch and outlet (7.1). If still non\u2011functional, contact maintenance.",
+                    "images": [
+                        {
+                            "src": "../images/coin147.png",
+                            "alt": "Power cable and switch inspection"
+                        },
+                        {
+                            "src": "../images/coin147a.png",
+                            "alt": "Unit power indicator"
+                        }
+                    ]
+                },
+                {
+                    "id": "trouble_02",
+                    "title": "The phototherapy light turns on, but only some lights are functional",
+                    "content": "Contact maintenance for bulb replacement. Verify you have switched on the blue therapeutic lights, not just the white examination lights (7.2).",
+                    "images": [
+                        {
+                            "src": "../images/coin147.png",
+                            "alt": "Partial illumination issue"
+                        },
+                        {
+                            "src": "../images/coin147a.png",
+                            "alt": "Blue vs white light toggle"
+                        }
+                    ]
+                }
+            ],
+            "images": []
+        }
+    ],
+    "imageReferences": [
+        {
+            "src": "../images/coin135.png",
+            "description": "Overhead phototherapy unit \u2013 view 1"
+        },
+        {
+            "src": "../images/coin135a.png",
+            "description": "Overhead phototherapy unit \u2013 view 2"
+        },
+        {
+            "src": "../images/coin135b.png",
+            "description": "Overhead phototherapy unit \u2013 view 3"
+        },
+        {
+            "src": "../images/coin136.png",
+            "description": "Kramer scale illustration"
+        },
+        {
+            "src": "../images/coin139.png",
+            "description": "Light meter placement on mattress"
+        },
+        {
+            "src": "../images/coin139a.png",
+            "description": "Adjusting overhead light height"
+        },
+        {
+            "src": "../images/coin140.png",
+            "description": "Eye mask placement on infant"
+        },
+        {
+            "src": "../images/coin140a.png",
+            "description": "Infant positioned under overhead light"
+        },
+        {
+            "src": "../images/coin142.png",
+            "description": "Turning off the phototherapy unit"
+        },
+        {
+            "src": "../images/coin145.png",
+            "description": "Hand hygiene & equipment cleaning"
+        },
+        {
+            "src": "../images/coin146.png",
+            "description": "Clinical complications illustration"
+        },
+        {
+            "src": "../images/coin147.png",
+            "description": "Power cable & switch inspection"
+        },
+        {
+            "src": "../images/coin147a.png",
+            "description": "Unit power indicator / blue\u2011white toggle"
+        }
+    ],
+    "_source_file": "E11_phototherapy.html"
+}

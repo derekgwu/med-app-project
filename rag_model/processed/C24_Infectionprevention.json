@@ -1,0 +1,186 @@
+{
+    "title": "Infection Prevention (Chapter 24)",
+    "learningObjectives": [
+        "Understand the infection prevention principles.",
+        "Know how to minimise risk of infection within their neonatal unit."
+    ],
+    "sections": [
+        {
+            "id": "introduction",
+            "title": "Introduction",
+            "content": "Introduction of essential devices to newborn care units is critical to improving newborn survival.  Devices can increase hospital\u2011acquired infections if adequate disinfection and cleaning measures are not put into place.  This module focuses on infection\u2011control measures associated specifically with essential devices, staff and visitors.  For comprehensive guidance see local and WHO guidelines."
+        },
+        {
+            "id": "ward-infection-prevention",
+            "title": "Ward Infection Prevention",
+            "content": "Hospitals, wards, equipment and staff are all sources of infection for a baby.  Hospital\u2011acquired infections (HAI) are often caused by multidrug\u2011resistant bacteria.  Prevention strategies include hand hygiene, environmental cleanliness, medical\u2011equipment maintenance and waste disposal.  Water, Sanitation and Hygiene (WASH) are key elements.",
+            "subsections": [
+                {
+                    "id": "handwashing",
+                    "title": "Handwashing",
+                    "content": "Hand hygiene is the single most important measure to reduce transmission of infections.  All HCWs, guardians and visitors should wash hands and forearms up to the elbow with soap and water on entry, dry with single\u2011use towels, and re\u2011wash whenever visibly soiled.  Alcohol\u2011based hand\u2011rub is acceptable when hands are not visibly dirty.  Hand hygiene should be the last action before patient contact and the first action after."
+                },
+                {
+                    "id": "gloves",
+                    "title": "Gloves",
+                    "content": "Gloves protect both HCWs and patients but do not replace hand hygiene.  Wear gloves only when necessary (e.g., contact with bodily fluids, invasive procedures, contaminated surfaces) and discard immediately after use.  Perform hand washing or sanitising promptly after glove removal.",
+                    "images": [
+                        {
+                            "alt": "Glove use illustration",
+                            "url": "../images/coin169.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "dress-code",
+                    "title": "Dress Code",
+                    "content": "Staff should wear clean clothing with bare arms below the elbow.  No jewellery (except plain wedding bands) and nails must be short, natural and unvarnished.  Gowns, when used, must not be shared or reused until re\u2011washed."
+                },
+                {
+                    "id": "health-screening",
+                    "title": "Health Screening",
+                    "content": "Any HCW or guardian with an acute or transmissible infection must not be on the ward.  Guardians with acute respiratory illness should wear a mask and practise meticulous hand washing."
+                }
+            ]
+        },
+        {
+            "id": "environment",
+            "title": "Environment",
+            "subsections": [
+                {
+                    "id": "patient-isolation",
+                    "title": "Patient Isolation",
+                    "content": "Isolation policies should cohort at\u2011risk patients with similar infections.  Strict hand hygiene is required on entry and exit.  Equipment used in isolation areas must be cleaned and disinfected before returning to the main ward."
+                },
+                {
+                    "id": "equipment-cleaning",
+                    "title": "Equipment Cleaning",
+                    "content": "All neonatal equipment (suctions, CPAP, monitors, warmers, etc.) must be cleaned according to manufacturer instructions.  WHO recommends 0.5\u202f% sodium hypochlorite for surfaces contaminated with blood/body fluids; 70\u202f% alcohol for metal and rubber surfaces."
+                },
+                {
+                    "id": "cleaning-solutions",
+                    "title": "Table\u202f3.1\u202f\u2013\u202fCleaning Solutions",
+                    "type": "table",
+                    "columns": [
+                        "Disinfectant / Common Name",
+                        "Recommended Use",
+                        "User & Equipment Precautions"
+                    ],
+                    "rows": [
+                        {
+                            "disinfectant": "Sodium Hypochlorite (0.5\u202f% or 1\u202f%) \u2013 liquid bleach",
+                            "recommendedUse": "General disinfectant; kills bacteria, fungi, mycobacteria, spores & viruses; effective in hard\u2011water.",
+                            "precautions": "Use in well\u2011ventilated area; respiratory and skin irritant; wear PPE; do NOT mix with acids or ammonia (chlorine gas risk)."
+                        },
+                        {
+                            "disinfectant": "Alcohol, 70\u202f% (isopropyl, ethyl, surgical spirit)",
+                            "recommendedUse": "Smooth surfaces, tabletops, aprons, metal/rubber parts where bleach cannot be used; leaves no residue.",
+                            "precautions": "Use in well\u2011ventilated area; keep away from heat sources, flames, electricity; allow to dry completely before use (fire hazard)."
+                        },
+                        {
+                            "disinfectant": "Quaternary ammonium compounds (QUAT)",
+                            "recommendedUse": "General disinfectant for surfaces/equipment contaminated with blood & body fluids; kills bacteria, fungi and some enveloped viruses; persistent activity when undisturbed.",
+                            "precautions": "Use correct dilution; do NOT kill spores, TB or non\u2011enveloped viruses; efficacy reduced by hard water, cotton/gauze, organic matter."
+                        },
+                        {
+                            "disinfectant": "Iodophor",
+                            "recommendedUse": "Primarily an antiseptic rather than a disinfectant.",
+                            "precautions": "Can damage silicone catheters."
+                        },
+                        {
+                            "disinfectant": "Improved hydrogen peroxide",
+                            "recommendedUse": "General disinfectant for surfaces/equipment contaminated with blood & body fluids; unaffected by organic matter; non\u2011corrosive and safe for workers.",
+                            "precautions": "Higher cost, especially for large\u2011volume purchases."
+                        },
+                        {
+                            "disinfectant": "Phenolic germicidal detergent (Dettol, Triclosan)",
+                            "recommendedUse": "NOT recommended for neonatal wards \u2013 cheaper, safer alternatives available.",
+                            "precautions": "May cause hyperbilirubinemia and/or neurotoxicity in neonates."
+                        }
+                    ]
+                },
+                {
+                    "id": "bleach-preparation",
+                    "title": "Table\u202f3.2\u202f\u2013\u202fBleach Preparation",
+                    "type": "table",
+                    "columns": [
+                        "Product",
+                        "% Chlorine Available",
+                        "Diluting to 5\u202f% Solution"
+                    ],
+                    "rows": [
+                        {
+                            "product": "Sodium Hypochlorite (liquid bleach)",
+                            "percentChlorine": "5.25\u202f% \u2013 6.15\u202f%",
+                            "dilution": "1 part bleach\u202f:\u202f9 parts clean water (Ratio\u202f[1\u202f:\u202f9])"
+                        },
+                        {
+                            "product": "Sodium Hypochlorite (liquid bleach)",
+                            "percentChlorine": "3.5\u202f%",
+                            "dilution": "1 part bleach\u202f:\u202f6 parts clean water (Ratio\u202f[1\u202f:\u202f6])"
+                        },
+                        {
+                            "product": "NaDCC (Sodium Dichloroisocyanurate) \u2013 powder",
+                            "percentChlorine": "60\u202f%",
+                            "dilution": "8.5\u202fg powder\u202f:\u202f1\u202fL clean water (Ratio\u202f[8.5\u202fg\u202f:\u202f1\u202fL])"
+                        },
+                        {
+                            "product": "NaDCC \u2013 1.5\u202fg tablet",
+                            "percentChlorine": "60\u202f%",
+                            "dilution": "6 tablets\u202f:\u202f1\u202fL clean water (Ratio\u202f[6\u202ftablets\u202f:\u202f1\u202fL])"
+                        }
+                    ]
+                },
+                {
+                    "id": "routine-cleaning",
+                    "title": "Routine Cleaning",
+                    "content": "All horizontal surfaces (bed rails, tables, trolleys, commodes, taps, scales, etc.) must be cleaned and disinfected with an approved detergent or 0.5\u202f% chlorine/70\u202f% alcohol solution at least daily and whenever visibly soiled.  Between patient admissions, cots, incubators and patient beds must be cleaned thoroughly.  Floors, handles and other surfaces are cleaned daily per departmental policy."
+                },
+                {
+                    "id": "sharp-handling",
+                    "title": "Safe Handling of Sharps",
+                    "content": "Do NOT recap used needles, do NOT remove needles from syringes by hand, and do NOT bend or break used needles.  Place syringes, lancets, needles and other sharps promptly in puncture\u2011resistant containers."
+                }
+            ]
+        },
+        {
+            "id": "reprocessing",
+            "title": "Reprocessing Single\u2011Use Devices",
+            "content": "All single\u2011use devices should be used once, but in resource\u2011limited settings they are often reused.  Departmental policy must be strictly followed; cleaning must occur promptly after use.  Respiratory circuits, tubing and equipment are commonly reprocessed, whereas syringes, needles and disposable gloves must never be reprocessed."
+        },
+        {
+            "id": "key-facts",
+            "title": "Key Facts for Providers \u2013 Infection Prevention",
+            "type": "list",
+            "items": [
+                "Hospitals, wards, equipment and staff are all sources of infection for a baby, the family and health workers.",
+                "Infections cause major morbidity, mortality and prolonged hospital stays; neonates are especially vulnerable.",
+                "Control of HAI must include hand hygiene, environmental cleanliness, medical\u2011equipment maintenance, and waste disposal.",
+                "The two most important forms of infection control are hand washing and health screening.",
+                "Hand hygiene is the single most important measure to reduce transmitting infections.",
+                "Health\u2011care workers and guardians at risk of transmitting or acquiring infections should not be on the ward.",
+                "Facility dress code should be adhered to prevent infections.",
+                "Infection\u2011prevention and cleaning protocols must be followed for equipment, linen, feed preparations and all procedures.",
+                "Isolation facilities should be available for high\u2011risk or infectious patients."
+            ]
+        },
+        {
+            "id": "references",
+            "title": "References",
+            "type": "list",
+            "items": [
+                "Water, sanitation, hygiene and health: a primer for health professionals. Geneva: World Health Organization; 2019 (WHO/CED/PHE/WSH/19.149). Licence: CC BY\u2011NC\u2011SA 3.0 IGO.",
+                "World Health Organization, Regional Office for the Western Pacific, & Regional Office for South\u2011East Asia. Practical guidelines for infection control in health\u2011care facilities. 2004.",
+                "Sharma, G. Infection Prevention and Control at Neonatal Intensive Care Units. 134.",
+                "Curless MS, Ruparelia CS, Thompson E, Trexler PA (eds). Infection Prevention and Control: Reference Manual for Health Care Facilities with Limited Resources. Jhpiego; 2018."
+            ]
+        }
+    ],
+    "images": [
+        {
+            "alt": "Glove use illustration",
+            "url": "../images/coin169.png"
+        }
+    ],
+    "_source_file": "C24_Infectionprevention.html"
+}

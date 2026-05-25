@@ -1,0 +1,155 @@
+{
+    "title": "Fluid Management in a NYI (Chapter 12)",
+    "learningObjectives": [
+        "Describe how maintenance fluids (feeds) and maintenance fluids (intravenous) are calculated according to weight and age.",
+        "List indications for intravenous (IV) fluids.",
+        "Describe how to monitor a NYI who is receiving IV fluids.",
+        "Describe when and how to introduce oral fluids (feeds)."
+    ],
+    "sections": [
+        {
+            "title": "Feeding",
+            "id": "feeding",
+            "subsections": [
+                {
+                    "title": "Exclusive Breastfeeding & General Feeding Principles",
+                    "id": null,
+                    "contentSummary": "Breastfeeding is the preferred method for most newborn infants (NYI).  If breastfeeding on demand is impossible, expressed breast milk is given.  Maintenance fluid needs replace losses and are calculated on the infant\u2019s age and weight.  Early feeds are small and increased gradually; feeds are given every 2\u20113\u202fhours via naso\u2011/oro\u2011gastric tube or cup depending on maturity."
+                },
+                {
+                    "title": "Calculation of Feeds for NYI (breast milk)",
+                    "id": "maintenance",
+                    "contentSummary": "Table\u2011based daily fluid requirements: Day\u202f1\u202f=\u202f60\u202fml/kg/day, Day\u202f2\u202f=\u202f90\u202fml/kg/day, Day\u202f3\u202f=\u202f120\u202fml/kg/day, Day\u202f4\u202f=\u202f150\u202fml/kg/day, Day\u202f7 & low\u2011birth\u2011weight infants can be increased to 180\u202fml/kg/day once oral feeds are tolerated.",
+                    "tables": [
+                        {
+                            "header": [
+                                "Day of Life",
+                                "How to calculate maintenance fluid requirements"
+                            ],
+                            "rows": [
+                                [
+                                    "Day 1",
+                                    "60\u202fml/kg per day"
+                                ],
+                                [
+                                    "Day 2",
+                                    "90\u202fml/kg per day"
+                                ],
+                                [
+                                    "Day 3",
+                                    "120\u202fml/kg per day"
+                                ],
+                                [
+                                    "Day 4",
+                                    "150\u202fml/kg per day"
+                                ],
+                                [
+                                    "Day 7 and LBW",
+                                    "Increase to 180\u202fml/kg per day after a few days if oral feeds are tolerated"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Feeding of Premature Infants",
+                    "id": null,
+                    "contentSummary": "Infants <\u202f34\u202fweeks gestation may not be able to breastfeed; they receive tube or cup feeds, given in smaller volumes more frequently (ideally every 2\u202fhours, sometimes hourly).  Reference wall\u2011charts provide volume calculations based on age, maturity and feeding frequency."
+                }
+            ],
+            "imageLinks": []
+        },
+        {
+            "title": "Intravenous Fluids",
+            "id": "iv",
+            "subsections": [
+                {
+                    "title": "Indications / Contra\u2011indications for Oral Feeding",
+                    "id": null,
+                    "contentSummary": "IV fluids are indicated when oral feeding is contraindicated (medical or surgical).  Medical reasons include severe/recurrent apnoea, severe respiratory distress, frequent convulsions, unconsciousness.  Surgical reasons include bowel obstruction, necrotising enterocolitis, abdominal wall defects (relative), tracheo\u2011oesophageal fistula.",
+                    "tables": [
+                        {
+                            "header": [
+                                "Medical",
+                                "Surgical"
+                            ],
+                            "rows": [
+                                [
+                                    "Severe or recurrent apnoea\nSevere respiratory distress\nFrequent convulsions\nUnconsciousness",
+                                    "Bowel obstruction\nNecrotising enterocolitis\nAbdominal wall defects (relative)\nTracheo\u2011oesophageal fistula"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Which fluid?",
+                    "id": "maintenanceiv",
+                    "contentSummary": "Maintenance fluid replaces losses and is calculated from age and weight; IV fluids should not exceed 100\u202fml/kg/day to avoid over\u2011hydration.  Wall\u2011charts give hourly rates based on weight/age.  When a syringe pump is unavailable, drip rate is calculated using drops per ml of the giving set (20, 15 or 60 drops/ml).",
+                    "tables": [
+                        {
+                            "header": [
+                                "How many drops in one ml of fluid?"
+                            ],
+                            "rows": [
+                                [
+                                    "1\u202fml\u202f=\u202f20 drops (most common)\n1\u202fml\u202f=\u202f15 drops (for blood)\n1\u202fml\u202f=\u202f60 drops (paediatric)"
+                                ]
+                            ]
+                        },
+                        {
+                            "header": [
+                                "Formula for drip rate"
+                            ],
+                            "rows": [
+                                [
+                                    "Amount of fluid (ml) \u00d7 drops/ml \u00f7 time (minutes) = drops/minute\nExample: 40\u202fml/hr with 20\u2011drop set \u2192 (40\u202f\u00d7\u202f20)/60 = 13 drops/min"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Monitor the IV infusion very carefully",
+                    "id": "monitor",
+                    "contentSummary": "Use a monitoring sheet, calculate and check drip rate and infused volume each hour.  Clinical monitoring includes heart rate, pulse volume, respiratory rate, skin perfusion, oedema/puffy eyes, daily weight, urine output, and inspection of cannula site.  Weight and urine output are the best overall guides to fluid adequacy.  Oral feeds are introduced when safe, IV rates are reduced accordingly, and IV fluids are discontinued once oral intake reaches \u2248\u202f2/3 of total requirements."
+                },
+                {
+                    "title": "Introducing enteral feeds when the baby has been on IV fluids",
+                    "id": "introduce",
+                    "contentSummary": "If the infant is stable and there is no contraindication, start enteral feeds at 10\u202fml/kg/day, check residual volume before next feed, and increase slowly while weaning IV fluids.  If residual >\u202f25\u202f% or abdominal distension, do not increase volume.  Vomiting warrants restarting IV fluids and stopping enteral feeds.  If a contraindication exists, continue IV fluids and restrict fluids if signs of overload appear (weight gain, tachycardia, fast breathing, oedema, puffy eyes, excessive urine output).",
+                    "tables": [
+                        {
+                            "header": [
+                                "If stable and feeds are not contraindicated",
+                                "If there is a contraindication to oral fluids/feeds"
+                            ],
+                            "rows": [
+                                [
+                                    "Start enteral feeds 10\u202fml/kg/day\nMeasure residual volume before next feed\nIf residual >\u202f25\u202f% or abdominal distension \u2192 do not increase volume\nIf tolerated \u2192 slowly increase feeds and wean IV fluids when oral intake \u2248\u202f2/3 maintenance\nIf vomiting \u2192 restart IV fluids, stop enteral feeds",
+                                    "Continue IV fluids according to age\nDo not increase fluids; consider restricting if:\n- Weight gain\n- Tachycardia\n- Fast breathing\n- Oedema\n- Puffy eyes\n- Excessive urine output"
+                                ]
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "imageLinks": []
+        },
+        {
+            "title": "E 10 Use of the Syringe Driver (Pump) \u2013 Kasupe",
+            "id": null,
+            "subsections": [
+                {
+                    "title": "Principles of Using a Syringe Driver",
+                    "id": null,
+                    "contentSummary": "A brief overview (link to detailed page) of the principles for using a syringe driver/pump for IV fluid administration.",
+                    "externalLink": "E10_Syringepump.html"
+                }
+            ],
+            "imageLinks": []
+        }
+    ],
+    "imageLinks": [],
+    "_source_file": "C12_fluidmanagement.html"
+}

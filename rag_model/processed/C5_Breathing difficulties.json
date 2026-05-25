@@ -1,0 +1,172 @@
+{
+    "title": "Breathing Difficulties in Newborns and Young Infants (Chapter\u202f5)",
+    "learningObjectives": [
+        "Describe how to manage a neonate with respiratory distress.",
+        "Define apnoea and describe how to treat and prevent apnoea.",
+        "Describe how a neonate and young infant with difficulties in breathing may present.",
+        "List the most likely causes of breathing difficulties in neonates and young infants.",
+        "Describe the management of the young infant with breathing difficulties.",
+        "Know and use equipment required for management of babies with difficulty breathing."
+    ],
+    "imageLinks": [],
+    "sections": [
+        {
+            "id": "Breathing_difficulties",
+            "title": "Breathing Difficulties in the Newborn",
+            "content": "Why are breathing difficulties in the newborn so important?\u202fBreathing difficulties are the most common way that sick neonates present to the healthcare worker. There are several different possible diagnoses and these need to be considered in order to provide the correct management.",
+            "subsections": [
+                {
+                    "id": "present",
+                    "title": "Signs and Symptoms",
+                    "type": "list",
+                    "items": [
+                        "Grunting",
+                        "Nasal flaring",
+                        "Cyanosis",
+                        "Fast breathing \u2013 respiratory rate of more than 60\u202fbpm",
+                        "Severe lower chest wall in\u2011drawing",
+                        "Head nodding"
+                    ]
+                },
+                {
+                    "id": "causes",
+                    "title": "Possible Causes \u2013 Newborn",
+                    "type": "list",
+                    "items": [
+                        "Respiratory Distress Syndrome (RDS) \u2013 common in premature neonates",
+                        "Transient Tachypnoea of the Newborn (TTN) \u2013 common after Caesarean or quick delivery",
+                        "Sepsis \u2013 more common in very premature or with risk factors",
+                        "Persistent Pulmonary Hypertension of the Newborn (PPHN)",
+                        "Pneumonia",
+                        "Meconium aspiration",
+                        "Birth asphyxia",
+                        "Seizures"
+                    ]
+                },
+                {
+                    "id": "RDS",
+                    "title": "Respiratory Distress Syndrome",
+                    "type": "paragraph",
+                    "content": "Respiratory Distress Syndrome (RDS) occurs primarily in premature infants; its incidence is inversely related to gestational age and birthweight. It occurs in 60\u201380\u202f% of infants\u202f<\u202f28\u202fweeks, 15\u201330\u202f% of those 32\u201136\u202fweeks, about 5\u202f% beyond 37\u202fweeks and rarely at term. Surfactant deficiency is the primary cause. Risk is increased by maternal diabetes, multiple births, Caesarean section, precipitous delivery, asphyxia, cold stress and a history of previously affected infants; reduced by antenatal steroid use. Management includes oxygen, CPAP, ventilation, antibiotics and NGT. Newborns usually develop RDS within 3\u202fdays of birth."
+                },
+                {
+                    "id": "management",
+                    "title": "Management of Respiratory Distress Syndrome (RDS)",
+                    "type": "list",
+                    "items": [
+                        "Clear airway if necessary.",
+                        "Place baby in neutral (sniffing) position.",
+                        "Give oxygen via nasal cannula 0.5\u20111\u202fL/min (escalate as needed, consider early CPAP).",
+                        "Give antibiotics if distress persists after 4\u202fh or if sepsis, pneumonia or meconium aspiration is suspected.",
+                        "Position thorax 30\u00b0 upright to ease breathing.",
+                        "Treat the underlying cause if identified."
+                    ],
+                    "notes": "Consider early CPAP if severe distress does not improve; CPAP is recommended for preterm newborns with RDS as soon as the diagnosis is made."
+                },
+                {
+                    "id": "apnoea",
+                    "title": "Apnoea",
+                    "type": "paragraph",
+                    "content": "Definition: cessation of breathing for longer than 20\u202fseconds, possibly with bradycardia. May be due to prematurity or secondary to other conditions such as respiratory distress, infection, cold\u2011stress, low blood volume, hypoglycaemia, CNS disorders, perinatal compromise or prematurity."
+                },
+                {
+                    "id": "apnoea_investigations",
+                    "title": "Apnoea \u2013 Investigations (after clinical exam)",
+                    "type": "list",
+                    "items": [
+                        "Blood sugar",
+                        "Temperature",
+                        "Packed cell volume",
+                        "Sepsis work\u2011up (blood culture, urine dipstick & culture, lumbar puncture, chest X\u2011ray, full blood count, urea, creatinine and electrolytes)"
+                    ]
+                },
+                {
+                    "id": "apnoea_treatment",
+                    "title": "Apnoea \u2013 Treatment",
+                    "type": "paragraph",
+                    "content": "Determine cause and treat. General measures: tactile stimulation, correct anaemia, maintain normal temperature, correct electrolyte imbalance, look for intraventricular haemorrhage, sepsis, PDA, necrotising enterocolitis, GER and treat accordingly. Give aminophylline for prevention of apnoea of prematurity (6\u202fmg/kg PO loading dose then 2.5\u202fmg/kg BD PO). Caffeine is preferred where available."
+                },
+                {
+                    "id": "equipment",
+                    "title": "Equipment for Management of a Baby with Breathing Problems",
+                    "type": "list",
+                    "items": [
+                        "CPAP",
+                        "Pulse oximeter",
+                        "Suction pump",
+                        "Oxygen concentrator",
+                        "Oxygen splitter"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "YI",
+            "title": "Breathing Difficulties in the Young Infant",
+            "content": "Young infants with breathing difficulties present with fast breathing and feeding difficulties. On examination there may be grunting, head nodding, cyanosis, intercostal/sternal/subcostal recession; auscultation may reveal crepitations and/or wheezes.",
+            "subsections": [
+                {
+                    "id": "YI_differentials",
+                    "title": "Main Differential Diagnoses",
+                    "type": "list",
+                    "items": [
+                        "Pneumonia",
+                        "Pneumocystis jiroveci pneumonia (PJP) \u2013 if HIV exposed",
+                        "Bronchiolitis",
+                        "Tuberculosis",
+                        "Congenital heart disease"
+                    ]
+                },
+                {
+                    "id": "YI_nutrition",
+                    "title": "Supportive Treatment \u2013 Nutrition",
+                    "type": "paragraph",
+                    "content": "If breathing <\u202f60\u202fbpm, attempt breastfeeding. If the baby is struggling, switch to oro\u2011 or nasogastric tube feeds. If breathing 60\u201180\u202fbpm, give oro\u2011/nasogastric feeds every two hours with expressed breast milk (restricted maintenance volumes). If breathing >\u202f80\u202fbpm, consider IV fluids 100\u202fmL/kg/day."
+                },
+                {
+                    "id": "oxygen",
+                    "title": "Oxygen Therapy \u2013 Escalate Stepwise",
+                    "type": "paragraph",
+                    "content": "Ensure airway is clear. Start oxygen via nasal prongs/catheter 0.5\u202fL/min. Re\u2011assess after 15\u201130\u202fmin; if SpO\u2082\u202f<\u202f90\u202f% increase to 1\u202fL/min (max\u202f2\u202fL/min). Re\u2011assess after another 30\u202fmin; if still <\u202f90\u202f% give 4\u202fL/min via face mask. Consider CPAP if no improvement and no contraindications."
+                },
+                {
+                    "id": "YI_specific",
+                    "title": "Specific Treatment",
+                    "type": "paragraph",
+                    "content": "Treat with IV antibiotics if pneumonia is suspected (see wall charts for doses). Give high\u2011dose cotrimoxazole and steroids if PJP is suspected (see formulary for doses)."
+                }
+            ]
+        },
+        {
+            "id": "equipment_details",
+            "title": "Equipment Details (E\u2011series)",
+            "subsections": [
+                {
+                    "id": "E2_Pulse_oximeter",
+                    "title": "Pulse Oximeter",
+                    "type": "paragraph",
+                    "content": "Should be used for all sick or at\u2011risk patients and for anyone receiving oxygen therapy, CPAP, or assisted ventilation. See the dedicated Pulse Oximeter page for more information."
+                },
+                {
+                    "id": "E3_Oxygen_concentrator",
+                    "title": "Oxygen Concentrator",
+                    "type": "paragraph",
+                    "content": "Used when oxygen is needed for one or two patients or to share oxygen between multiple patients via a flow splitter. Indicated for sick children with hypoxia (SpO\u2082\u202f<\u202f90\u202f%). See the Oxygen Concentrator page for more information."
+                },
+                {
+                    "id": "E4_Oxygen_cylinder",
+                    "title": "Oxygen Cylinder",
+                    "type": "paragraph",
+                    "content": "Provides supplemental oxygen directly to hypoxic patients, can be shared via a flow splitter, or used with devices such as CPAP. See the Oxygen Cylinder page for more information."
+                },
+                {
+                    "id": "E5_Oxygen_splitter",
+                    "title": "Oxygen Splitter",
+                    "type": "paragraph",
+                    "content": "Allows oxygen from a single source to be delivered to more than one hypoxic patient at low flows. See the Oxygen Splitter page for more information."
+                }
+            ]
+        }
+    ],
+    "_source_file": "C5_Breathing difficulties.html"
+}

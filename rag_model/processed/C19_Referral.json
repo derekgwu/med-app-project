@@ -1,0 +1,119 @@
+{
+    "title": "Referral and Transport of the Sick NYI (Chapter 19)",
+    "learningObjectives": [
+        "List conditions that need urgent referral",
+        "List conditions that need less urgent referral",
+        "Stabilise the sick neonate before referral"
+    ],
+    "seeAlso": [
+        {
+            "text": "Neonatal Referral Form",
+            "url": "A6_Neonatalreferral.html"
+        }
+    ],
+    "sections": [
+        {
+            "id": "introduction",
+            "title": "Introduction",
+            "content": [
+                "All facilities, which do not have capacity to care for the neonate, need to refer to next level of care. Babies requiring next level care should be referred urgently. If the baby needs to be transferred to a special care neonatal unit, ensure a safe and timely transfer. It is important to prepare the baby for transfer, communicate with the receiving facility, and provide care during transfer."
+            ]
+        },
+        {
+            "id": "indications",
+            "title": "Indications of transfer to next level of care",
+            "items": [
+                "Abdominal distension with bilious vomiting and other surgical emergencies.",
+                "Major congenital malformations, such as tracheo\u2011oesophageal fistula, diaphragmatic hernia, meningomyelocele, gastroschisis.",
+                "All conditions requiring special care from facilities without a Sick Newborn Care Unit (SNCU).",
+                "Facility does not have equipment required for continued care of babies who need next level care."
+            ]
+        },
+        {
+            "id": "components-of-transport",
+            "title": "Components of Neonatal Transport",
+            "subsections": [
+                {
+                    "id": "step-1-assess",
+                    "title": "Step 1: Assess",
+                    "content": [
+                        "Determine the indication for transporting the baby to a higher health facility."
+                    ],
+                    "items": [
+                        "Make a careful assessment of the baby.",
+                        "Make sure that there is a genuine indication for referral.",
+                        "Always try to discuss with the referral centre, as in some cases there may be no benefit from transferring.",
+                        "Major congenital malformations: Infant may require urgent referral (e.g., gastrointestinal atresia, imperforate anus) or less urgent referral (e.g., meningomyelocele, spina bifida).",
+                        "Abdominal distension with bilious vomiting requires urgent referral."
+                    ]
+                },
+                {
+                    "id": "step-2-preparation",
+                    "title": "Step 2: Preparation of baby",
+                    "items": [
+                        "Stabilise the baby (including temperature, airway, breathing, circulation and blood sugar).",
+                        "Ensure baby is kept warm with kangaroo care or warmly dressed and covered.",
+                        "Provide oxygen if indicated (tank of oxygen or portable concentrator, if available).",
+                        "Secure IV line if necessary and give treatment before transfer, including the first dose of antibiotics.",
+                        "Continue monitoring and management while awaiting transport."
+                    ]
+                },
+                {
+                    "id": "step-3-notes-and-arrangements",
+                    "title": "Step 3: Prepare for transport, including writing a referral note",
+                    "items": [
+                        "Counsel the parents and family before transport.",
+                        "Arrange a capable healthcare provider, the mother, and a relative to accompany (if available).",
+                        "Ensure the mother comes along with the baby, if possible.",
+                        "Communicate with and write a note to the referral hospital, explaining the need for referral.",
+                        "If possible, speak directly with the referral facility about the patient\u2019s condition and the decision to refer \u2013 this helps them prepare and may avoid unnecessary referrals.",
+                        "Write a precise note for the receiving providers covering the baby\u2019s condition, pregnancy, labour and delivery history, investigation results, reasons for referral, and treatment given.",
+                        "Send ALL X\u2011rays and investigation results with the infant.",
+                        "Assemble supplies and equipment needed for transport.",
+                        "Bring extra drugs for the journey (e.g., anticonvulsants, IV fluids, IV glucose)."
+                    ]
+                },
+                {
+                    "id": "step-4-care-during-transport",
+                    "title": "Step 4: Care of neonate during transport",
+                    "items": [
+                        "The neonate must be escorted by a competent health worker with equipment to manage emergencies.",
+                        "Keep the baby warm during transfer \u2013 KMC (mother/father/guardian) or proper wrapping, or a transport incubator if available.",
+                        "Provide oxygen if indicated.",
+                        "Ensure neonate receives feeds or fluids.",
+                        "Monitor frequently (temperature, airway, breathing, circulation, IV line, infusion).",
+                        "Stop the ambulance/vehicle to manage problems if necessary."
+                    ]
+                },
+                {
+                    "id": "step-5-feedback",
+                    "title": "Step 5: Feedback by tertiary hospital",
+                    "items": [
+                        "Communicate with the referring team and inform them of:",
+                        {
+                            "sublist": [
+                                "Diagnosis of the condition.",
+                                "Outcome of the baby, post\u2011discharge advice, and follow\u2011up."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "key-facts",
+            "title": "Key Facts for Providers: Referral and Transport of Sick Neonate",
+            "items": [
+                "Be clear about indications for transfer to another facility.",
+                "Communicate with the facility you are referring to for pre\u2011referral care and so that they can prepare for the patient.",
+                "Prepare the patient \u2013 ensure they are stable, kept warm during the transfer, provide appropriate pre\u2011referral treatment.",
+                "Write a clear referral note and send relevant documentation including tests and interventions done.",
+                "Ensure transport is available and appropriate.",
+                "Ensure ongoing care for the patient as they await transport.",
+                "Follow up the patient for feedback."
+            ]
+        }
+    ],
+    "imageLinks": [],
+    "_source_file": "C19_Referral.html"
+}

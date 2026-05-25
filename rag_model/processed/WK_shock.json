@@ -1,0 +1,36 @@
+{
+    "title": "Wall Chart K \u2013 Giving Fluids for Shock or Impaired Circulation",
+    "metadata": {
+        "source": "wall\u2011chart.html",
+        "viewport": "width=device-width, initial-scale=1.0",
+        "styleSheet": "../include/layout.css",
+        "encoding": "utf-8"
+    },
+    "sections": [
+        {
+            "title": "Wall Chart K \u2013 Giving Fluids for Shock or Impaired Circulation",
+            "learningObjectives": [],
+            "subsections": [],
+            "notes": [
+                "Zoom in to see details"
+            ],
+            "references": [
+                {
+                    "text": "Chapter on shock",
+                    "href": "C14_Shock.html",
+                    "type": "seeAlso"
+                }
+            ],
+            "images": [
+                {
+                    "id": "chart",
+                    "src": "../images/coin149.png",
+                    "alt": "Wall Chart K \u2013 Giving Fluids for Shock or Impaired Circulation",
+                    "description": "Chart that illustrates fluid\u2011administration guidelines for patients in shock or with impaired circulation.",
+                    "maxWidth": "100%"
+                }
+            ]
+        }
+    ],
+    "_source_file": "WK_shock.html"
+}

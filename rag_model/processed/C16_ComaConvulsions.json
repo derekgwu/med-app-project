@@ -1,0 +1,208 @@
+{
+    "title": "Coma and Convulsions (Chapter 16)",
+    "learningObjectives": [
+        "Describe the assessment (AVPU) of a NYI in a coma.",
+        "Describe the management of a NYI in a coma.",
+        "Describe the assessment of a NYI with a convulsion.",
+        "Describe the step\u2011wise management of a NYI with a convulsion."
+    ],
+    "sections": [
+        {
+            "id": "coma",
+            "title": "Key Facts for Providers \u2013 How to Assess the NYI for Coma",
+            "content": "The AVPU scale is used to assess a newborn/infant\u2019s level of consciousness.",
+            "subsections": [
+                {
+                    "title": "AVPU Scale",
+                    "items": [
+                        "A \u2013 Alert",
+                        "V \u2013 Responds to Voice",
+                        "P \u2013 Responds to Pain (rub sternum)",
+                        "U \u2013 Unresponsive to voice/shake and pain \u2192 Unconscious"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "assessment",
+            "title": "How to Assess for Convulsions",
+            "content": "Assessment is based on observation of the child and history from the parent. Seizures in neonates may be subtle (facial twitching, apnea, lip\u2011smacking, eye/hand/foot movements).",
+            "subsections": [
+                {
+                    "title": "Common Causes in Neonates (percent prevalence)",
+                    "table": [
+                        {
+                            "cause": "Hypoxic\u2011Ischaemic Encephalopathy (HIE)",
+                            "prevalence": "38\u201148%"
+                        },
+                        {
+                            "cause": "Hypoglycaemia",
+                            "prevalence": "3\u20117.5%"
+                        },
+                        {
+                            "cause": "Hypocalcaemia",
+                            "prevalence": "2.3\u20119%"
+                        },
+                        {
+                            "cause": "Central Nervous System infections",
+                            "prevalence": "5.5\u201110.3%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "compare",
+            "title": "Comparing Tetanus and Convulsions",
+            "content": "",
+            "table": [
+                {
+                    "Tetanus": "Conscious",
+                    "Convulsions": "Unconscious"
+                },
+                {
+                    "Tetanus": "Increases with tactile stimulation, wind, light and noise",
+                    "Convulsions": "Does not change in response to stimulation"
+                }
+            ]
+        },
+        {
+            "id": "management",
+            "title": "Management of Coma and Convulsion",
+            "content": "Treatment of coma and convulsion is similar and is described together.",
+            "subsections": []
+        },
+        {
+            "id": "convulsion",
+            "title": "Management of Convulsion",
+            "content": "Airway management: gentle suction, place infant on side, start oxygen, do NOT insert objects into mouth.",
+            "subsections": [
+                {
+                    "title": "Initial Management \u2013 Side\u2011by\u2011Side Comparison",
+                    "table": [
+                        {
+                            "Coma": "Manage the airway",
+                            "Convulsion": "Manage the airway"
+                        },
+                        {
+                            "Coma": "Position the child",
+                            "Convulsion": "Position the child"
+                        },
+                        {
+                            "Coma": "Consider Guedel airway",
+                            "Convulsion": "Check the blood sugar"
+                        },
+                        {
+                            "Coma": "Check the blood sugar",
+                            "Convulsion": "Give IV glucose if low"
+                        },
+                        {
+                            "Coma": "Give IV glucose if low",
+                            "Convulsion": "Give anticonvulsant if still seizing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "anticonvulsant",
+            "title": "Algorithm for Managing Convulsions",
+            "content": "",
+            "subsections": [
+                {
+                    "title": "Infant from birth up to 2\u202fweeks of age with seizures",
+                    "image": {
+                        "url": "../images/coin153.png",
+                        "description": "Algorithm \u2013 Infant \u22642\u202fweeks"
+                    },
+                    "note": "Phenobarbitone preparation assumed 200\u202fmg/ml; dose is 20\u202fmg/kg."
+                },
+                {
+                    "title": "Managing seizures beyond 2\u202fweeks of age",
+                    "image": {
+                        "url": "../images/coin154.png",
+                        "description": "Algorithm \u2013 Infant >2\u202fweeks"
+                    },
+                    "note": "Phenobarbitone preparation assumed 200\u202fmg/ml; dose is 20\u202fmg/kg."
+                },
+                {
+                    "title": "Loading Dose of Phenobarbitone for Young Infants",
+                    "content": "Phenobarbitone IV dose 20\u202fmg/kg (200\u202fmg/ml).",
+                    "table": [
+                        {
+                            "Weight (kg)": "\u2264\u202f2",
+                            "Initial Dose (ml)": "0.2",
+                            "Repeat Dose (ml)": "0.2"
+                        },
+                        {
+                            "Weight (kg)": "2\u20114",
+                            "Initial Dose (ml)": "0.3",
+                            "Repeat Dose (ml)": "0.3"
+                        }
+                    ],
+                    "note": "Phenobarbitone is usually given IM, not IV."
+                },
+                {
+                    "title": "Dosage of Diazepam",
+                    "list": [
+                        "Given rectally using a 10\u202fmg/2\u202fml solution."
+                    ],
+                    "table": [
+                        {
+                            "Age / Weight": "2\u202fweeks\u20112\u202fmonths (<\u202f4\u202fkg)",
+                            "Dose": "0.3\u202fml (\u22480.4\u202fmg/kg)"
+                        }
+                    ],
+                    "note": "Do NOT give in babies <\u202f2\u202fweeks \u2013 may cause respiratory arrest."
+                },
+                {
+                    "title": "Paraldehyde Dosage",
+                    "list": [
+                        "Preferably given rectally."
+                    ],
+                    "table": [
+                        {
+                            "Weight (kg)": "2",
+                            "Dose IM": "0.4\u202fml",
+                            "Dose PR": "0.8\u202fml"
+                        },
+                        {
+                            "Weight (kg)": "3",
+                            "Dose IM": "0.6\u202fml",
+                            "Dose PR": "1.2\u202fml"
+                        },
+                        {
+                            "Weight (kg)": "4",
+                            "Dose IM": "0.8\u202fml",
+                            "Dose PR": "1.6\u202fml"
+                        }
+                    ],
+                    "note": "Do not leave in plastic syringe >\u202f10\u201115\u202fmin; never give IV."
+                }
+            ]
+        },
+        {
+            "id": "summary",
+            "title": "Key Facts for Providers \u2013 How to Assess and Manage the NYI for Coma and Convulsions",
+            "content": "",
+            "list": [
+                "Assess conscious level using AVPU scale",
+                "Manage airway, breathing and circulation",
+                "Always check blood glucose and correct hypoglycaemia",
+                "Give appropriate anticonvulsants when indicated",
+                "Follow step\u2011wise initial management table (airway, positioning, glucose, drugs)"
+            ]
+        }
+    ],
+    "imageLinks": [
+        {
+            "description": "Algorithm for managing convulsions \u2013 Infant up to 2\u202fweeks",
+            "url": "../images/coin153.png"
+        },
+        {
+            "description": "Algorithm for managing convulsions \u2013 Infant beyond 2\u202fweeks",
+            "url": "../images/coin154.png"
+        }
+    ],
+    "_source_file": "C16_ComaConvulsions.html"
+}

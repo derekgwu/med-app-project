@@ -1,0 +1,194 @@
+{
+    "title": "Birth Asphyxia / Hypoxic Ischaemic Encephalopathy (HIE)",
+    "chapter": "8",
+    "learningObjectives": [
+        {
+            "id": "identify",
+            "text": "Identify Hypoxic Ischaemic Encephalopathy"
+        },
+        {
+            "id": "classify",
+            "text": "Classify Hypoxic Ischaemic Encephalopathy"
+        },
+        {
+            "id": "management",
+            "text": "Describe the management of babies who have Hypoxic Ischaemic Encephalopathy"
+        }
+    ],
+    "sections": [
+        {
+            "id": "identify",
+            "title": "Hypoxic Ischemic Encephalopathy (HIE)",
+            "content": [
+                "HIE is also called birth asphyxia and neonatal encephalopathy. It is very common in Malawi, making optimal management of these newborns essential.",
+                "Lack of oxygen supply to organs before, during, or immediately after birth results in HIE, recognised by delayed onset of breathing or crying. Clinical features that evolve over the first 2\u20113 days of life include irritability, lethargy or coma, hypotonia or hypertonia, convulsions, apnoea, temperature instability, poor suck, and feeding difficulty. Diagnosis in pre\u2011term infants is difficult because prematurity itself can cause hypotonia.",
+                "Suspect HIE in a baby with some or all of the following:",
+                "- Foetal bradycardia",
+                "- Prolonged second stage of labour",
+                "- Required bag\u2011and\u2011mask ventilation for >\u202f5\u202fmin",
+                "- Required cardiac massage",
+                "- Irritability, hypotonia, seizures, poor suck, poor colour",
+                "- High lactate on cord blood",
+                "- APGAR score <\u202f7 at 5\u202fmin"
+            ],
+            "subsections": [],
+            "imageLinks": []
+        },
+        {
+            "id": "APGAR",
+            "title": "Scoring System for APGAR Score",
+            "content": [
+                "The APGAR score is used to assess the newborn\u2019s condition at 1 and 5\u202fminutes after birth. A score <\u202f7 at 5\u202fminutes is a red flag for possible HIE."
+            ],
+            "subsections": [],
+            "imageLinks": [
+                {
+                    "src": "../images/coin100.png",
+                    "description": "APGAR scoring chart",
+                    "caption": null
+                }
+            ]
+        },
+        {
+            "id": "classify",
+            "title": "Classification of Severity of Hypoxic Ischaemic Encephalopathy (HIE)",
+            "content": [
+                "Severity is classified into mild, moderate, and severe based on clinical features (consciousness, tone, seizures, and sucking/respiration). Babies with mild or moderate HIE generally have a good prognosis, whereas severe HIE is associated with poor outcomes."
+            ],
+            "tables": [
+                {
+                    "title": "Features by severity",
+                    "headers": [
+                        "Feature",
+                        "Mild",
+                        "Moderate",
+                        "Severe"
+                    ],
+                    "rows": [
+                        [
+                            "Consciousness",
+                            "Irritability",
+                            "Lethargy",
+                            "Comatose"
+                        ],
+                        [
+                            "Tone",
+                            "Hypotonia",
+                            "Marked hypotonia",
+                            "Severe hypotonia"
+                        ],
+                        [
+                            "Seizures",
+                            "No",
+                            "Yes",
+                            "Prolonged"
+                        ],
+                        [
+                            "Sucking/respiration",
+                            "Poor suck",
+                            "Unable to suck",
+                            "Unable to sustain adequate regular spontaneous respiration"
+                        ]
+                    ]
+                }
+            ],
+            "subsections": [
+                {
+                    "title": "Distinguishing Between Convulsions and Jitteriness",
+                    "content": [
+                        "Most children with HIE present with convulsions; however, these may be subtle and need to be differentiated from jitteriness."
+                    ],
+                    "tables": [
+                        {
+                            "title": "Convulsions vs. Jitteriness",
+                            "headers": [
+                                "Convulsions",
+                                "Jitteriness"
+                            ],
+                            "rows": [
+                                [
+                                    "Both fast and slow components; slow movements (1\u20113 jerks per second).",
+                                    "Fast movements (4\u20116 per second); tremors are of equal amplitude."
+                                ],
+                                [
+                                    "Not provoked by stimulation.",
+                                    "Provoked by stimulation."
+                                ],
+                                [
+                                    "Does not stop with restraint.",
+                                    "Stops with restraint."
+                                ],
+                                [
+                                    "Neurological examination often abnormal.",
+                                    "Neurological examination usually normal."
+                                ],
+                                [
+                                    "Often associated with eye movements (tonic deviation of the pupil) or blinking.",
+                                    "Not associated with eye movements or autonomic changes."
+                                ]
+                            ]
+                        }
+                    ],
+                    "imageLinks": []
+                }
+            ],
+            "imageLinks": []
+        },
+        {
+            "id": "management",
+            "title": "Management of Birth Asphyxia / HIE",
+            "content": [
+                "Management focuses on supportive care, seizure control, maintenance of temperature, glucose, fluids, and feeding, and careful documentation and follow\u2011up."
+            ],
+            "subsections": [
+                {
+                    "title": "Key Facts for Providers \u2013 Supportive Management of Birth Asphyxia",
+                    "content": [
+                        "Check for emergency signs (ABC) and provide emergency care.",
+                        "Place the baby under a radiant warmer to maintain normal temperature while preventing hyperthermia.",
+                        "Check blood glucose; treat hypoglycaemia if present, otherwise re\u2011check every 12\u202fhours.",
+                        "Provide maintenance intravenous fluids using wall charts after stabilising emergency signs.",
+                        "Consider enteral feeding if no emergency signs or abdominal distension. Initiate breast feeding if sucking is good; otherwise, tube\u2011feed expressed breast milk using wall\u2011chart\u2011derived volumes."
+                    ],
+                    "imageLinks": []
+                },
+                {
+                    "title": "Management of Convulsions",
+                    "content": [
+                        "Refer to the dedicated convulsion management protocol (link provided in the original document)."
+                    ],
+                    "imageLinks": []
+                }
+            ],
+            "imageLinks": [
+                {
+                    "src": "../images/coin101.png",
+                    "description": "Flow diagram of HIE management (zoom for details)",
+                    "caption": null
+                }
+            ]
+        },
+        {
+            "id": "documentation",
+            "title": "Documentation, Discharge and Follow\u2011up",
+            "content": [
+                "Document the case in the health passport and classify HIE as mild, moderate, or severe.",
+                "If severe, arrange a physiotherapy appointment (initially floppy infants often become stiff, requiring the mother to learn massage and basic physiotherapy skills).",
+                "Schedule follow\u2011up at 6\u202fmonths focusing on head growth, general health, and motor neuro\u2011development. Further assessments at 12\u201124\u202fmonths should concentrate on cognitive and language development."
+            ],
+            "subsections": [],
+            "imageLinks": []
+        }
+    ],
+    "globalImageLinks": [
+        {
+            "src": "../images/coin100.png",
+            "description": "APGAR scoring chart"
+        },
+        {
+            "src": "../images/coin101.png",
+            "description": "Management flow diagram for Birth Asphyxia/HIE"
+        }
+    ],
+    "_source_file": "C8_Asphyxia.html"
+}

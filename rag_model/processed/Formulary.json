@@ -1,0 +1,491 @@
+{
+    "title": "Formulary: Drug Doses",
+    "overview": "This list is not exhaustive. Consult appropriate reference for more details.",
+    "learningObjectives": [
+        "Identify the correct drug, route, dose, and frequency for common neonatal conditions.",
+        "Interpret dosing adjustments based on age, weight, and duration of illness.",
+        "Recognize key indications and safety notes for each medication.",
+        "Locate additional reference material via the provided \u201csee\u2011also\u201d links."
+    ],
+    "sections": [
+        {
+            "title": "Drug Doses",
+            "subsections": [
+                {
+                    "id": "Ampi",
+                    "drug": "Ampicillin",
+                    "route": "IV/IM",
+                    "dose": [
+                        "25\u202fmg/kg",
+                        "50\u202fmg/kg"
+                    ],
+                    "frequency": {
+                        "<7\u202fdays": {
+                            "BD": "weight\u202f<\u202f2\u202fkg",
+                            "TDS": "weight\u202f\u2265\u202f2\u202fkg"
+                        },
+                        "\u22657\u202fdays": {
+                            "BD": "weight\u202f<\u202f1.2\u202fkg",
+                            "TDS": "weight\u202f1.2\u20112\u202fkg",
+                            "QID": "weight\u202f>\u202f2\u202fkg"
+                        }
+                    },
+                    "indications": [
+                        {
+                            "text": "Sepsis",
+                            "link": "C15_Sepsis.html"
+                        },
+                        {
+                            "text": "Meningitis",
+                            "link": "C17_Meningitis.html"
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "id": "adrenaline",
+                    "drug": "Adrenaline",
+                    "route": "IV",
+                    "dose": [
+                        "0.1\u202fml/kg of 1:10000"
+                    ],
+                    "frequency": "STAT",
+                    "indications": [
+                        {
+                            "text": "CPR",
+                            "link": null
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "id": "aminophylline",
+                    "drug": "Aminophylline",
+                    "route": "PO",
+                    "dose": [
+                        "Loading dose: 6\u202fmg/kg",
+                        "Maintenance dose: 2.5\u202fmg/kg"
+                    ],
+                    "frequency": [
+                        "STAT",
+                        "BD"
+                    ],
+                    "indications": [
+                        {
+                            "text": "Respiratory stimulants (Apnoea)",
+                            "link": "C5_Breathing difficulties.html#apnoea"
+                        },
+                        {
+                            "text": "Preparation and dosing",
+                            "link": "WD_Antibiotic and Aminophylline doses.html#aa"
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "id": "bpen",
+                    "drug": "Benzylpenicillin",
+                    "route": "IV",
+                    "dose": [
+                        "50\u202f000\u202fIU/kg \u2013 Sepsis, Pneumonia, Syphilis etc.",
+                        "100\u202f000\u202fIU/kg \u2013 Meningitis"
+                    ],
+                    "frequency": {
+                        "<7\u202fdays": "BD",
+                        "\u22657\u202fdays": "QID"
+                    },
+                    "indications": [
+                        {
+                            "text": "Sepsis",
+                            "link": "C15_Sepsis.html"
+                        },
+                        {
+                            "text": "Syphilis",
+                            "link": "C2_Routine Care.html"
+                        },
+                        {
+                            "text": "Meningitis",
+                            "link": "C17_Meningitis.html"
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "id": "ceftriaxone",
+                    "drug": "Ceftriaxone",
+                    "route": "IV",
+                    "dose": [
+                        "Meningitis or severe infection: 100\u202fmg/kg",
+                        "Other infections: 50\u202fmg/kg"
+                    ],
+                    "frequency": "OD",
+                    "indications": [
+                        {
+                            "text": "Sepsis",
+                            "link": "C15_Sepsis.html"
+                        },
+                        {
+                            "text": "Meningitis",
+                            "link": "C17_Meningitis.html"
+                        },
+                        {
+                            "text": "Bloody diarrhoea (5\u202fdays)",
+                            "link": "C18_Diarrhoea.html#ab"
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "id": "chlorhexidine",
+                    "drug": "Chlorhexidine (CHX)",
+                    "route": "Local",
+                    "dose": [
+                        "Apply to tip of cord, the stump and around the base of the stump"
+                    ],
+                    "frequency": "STAT",
+                    "indications": [
+                        {
+                            "text": "CHX after birth",
+                            "link": "C2_Routine Care.html"
+                        }
+                    ],
+                    "notes": "Apply once within 24\u202fh after birth, preferably within the first 2\u202fh.",
+                    "imageLinks": []
+                },
+                {
+                    "drug": "Ciprofloxacin",
+                    "route": "PO",
+                    "dose": [
+                        "7.5\u202fmg/kg"
+                    ],
+                    "frequency": "OD",
+                    "indications": [
+                        {
+                            "text": "Bloody diarrhoea (3\u202fdays)",
+                            "link": "C18_Diarrhoea.html#ab"
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "drug": "Cotrimoxazole",
+                    "route": "PO",
+                    "dose": [
+                        "CPT (preventative therapy): 120\u202fmg OD (dispersible paediatric tablet or \u00bc adult tablet)",
+                        "High dose for PJP: 120\u202fmg/kg/day given 8\u2011hourly for 3\u202fweeks (max 1920\u202fmg/day)"
+                    ],
+                    "frequency": "OD",
+                    "indications": [
+                        {
+                            "text": "CPT (HIV exposure)",
+                            "link": "C2_Routine Care.html#HIV"
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "drug": "Diazepam",
+                    "route": "PR",
+                    "dose": [
+                        "0.1\u202fmg/kg",
+                        "Volume: 0.3\u202fml of 10\u202fmg/2\u202fml solution (<\u202f4\u202fkg)"
+                    ],
+                    "frequency": "STAT",
+                    "indications": [
+                        {
+                            "text": "Convulsion",
+                            "link": "C16_ComaConvulsions.html#convulsion"
+                        }
+                    ],
+                    "notes": [
+                        "Caution \u2013 respiratory depression.",
+                        "Only give if infant >\u202f2\u202fweeks old."
+                    ],
+                    "imageLinks": []
+                },
+                {
+                    "id": "fluclox",
+                    "drug": "(Flu)cloxacillin",
+                    "route": "IV/IM",
+                    "dose": [
+                        "50\u202fmg/kg"
+                    ],
+                    "frequency": {
+                        "<7\u202fdays": "BD",
+                        "\u22657\u202fdays": "QID"
+                    },
+                    "indications": [
+                        {
+                            "text": "Skin infections",
+                            "link": "C15_Sepsis.html#skin"
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "id": "gentamicin",
+                    "drug": "Gentamicin",
+                    "route": "IV/IM",
+                    "dose": [
+                        "LBW <\u202f7\u202fdays: 3\u202fmg/kg",
+                        "Term <\u202f7\u202fdays: 5\u202fmg/kg",
+                        "\u2265\u202f7\u202fdays: 7.5\u202fmg/kg"
+                    ],
+                    "frequency": "OD",
+                    "indications": [
+                        {
+                            "text": "Sepsis",
+                            "link": "C15_Sepsis.html"
+                        },
+                        {
+                            "text": "Meningitis",
+                            "link": "C17_Meningitis.html"
+                        }
+                    ],
+                    "notes": "Risk of ototoxicity and nephrotoxicity.",
+                    "imageLinks": []
+                },
+                {
+                    "drug": "Iron supplements",
+                    "route": "PO",
+                    "dose": [
+                        "2\u20134\u202fmg/kg",
+                        "Syrup usually 50\u202fmg iron/5\u202fml (10\u202fmg/ml)"
+                    ],
+                    "frequency": "OD",
+                    "indications": [
+                        {
+                            "text": "Preterm neonates (from 2\u202fweeks if tolerating full enteral feeds until 6\u202fmonths)",
+                            "link": "C9_Preterm.html#Vitamins"
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "id": "isoniazid",
+                    "drug": "Isoniazid",
+                    "route": "PO",
+                    "dose": [
+                        "If syrup available: 10\u202fmg/kg/day",
+                        "If tablets only:",
+                        "<\u202f2500\u202fg: 25\u202fmg (\u00bc tablet) q24h",
+                        "2500\u20115000\u202fg: 50\u202fmg (\u00bd tablet) q24h"
+                    ],
+                    "frequency": "OD",
+                    "indications": [
+                        {
+                            "text": "Exposure to TB",
+                            "link": "C2_Routine Care.html#Tuberculosis"
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "drug": "Metronidazole",
+                    "route": "IV",
+                    "dose": [
+                        "7.5\u202fmg/kg"
+                    ],
+                    "frequency": "TDS",
+                    "indications": [
+                        {
+                            "text": "Intra\u2011abdominal infections (e.g., NEC)",
+                            "link": null
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "drug": "Multivitamin preparation",
+                    "route": "PO",
+                    "dose": [
+                        "0.3\u20110.6\u202fml (5\u201110 drops) per day",
+                        "= vitamin\u202fA 1000\u202fIU/day & vitamin\u202fD 400\u202fIU/day"
+                    ],
+                    "frequency": "OD",
+                    "indications": [
+                        {
+                            "text": "Preterm neonates (if tolerating full feeds until 6\u202fmonths)",
+                            "link": "C9_Preterm.html#Vitamins"
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "id": "nevirapine",
+                    "drug": "Nevirapine",
+                    "route": "Oral",
+                    "dose": [
+                        "<\u202f2500\u202fg: 1\u202fml syrup",
+                        "\u2265\u202f2500\u202fg: 1.5\u202fml syrup"
+                    ],
+                    "frequency": "OD",
+                    "indications": [
+                        {
+                            "text": "Six weeks in HIV\u2011exposed neonates",
+                            "link": "C2_Routine Care.html#HIV"
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "drug": "Paraldehyde",
+                    "route": [
+                        "IM",
+                        "PR"
+                    ],
+                    "dose": [
+                        {
+                            "route": "IM",
+                            "value": "0.2\u202fml/kg (2\u202fkg\u202f\u2192\u202f0.4\u202fml; 3\u202fkg\u202f\u2192\u202f0.6\u202fml; 4\u202fkg\u202f\u2192\u202f0.8\u202fml)"
+                        },
+                        {
+                            "route": "PR",
+                            "value": "0.4\u202fml/kg (2\u202fkg\u202f\u2192\u202f0.8\u202fml; 3\u202fkg\u202f\u2192\u202f1.2\u202fml; 4\u202fkg\u202f\u2192\u202f1.6\u202fml)"
+                        }
+                    ],
+                    "frequency": "STAT (may repeat once after 10\u202fmin)",
+                    "indications": [
+                        {
+                            "text": "Convulsion",
+                            "link": "C16_ComaConvulsions.html#convulsion"
+                        }
+                    ],
+                    "notes": [
+                        "Do not leave in plastic syringe >\u202f10\u201115\u202fmin.",
+                        "Do not give IV; rectal route preferred."
+                    ],
+                    "imageLinks": []
+                },
+                {
+                    "drug": "Phenobarbitone",
+                    "route": [
+                        "IM",
+                        "PO"
+                    ],
+                    "dose": [
+                        {
+                            "route": "IM",
+                            "value": "Loading dose: 20\u202fmg/kg",
+                            "volume": "if <\u202f2\u202fkg: 0.2\u202fml; if \u2265\u202f2\u202fkg: 0.3\u202fml (200\u202fmg/ml preparation)"
+                        },
+                        {
+                            "route": "PO",
+                            "value": "Maintenance dose: 2.5\u20115\u202fmg/kg",
+                            "timing": "nocte"
+                        }
+                    ],
+                    "frequency": "STAT (may repeat once after 10\u202fmin)",
+                    "indications": [
+                        {
+                            "text": "Convulsion",
+                            "link": "C16_ComaConvulsions.html#convulsion"
+                        }
+                    ],
+                    "notes": "*Volumes assume a 200\u202fmg/ml phenobarbitone preparation.",
+                    "imageLinks": []
+                },
+                {
+                    "drug": "Prednisolone",
+                    "route": "PO",
+                    "dose": [
+                        "2\u202fmg/kg (in PJP)"
+                    ],
+                    "frequency": "OD",
+                    "indications": [
+                        {
+                            "text": "PJP treatment \u2013 7\u202fdays then taper (1\u202fmg/kg/day 7\u202fdays, then 0.5\u202fmg/kg/day 7\u202fdays)",
+                            "link": null
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "id": "teo",
+                    "drug": "Tetracycline Eye Ointment (TEO)",
+                    "route": "Local",
+                    "dose": [
+                        "Both eyes once after birth"
+                    ],
+                    "frequency": "STAT",
+                    "indications": [
+                        {
+                            "text": "At birth",
+                            "link": null
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "id": "vitk",
+                    "drug": "Vitamin\u202fK",
+                    "route": [
+                        "IM",
+                        "IV (slow)"
+                    ],
+                    "dose": [
+                        {
+                            "route": "IM",
+                            "value": "Preterm: 0.5\u202fmg; Term: 1\u202fmg"
+                        },
+                        {
+                            "route": "IV (slow)",
+                            "value": "1\u202fmg for neonatal Vit\u202fK deficiency bleeding"
+                        }
+                    ],
+                    "frequency": [
+                        {
+                            "route": "IM",
+                            "value": "STAT at birth"
+                        },
+                        {
+                            "route": "IV",
+                            "value": "STAT to TDS"
+                        }
+                    ],
+                    "indications": [
+                        {
+                            "text": "Routine care at birth (preterms/LBW)",
+                            "link": "C2_Routine Care.html"
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                },
+                {
+                    "drug": "Zinc",
+                    "route": "PO",
+                    "dose": [
+                        "\u00bd tablet (10\u202fmg) per day for 10\u202fdays"
+                    ],
+                    "frequency": "OD",
+                    "indications": [
+                        {
+                            "text": "Diarrhoea",
+                            "link": "C18_Diarrhoea.html#zinc"
+                        }
+                    ],
+                    "notes": null,
+                    "imageLinks": []
+                }
+            ]
+        }
+    ],
+    "globalImageLinks": [],
+    "_source_file": "Formulary.html"
+}

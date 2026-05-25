@@ -1,0 +1,51 @@
+{
+    "title": "Wall Chart F \u2013 Management of Hypoglycaemia",
+    "seeAlso": {
+        "text": "Hypoglycaemia",
+        "href": "C11_Hypoglycaemia.html"
+    },
+    "learningObjectives": [
+        "Identify a newborn infant (NYI) with hypoglycaemia",
+        "Manage a baby with blood glucose < 45\u202fmg/dL (2.5\u202fmmol/L) when NOT symptomatic",
+        "Manage a baby with blood glucose < 45\u202fmg/dL (2.5\u202fmmol/L) when symptomatic"
+    ],
+    "sections": [
+        {
+            "id": "chartA",
+            "title": "Chart A: Identify a NYI with Hypoglycaemia",
+            "learningObjective": "Identify a newborn infant (NYI) with hypoglycaemia",
+            "notes": "Zoom in for details.",
+            "image": {
+                "thumbnail": "../images/coin132.png",
+                "fullSize": "../images/coin132.png",
+                "description": "Diagram showing signs and assessment of a NYI with hypoglycaemia"
+            },
+            "subSections": []
+        },
+        {
+            "id": "chartB",
+            "title": "Chart B: Management if NOT symptomatic",
+            "learningObjective": "Manage a baby with blood glucose < 45\u202fmg/dL (2.5\u202fmmol/L) when NOT symptomatic",
+            "notes": "Zoom in for details.",
+            "image": {
+                "thumbnail": "../images/coin133.png",
+                "fullSize": "../images/coin133.png",
+                "description": "Algorithm for treating a non\u2011symptomatic baby with severe hypoglycaemia"
+            },
+            "subSections": []
+        },
+        {
+            "id": "chartC",
+            "title": "Chart C: Management if symptomatic",
+            "learningObjective": "Manage a baby with blood glucose < 45\u202fmg/dL (2.5\u202fmmol/L) when symptomatic",
+            "notes": "Zoom in for details.",
+            "image": {
+                "thumbnail": "../images/coin134.png",
+                "fullSize": "../images/coin134.png",
+                "description": "Algorithm for treating a symptomatic baby with severe hypoglycaemia"
+            },
+            "subSections": []
+        }
+    ],
+    "_source_file": "WF_Hypoglycaemia.html"
+}

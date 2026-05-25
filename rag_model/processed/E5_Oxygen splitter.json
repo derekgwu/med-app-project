@@ -1,0 +1,134 @@
+{
+    "title": "E5 Oxygen Splitter",
+    "overview": "A low\u2011flow oxygen splitter that allows a single oxygen source to deliver adjustable flows to multiple neonates or young infants. It is used mainly for breathing problems and must be set up, monitored, cleaned and maintained according to the guidelines below.",
+    "imageLinks": [
+        "../images/coin56.png",
+        "../images/coin57.png",
+        "../images/coin58.png",
+        "../images/coin60.png",
+        "../images/coin60a.png",
+        "../images/coin61.png",
+        "../images/coin62.png",
+        "../images/coin62a.png",
+        "../images/coin64.png",
+        "../images/coin64a.png"
+    ],
+    "sections": [
+        {
+            "id": "clinical-problem",
+            "title": "Clinical Problem",
+            "learningObjectives": [
+                "Explain when an oxygen flow splitter is indicated (multiple hypoxic patients from a single source).",
+                "Identify patient groups (neonates and young infants) that benefit from low\u2011flow delivery.",
+                "Relate the use of a flow splitter to the broader context of oxygen therapy."
+            ],
+            "contentSummary": "Flow splitters are used when oxygen from one source needs to be delivered to more than one hypoxic patient at low flows.",
+            "imageLinks": []
+        },
+        {
+            "id": "assessment",
+            "title": "Assessment",
+            "learningObjectives": [
+                "Describe the contribution of hypoxia to morbidity and mortality in newborns.",
+                "List the specifications of a typical flow splitter (0.1\u20132\u202fL/min per port, unchanged O\u2082 concentration).",
+                "Determine the appropriate flow rate for a neonate (0.5\u20131\u202fL/min) and required SpO\u2082 target (90\u201195\u202f%).",
+                "Explain how to monitor oxygen therapy using pulse oximetry."
+            ],
+            "contentSummary": "Assessment covers the clinical impact of hypoxia, device capabilities, and the target SpO\u2082 range for newborns.",
+            "imageLinks": [
+                "../images/coin56.png",
+                "../images/coin57.png",
+                "../images/coin58.png"
+            ]
+        },
+        {
+            "id": "management",
+            "title": "Management",
+            "learningObjectives": [
+                "Demonstrate the correct set\u2011up of an oxygen flow splitter for a patient.",
+                "Adjust each port\u2019s flow regulator independently and verify the set flow.",
+                "Label and number ports and tubing to avoid delivery errors.",
+                "Safely start, monitor, and discontinue oxygen delivery."
+            ],
+            "contentSummary": "Covers set\u2011up, patient preparation, ongoing care, and removal of the patient from the device.",
+            "subsections": [
+                {
+                    "id": "setting-up-for-a-patient",
+                    "title": "Setting Up for a Patient",
+                    "learningObjectives": [
+                        "Secure the splitter in an accessible location and ensure regulators are open.",
+                        "Connect inlet and outlet tubing correctly.",
+                        "Calculate the total required oxygen flow and add a safety margin.",
+                        "Turn on the oxygen source and confirm flow\u2011meter beads pop up.",
+                        "Individually adjust each port\u2019s regulator while observing L/min at eye level.",
+                        "Number ports and tubing to prevent mix\u2011ups."
+                    ],
+                    "steps": [
+                        "Secure splitter to avoid dislodgement (3.1).",
+                        "Connect splitter tubing to oxygen source (3.2).",
+                        "Assess total oxygen demand and add extra 1\u202fL/min (3.3).",
+                        "Turn on source; ensure flow\u2011meter beads appear.",
+                        "Adjust each port\u2019s regulator to required flow (3.4, 3.5).",
+                        "Number ports and label tubing."
+                    ],
+                    "imageLinks": [
+                        "../images/coin60.png",
+                        "../images/coin60a.png",
+                        "../images/coin61.png",
+                        "../images/coin62.png",
+                        "../images/coin62a.png"
+                    ]
+                }
+            ],
+            "imageLinks": []
+        },
+        {
+            "id": "infection-prevention",
+            "title": "Infection Prevention",
+            "learningObjectives": [
+                "Perform hand hygiene before and after handling the splitter or patient tubing.",
+                "Clean the housing and ports using ward\u2011approved disinfectants (soap & water, then 70\u202f% alcohol).",
+                "Follow the post\u2011use disinfection protocol after every patient encounter."
+            ],
+            "contentSummary": "Routine cleaning and disinfection are essential to prevent hospital\u2011acquired infections in newborn units.",
+            "imageLinks": []
+        },
+        {
+            "id": "complications",
+            "title": "Complications",
+            "learningObjectives": [
+                "Identify hazards related to device positioning (fall risk).",
+                "Recognise the problem of dependent flow regulation and ensure independent flow splitters are used.",
+                "Detect absent or inadequate flow at the patient interface and know when to invoke troubleshooting."
+            ],
+            "contentSummary": "Potential device\u2011related and patient\u2011related complications that could affect safety and efficacy.",
+            "imageLinks": []
+        },
+        {
+            "id": "maintenance",
+            "title": "Care & Maintenance",
+            "learningObjectives": [
+                "Understand that the splitter is a non\u2011powered device and must be mounted securely at eye level.",
+                "Perform a weekly 15\u2011minute test where each flowmeter is opened to its maximum flow.",
+                "Maintain proper ward location (wall\u2011mounted, raised edge, numbered ports) to reduce accidental falls and mis\u2011delivery."
+            ],
+            "contentSummary": "First\u2011line care and preventive maintenance actions to prolong equipment lifespan.",
+            "imageLinks": []
+        },
+        {
+            "id": "troubleshooting",
+            "title": "Troubleshooting & Repair",
+            "learningObjectives": [
+                "Systematically check the oxygen source, connections, and tubing when no flow is observed.",
+                "Isolate blockage or leakage in a single port and apply appropriate cleaning.",
+                "Recognise when to contact maintenance/engineering after basic checks fail."
+            ],
+            "contentSummary": "Step\u2011by\u2011step guidance for the most common flow\u2011related problems.",
+            "imageLinks": [
+                "../images/coin64.png",
+                "../images/coin64a.png"
+            ]
+        }
+    ],
+    "_source_file": "E5_Oxygen splitter.html"
+}

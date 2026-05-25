@@ -1,0 +1,155 @@
+{
+    "title": "Prevention and Management of Hypothermia (Chapter 10)",
+    "learningObjectives": [
+        "Measure temperature with and without a thermometer.",
+        "Classify the degree of hypothermia.",
+        "Describe how hypothermia occurs.",
+        "Describe how to prevent hypothermia in the neonate.",
+        "Describe methods to re\u2011warm a hypothermic NYI.",
+        "Know and understand the equipment used in warming the neonate."
+    ],
+    "imageLinks": [
+        "../images/coin104.png"
+    ],
+    "sections": [
+        {
+            "id": "introduction",
+            "title": "Introduction",
+            "content": "The NYI is most vulnerable to hypothermia during the first few hours after birth, although the condition may occur later too, for example during bathing, on a cold night, or during transportation, if measures to keep the baby warm are inadequate. Sick or low birth weight babies admitted to neonatal units with hypothermia are more likely to die than those admitted with normal temperatures.",
+            "subsections": [
+                {
+                    "id": "thermometer",
+                    "title": "Temperature Recording Using a Digital Thermometer",
+                    "content": "Axillary temperature: This method is the routine practice for measuring temperature. It has fewer risks than rectal measurements in terms of injury or infection. Point the tip of the thermometer to the shoulder not the bed to avoid the thermometer reading the air temperature. Record the temperature after the reading has stabilized with a bleep.\n\nRectal temperature: Do not use this method for routine monitoring. However, it is the best guide for core temperature in cold (hypothermic) sick neonates. Lubricate the thermometer, insert the tip of the thermometer into the rectum not more than an inch. Record the temperature after the reading has stabilized with a bleep."
+                },
+                {
+                    "title": "Assessment of Temperature by Touch",
+                    "content": "An easy way to assess a newborn baby\u2019s temperature is by \u201ctouch\u201d. This can be easily taught to caregivers. The baby\u2019s abdomen is felt with the back of hand and compared with their own forehead. Abdominal temperature represents the core temperature and it is reliable in the diagnosis of hypothermia. Warm and pink feet of the baby indicate that the baby is in thermal comfort. But when feet are cold and trunk is warm, it indicates that the baby has cold stress."
+                }
+            ]
+        },
+        {
+            "id": "classification",
+            "title": "Classification of Hypothermia",
+            "content": "The NYI has a normal body temperature between 36.5\u201137.4\u202f\u00b0C.\n\n**Classification table**\n- **Mild**: 36.0\u201136.4\u202f\u00b0C\n- **Moderate**: 32.0\u201135.9\u202f\u00b0C\n- **Severe**: <\u202f32\u202f\u00b0C\n\nA community\u2011based study has found that mortality increased by approximately 80\u202f% for every degree Celsius decrease in first observed axillary temperature, and that relative risk of death ranged from 2 to 30 times for moderate hypothermia, increasing with greater severity. Other epidemiological data from India, Malawi and additional studies are summarized in the source text.",
+            "subsections": [
+                {
+                    "id": "lose_heat",
+                    "title": "Four ways a neonate may lose heat to the environment",
+                    "content": "Newborn baby\u2019s temperature falls within seconds of being born and sick NYI are often hypothermic. If the temperature continues to fall the baby will become sick and may even die.",
+                    "table": [
+                        {
+                            "method": "Evaporation (e.g., wet baby)",
+                            "prevention": "Immediately after birth dry baby with a clean, pre\u2011warmed, dry cloth and then wrap in another dry warm cloth."
+                        },
+                        {
+                            "method": "Conduction (e.g., contact with a cold surface of a weighing scale)",
+                            "prevention": "Put the baby on the mother\u2019s abdomen for the first 30\u202fmin or on a warm surface, delay weighing if room too cold. Place a light, dry material in the weighing scale and zero the scale."
+                        },
+                        {
+                            "method": "Convection (e.g., exposure to draught)",
+                            "prevention": "Close the windows, switch off fans and air\u2011conditioners and, if circumstances permit, wait for the room to warm up to 25\u202f\u00b0C before performing a Caesarean section."
+                        },
+                        {
+                            "method": "Radiation (e.g., cold surroundings)",
+                            "prevention": "Provide a warm, draught\u2011free room for delivery or neonatal ward; at least 25\u202f\u00b0C."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "prevent",
+            "title": "The Warm Chain for the Newborn",
+            "content": "These are procedures to be taken at birth and during the next few hours and days in order to minimize heat loss in all newborns.",
+            "subsections": [
+                {
+                    "title": "10 steps in the warm chain",
+                    "list": [
+                        "Warm delivery room \u2013 when switching off the air conditioner wait for the room to warm to 25\u202f\u00b0C (look at the room thermometer).",
+                        "Pre\u2011warm two cloths \u2013 use one immediately to dry the baby, discard this wet cloth and wrap baby in the other dry cloth.",
+                        "Immediate drying of a baby.",
+                        "Resuscitation \u2013 environment must be warm.",
+                        "Skin\u2011to\u2011skin \u2013 administer for the first 30\u201160\u202fmin unless clinical complications; caregiver and baby must be kept together at all times.",
+                        "Breastfeeding \u2013 commence within the first hour unless clinical contraindications.",
+                        "Clothing \u2013 appropriate and warm clothing / bedding should be used.",
+                        "Transportation \u2013 ensure warmth is maintained by protecting the baby from draughts (e.g., KMC position or well wrapped with a hat).",
+                        "Bathing \u2013 delay until at least 24\u202fhours after birth.",
+                        "Training and awareness \u2013 all healthcare professionals and caregivers should be trained so the risks of hypothermia are minimised."
+                    ]
+                },
+                {
+                    "title": "Prevention of Hypothermia in the Neonate",
+                    "subsections": [
+                        {
+                            "id": "sts",
+                            "title": "Skin\u2011to\u2011skin Contact (Kangaroo Mother Care)",
+                            "content": "If there are no signs of distress, a mother can provide a warm environment with skin\u2011to\u2011skin contact for the baby. If the baby is <\u202f2500\u202fg this should be continued as KMC. Place the baby, with a nappy and hat, upright inside mother\u2019s clothing against mother\u2019s bare skin over the chest. A loose blouse, sweater, or wrap tied at the waist holds the baby. The baby should wear a hat. Let baby suckle at the breast as often as needed, but at least every 2\u202fhours."
+                        },
+                        {
+                            "id": "bathing",
+                            "title": "Postpone Bathing",
+                            "content": "Bathing should be delayed until at least 24\u202fhours after birth. Blood, meconium and some vernix will have been wiped off during drying at birth. The remaining vernix does not need to be removed; it may reduce heat loss and is re\u2011absorbed through the skin during the first days of life."
+                        },
+                        {
+                            "title": "Postpone Weighing",
+                            "content": "Weighing the baby at birth puts him/her at risk of heat loss and should be postponed for at least two hours unless the room temperature is warm."
+                        },
+                        {
+                            "id": "clothing",
+                            "title": "Appropriate Clothing and Bedding",
+                            "content": "As a rule, newborns need one or two more layers of clothing and bedding than adults. Covers should not be tight to allow air spaces between the layers as trapped air is a very efficient insulator. Keep ambient atmospheric temperature warm for the baby\u2019s weight and post\u2011natal age. Monitor body temperature every 4\u202fhours."
+                        },
+                        {
+                            "title": "Place in a hot\u2011cot (warmer) when mother cannot stay with the baby",
+                            "content": "If a baby cannot stay with their mother for KMC, a hot\u2011cot is helpful. The Blantyre hot\u2011cot is a simple incubator that uses four 60\u2011watt light bulbs to raise the air temperature within the cot by 1.5\u202f\u00b0C per bulb. A baby may need one, two, three or all four bulbs on to stay warm. Check the baby\u2019s temperature after an hour in the cot; if temperature increases, turn off two bulbs to avoid overheating and re\u2011check regularly."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "signs_symptoms",
+            "title": "Signs and Symptoms of Hypothermia",
+            "list": [
+                "Reduced activity / lethargy",
+                "Poor feeding",
+                "Weak cry",
+                "Respiratory distress",
+                "Hypoglycaemia"
+            ]
+        },
+        {
+            "id": "re-warm",
+            "title": "Treatment of Established Hypothermia in the NYI",
+            "content": "The NYI should be re\u2011warmed carefully and gradually to prevent seizures; the temperature needs to rise by 0.5\u202f\u00b0C per hour. The method selected depends on how sick the NYI is and on the availability of mother, staff and equipment.",
+            "list": [
+                "Skin\u2011to\u2011skin \u2013 ideal method for clinically stable babies; keep the baby with the mother until temperature is normal.",
+                "In a hot\u2011cot \u2013 remove cold clothes, replace with pre\u2011warmed clothes and add a hat. Functional incubators can also be used.",
+                "Radiant warmers \u2013 usually for short\u2011term use."
+            ]
+        },
+        {
+            "id": "supportive",
+            "title": "Supportive Care",
+            "list": [
+                "Continue breast\u2011feeding.",
+                "If infant too weak, give expressed breast milk by cup, spoon or oro/nasogastric tube.",
+                "Assess for infection.",
+                "Monitor oxygen saturation and heart rate.",
+                "Monitor glucose.",
+                "Measure temperature hourly until 36.5\u202f\u00b0C.",
+                "Watch for apnoea."
+            ]
+        },
+        {
+            "id": "radiant_warmer",
+            "title": "E\u202f8 Radiant Warmer",
+            "content": "Radiant warmers may be used on any neonatal patient admitted to the nursery ward, but especially for:\n\n- Initial assessment of a sick or premature baby\n- Hypothermia\n- Undertaking invasive procedures\n- Resuscitation\n- When stabilising a sick baby\n\nSee the dedicated Radiant Warmer module for more information.",
+            "seeAlso": [
+                "E8_Radiant Warmer.html"
+            ]
+        }
+    ],
+    "_source_file": "C10_Hypothermia.html"
+}

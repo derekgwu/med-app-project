@@ -1,0 +1,217 @@
+{
+    "title": "Good Clinical Practice (Chapter 23)",
+    "learningObjectives": [
+        "Know and demonstrate the key features for good communication in clinical practice."
+    ],
+    "sections": [
+        {
+            "id": "documentation",
+            "title": "Documentation is really important",
+            "content": [
+                "It is a way of communicating with our colleagues, remembering important events and monitoring progress. Good documentation prevents errors and protects both the patient and the staff.",
+                "It is essential that the mother and baby are treated as one unit. The mother needs to know what is happening to her baby and how she can help. We must make her feel welcome, important and central to the well\u2011being of her baby.",
+                "The health workers are a team. We need to communicate with each other, respect and value each other and include the mother in the care of her baby. She is an extended part of the team.",
+                "The death of a baby is devastating to the mother and the baby\u2019s family. We must be sensitive to their concern and grief, respectful of religious and cultural beliefs and be prepared to express our sorrow at their loss. Medical diagnoses and treatment given need to be explained to the family. It is important for the family to know that their loss is through no fault of the mother and she should not be blamed."
+            ]
+        },
+        {
+            "id": "communicating-in-health-care",
+            "title": "Communicating in Health Care",
+            "subsections": [
+                {
+                    "id": "who",
+                    "title": "Who do we need to communicate with?",
+                    "items": [
+                        "Colleagues \u2013 seniors/juniors; nurses and doctors, other health staff.",
+                        "Parents/guardians \u2013 explanations or breaking bad news.",
+                        "Children \u2013 explanations, reassurance."
+                    ]
+                },
+                {
+                    "id": "when",
+                    "title": "When do we need to communicate?",
+                    "items": [
+                        "Morning/evening handover",
+                        "Emergency staff to inpatient staff",
+                        "Correcting a colleague\u2019s error",
+                        "Change of rota",
+                        "Seeking assistance from a clinician",
+                        "Explaining to a guardian"
+                    ]
+                },
+                {
+                    "id": "how",
+                    "title": "How do we communicate?",
+                    "items": [
+                        "Verbally \u2013 face to face",
+                        "By telephone",
+                        "In writing",
+                        "Documentation in the clinical notes"
+                    ]
+                },
+                {
+                    "id": "consequences-of-poor-communication",
+                    "title": "Consequences of poor communication",
+                    "content": "Poor communication leads to mistakes and to mismanagement. Poor clinical handover can result in:",
+                    "items": [
+                        "Delay in treatment",
+                        "Wrong treatment",
+                        "Missed or duplicated tests",
+                        "Wrong dosage"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "communication-styles",
+            "title": "Communication Styles",
+            "content": [
+                "Learn to listen; try to understand why and what is being asked. Is your body language welcoming and interested? Don\u2019t stand over a person you are talking to."
+            ],
+            "images": [
+                {
+                    "src": "../images/coin163.png",
+                    "description": "General communication illustration"
+                }
+            ],
+            "steps": [
+                {
+                    "title": "Is the setting right for this discussion?",
+                    "description": "The corridor is not the place for discussions. Remember confidentiality! Speak with parents in quiet privacy. Never tell someone off in public.",
+                    "image": {
+                        "src": "../images/coin164.png",
+                        "description": "Setting illustration"
+                    }
+                },
+                {
+                    "title": "Is the timing right?",
+                    "description": "If calling for help, do it early rather than too late. If speaking to family, talk to the right members and take time. If a reprimand is needed \u2013 don\u2019t delay.",
+                    "image": {
+                        "src": "../images/coin165.png",
+                        "description": "Timing illustration"
+                    }
+                },
+                {
+                    "title": "Have you got all the data you need?",
+                    "description": "Do you know the full story? If it is a dispute have you heard both sides? Listen first! If you are reporting about a patient, check the notes, get all the facts.",
+                    "image": {
+                        "src": "../images/coin166.png",
+                        "description": "Data collection illustration"
+                    }
+                },
+                {
+                    "title": "Using a standardised way of communicating",
+                    "description": "It helps to present a clinical problem in a standardised way. Many people use the letters ISBAR to remember to say everything.",
+                    "image": {
+                        "src": "../images/coin167.png",
+                        "description": "Standardised communication illustration"
+                    }
+                },
+                {
+                    "title": "Training helps",
+                    "description": "It helps to practice. We often get into bad habits that we are unaware of. A training chapter is a good place to learn good habits and get rid of bad ones.",
+                    "image": {
+                        "src": "../images/coin168.png",
+                        "description": "Training illustration"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "isbar",
+            "title": "ISBAR: Standardised format for communicating",
+            "format": [
+                {
+                    "letter": "I",
+                    "label": "Identity",
+                    "description": "Give your name and your position (e.g., This is Mary Phiri, sister in charge of the neonatal ward)."
+                },
+                {
+                    "letter": "S",
+                    "label": "Situation",
+                    "description": "Give the patient\u2019s name, diagnosis and what the problem is now."
+                },
+                {
+                    "letter": "B",
+                    "label": "Background",
+                    "description": "Give a brief history of the patient and what drugs they are on."
+                },
+                {
+                    "letter": "A",
+                    "label": "Assessment",
+                    "description": "Say what you have found e.g., Temp, SaO2, RR, PR, and why you are concerned."
+                },
+                {
+                    "letter": "R",
+                    "label": "Recommendations",
+                    "description": "Say what you want the person that you phoned to do (e.g., come to the ward urgently), repeat what has been said to you so that you are sure it is correct."
+                }
+            ]
+        },
+        {
+            "id": "monitoring-in-health-care",
+            "title": "Monitoring in Health Care",
+            "content": [
+                "Anticipating clinical deterioration and possibly stopping it from happening makes good sense. To do this monitoring is critical; it helps us decide when to act to prevent problems and when to call for help.",
+                "Nurses are with the patients all the time and measuring, monitoring, and assessing progress is one of their very important tasks."
+            ],
+            "subsections": [
+                {
+                    "id": "vital-sign-monitoring",
+                    "title": "Vital sign monitoring",
+                    "description": "Includes heart rate, respiratory rate, SpO2, temperature, blood pressure and conscious level. In different circumstances additional monitoring is needed (e.g., fluid input/output for IVs, pupil size for head injuries)."
+                },
+                {
+                    "id": "clinical-observations",
+                    "title": "Other clinical observations",
+                    "description": "Assess if the child is sucking/drinking, has diarrhoea or vomiting; check breathing pattern, chest indrawing or acidotic breathing."
+                },
+                {
+                    "id": "pain-assessment",
+                    "title": "Pain assessment",
+                    "description": "Determine if the child is miserable, in pain or frightened to move. Use validated pain scores."
+                },
+                {
+                    "id": "documentation-and-interpretation",
+                    "title": "Documentation and interpretation",
+                    "description": "All findings must be recorded on a specially designed form, not just vital signs. Interpretation is essential (e.g., high temperature, abnormal breathing, AVPU score)."
+                },
+                {
+                    "id": "wall-charts",
+                    "title": "Wall charts",
+                    "description": "Display normal ranges of vital signs for different ages to aid interpretation."
+                },
+                {
+                    "id": "early-warning-systems",
+                    "title": "Early warning/Track and Trigger systems",
+                    "steps": [
+                        "A score to indicate the seriousness of the sign.",
+                        "The score leads to an action, such as increasing monitoring frequency or calling a senior.",
+                        "Rapid response to that call.",
+                        "Appropriate action must be taken."
+                    ]
+                },
+                {
+                    "id": "equipment-care",
+                    "title": "Equipment care",
+                    "description": "Ensure equipment is clean, functional, serviced/calibrated regularly and stored accessibly."
+                }
+            ]
+        },
+        {
+            "id": "key-facts",
+            "title": "Key Facts for Providers: Good Clinical Practice",
+            "items": [
+                "Communication is a critical part of providing good clinical care.",
+                "Documentation is critical for good communication between colleagues.",
+                "Mother and baby are one unit; mother\u2019s involvement is central for the baby\u2019s wellbeing.",
+                "Health workers should function as a team, recognising every individual\u2019s contribution and maintaining respect and good communication.",
+                "Communication requires clarity about who should communicate, when and how.",
+                "Poor communication leads to mistakes and mismanagement.",
+                "Monitoring is important as it helps decide when to act to prevent problems and when to call for help.",
+                "Monitor vital signs, pain, document and interpret all information collected to make appropriate interventions."
+            ]
+        }
+    ],
+    "_source_file": "C23_good clinical practice.html"
+}

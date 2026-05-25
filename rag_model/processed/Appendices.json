@@ -1,0 +1,51 @@
+{
+    "sections": [
+        {
+            "title": "Appendices",
+            "learningObjectives": [
+                "Identify the supplemental resources included in the Appendices.",
+                "Locate and access each form or reference document quickly via its hyperlink.",
+                "Understand the purpose of each appendix item (e.g., admission forms, review forms, referral forms, bibliography)."
+            ],
+            "subsections": [
+                {
+                    "title": "Bibliography/References",
+                    "link": "bibl.html",
+                    "description": "List of cited works and reference material used throughout the document."
+                },
+                {
+                    "title": "Neonatal Admission Form",
+                    "link": "A1_Neonataladmissionsheet.html",
+                    "description": "Standard admission worksheet for neonatal patients."
+                },
+                {
+                    "title": "Paediatric Admission Form",
+                    "link": "A2_Paedicatricadmissionsheet.html",
+                    "description": "Standard admission worksheet for paediatric patients."
+                },
+                {
+                    "title": "Neonatal CCP Form",
+                    "link": "A3_CCP.html",
+                    "description": "Critical Care Pathway form specific to neonatal cases."
+                },
+                {
+                    "title": "Neonatal Death Review Form",
+                    "link": "A4_NeonatalReview.html",
+                    "description": "Form used to review and analyse neonatal mortality events."
+                },
+                {
+                    "title": "Neonatal Death Audit Consolidation Form",
+                    "link": "A5_NeonatalAudit.html",
+                    "description": "Audit tool for consolidating data on neonatal deaths."
+                },
+                {
+                    "title": "Neonatal Referral Form",
+                    "link": "A6_Neonatalreferral.html",
+                    "description": "Form used to refer neonatal patients to other services or facilities."
+                }
+            ],
+            "images": []
+        }
+    ],
+    "_source_file": "Appendices.html"
+}

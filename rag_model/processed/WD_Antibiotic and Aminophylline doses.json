@@ -1,0 +1,249 @@
+{
+    "title": "Wall Chart D \u2013 Antibiotic and Aminophylline Dosing by Weight Band",
+    "imageLinks": [],
+    "sections": [
+        {
+            "title": "Antibiotics",
+            "learningObjectives": [
+                "Identify the correct antibiotic dose based on a neonate\u2019s weight band.",
+                "Differentiate dosing regimens for sepsis versus meningitis.",
+                "Apply appropriate dosing intervals for the first week of life and beyond."
+            ],
+            "subsections": [
+                {
+                    "id": "Penicillin",
+                    "title": "Penicillin",
+                    "learningObjectives": [
+                        "Select the correct penicillin dose for sepsis (50\u202f000\u202fIU/kg) and meningitis (100\u202f000\u202fIU/kg).",
+                        "Understand the change in dosing frequency from the first week (once\u2011daily) to weeks 2\u2011 onward (four times daily)."
+                    ],
+                    "doseTable": [
+                        {
+                            "weightRangeKg": "0.5\u20110.99",
+                            "sepsisIUperKg": 50000,
+                            "meningitisIUperKg": 100000
+                        },
+                        {
+                            "weightRangeKg": "1\u20111.49",
+                            "sepsisIUperKg": 75000,
+                            "meningitisIUperKg": 150000
+                        },
+                        {
+                            "weightRangeKg": "1\u20111.49",
+                            "sepsisIUperKg": 75000,
+                            "meningitisIUperKg": 150000
+                        },
+                        {
+                            "weightRangeKg": "1.5\u20111.99",
+                            "sepsisIUperKg": 100000,
+                            "meningitisIUperKg": 200000
+                        },
+                        {
+                            "weightRangeKg": "2.0\u20112.49",
+                            "sepsisIUperKg": 125000,
+                            "meningitisIUperKg": 250000
+                        },
+                        {
+                            "weightRangeKg": "2.5\u20112.99",
+                            "sepsisIUperKg": 150000,
+                            "meningitisIUperKg": 300000
+                        },
+                        {
+                            "weightRangeKg": "3.0\u20113.49",
+                            "sepsisIUperKg": 175000,
+                            "meningitisIUperKg": 350000
+                        },
+                        {
+                            "weightRangeKg": "3.5\u20113.99",
+                            "sepsisIUperKg": 200000,
+                            "meningitisIUperKg": 400000
+                        },
+                        {
+                            "weightRangeKg": "4\u20114.49",
+                            "sepsisIUperKg": 225000,
+                            "meningitisIUperKg": 450000
+                        },
+                        {
+                            "weightRangeKg": "4.5\u20114.99",
+                            "sepsisIUperKg": 250000,
+                            "meningitisIUperKg": 500000
+                        }
+                    ],
+                    "imageLinks": []
+                },
+                {
+                    "id": "Gentamicin",
+                    "title": "Gentamicin",
+                    "learningObjectives": [
+                        "Determine the appropriate gentamicin dose for low\u2011birth\u2011weight (LBW) and term neonates during the first week.",
+                        "Adjust the dose for week\u202f2 onward using a 7.5\u202fmg/kg regimen."
+                    ],
+                    "doseTable": [
+                        {
+                            "weightRangeKg": "0.75\u20110.99",
+                            "firstWeek_LBW_mgPerKg": 3,
+                            "firstWeek_Term_mgPerKg": null,
+                            "week2Onwards_mgPerKg": 7.5
+                        },
+                        {
+                            "weightRangeKg": "1.0\u20111.24",
+                            "firstWeek_LBW_mgPerKg": 3.5,
+                            "firstWeek_Term_mgPerKg": null,
+                            "week2Onwards_mgPerKg": 8
+                        },
+                        {
+                            "weightRangeKg": "1.25\u20111.49",
+                            "firstWeek_LBW_mgPerKg": 4,
+                            "firstWeek_Term_mgPerKg": null,
+                            "week2Onwards_mgPerKg": 10
+                        },
+                        {
+                            "weightRangeKg": "1.5\u20111.74",
+                            "firstWeek_LBW_mgPerKg": 5,
+                            "firstWeek_Term_mgPerKg": null,
+                            "week2Onwards_mgPerKg": 12
+                        },
+                        {
+                            "weightRangeKg": "1.75\u20111.99",
+                            "firstWeek_LBW_mgPerKg": 5.5,
+                            "firstWeek_Term_mgPerKg": null,
+                            "week2Onwards_mgPerKg": 14
+                        },
+                        {
+                            "weightRangeKg": "2\u20112.24",
+                            "firstWeek_LBW_mgPerKg": 6,
+                            "firstWeek_Term_mgPerKg": null,
+                            "week2Onwards_mgPerKg": 16
+                        },
+                        {
+                            "weightRangeKg": "2.25\u20112.49",
+                            "firstWeek_LBW_mgPerKg": 7,
+                            "firstWeek_Term_mgPerKg": null,
+                            "week2Onwards_mgPerKg": 18
+                        },
+                        {
+                            "weightRangeKg": "2.5\u20112.74",
+                            "firstWeek_LBW_mgPerKg": null,
+                            "firstWeek_Term_mgPerKg": 13,
+                            "week2Onwards_mgPerKg": 20
+                        },
+                        {
+                            "weightRangeKg": "2.75\u20112.99",
+                            "firstWeek_LBW_mgPerKg": null,
+                            "firstWeek_Term_mgPerKg": 14,
+                            "week2Onwards_mgPerKg": 22
+                        },
+                        {
+                            "weightRangeKg": "3\u20113.24",
+                            "firstWeek_LBW_mgPerKg": null,
+                            "firstWeek_Term_mgPerKg": 16,
+                            "week2Onwards_mgPerKg": 23
+                        },
+                        {
+                            "weightRangeKg": "3.25\u20113.49",
+                            "firstWeek_LBW_mgPerKg": null,
+                            "firstWeek_Term_mgPerKg": 17,
+                            "week2Onwards_mgPerKg": 25
+                        },
+                        {
+                            "weightRangeKg": "3.5\u20113.74",
+                            "firstWeek_LBW_mgPerKg": null,
+                            "firstWeek_Term_mgPerKg": 18,
+                            "week2Onwards_mgPerKg": 27
+                        },
+                        {
+                            "weightRangeKg": "3.75\u20113.99",
+                            "firstWeek_LBW_mgPerKg": null,
+                            "firstWeek_Term_mgPerKg": 19,
+                            "week2Onwards_mgPerKg": 29
+                        },
+                        {
+                            "weightRangeKg": "4\u20114.24",
+                            "firstWeek_LBW_mgPerKg": null,
+                            "firstWeek_Term_mgPerKg": 21,
+                            "week2Onwards_mgPerKg": 31
+                        },
+                        {
+                            "weightRangeKg": "4.25\u20114.49",
+                            "firstWeek_LBW_mgPerKg": null,
+                            "firstWeek_Term_mgPerKg": 22,
+                            "week2Onwards_mgPerKg": 33
+                        },
+                        {
+                            "weightRangeKg": "4.5\u20114.74",
+                            "firstWeek_LBW_mgPerKg": null,
+                            "firstWeek_Term_mgPerKg": 23,
+                            "week2Onwards_mgPerKg": 35
+                        },
+                        {
+                            "weightRangeKg": "4.75\u20114.99",
+                            "firstWeek_LBW_mgPerKg": null,
+                            "firstWeek_Term_mgPerKg": 24,
+                            "week2Onwards_mgPerKg": 36
+                        }
+                    ],
+                    "imageLinks": []
+                },
+                {
+                    "id": "Ceftriaxone",
+                    "title": "Ceftriaxone",
+                    "learningObjectives": [
+                        "Select the correct ceftriaxone dose for sepsis versus severe infection/CNS involvement.",
+                        "Apply the high\u2011dose strategy when meningitis cannot be ruled out."
+                    ],
+                    "dosingInfo": [
+                        {
+                            "indication": "Sepsis",
+                            "doseMgPerKg": 50,
+                            "frequency": "once daily"
+                        },
+                        {
+                            "indication": "Severe infection or CNS involvement",
+                            "doseMgPerKg": 100,
+                            "frequency": "once daily"
+                        },
+                        {
+                            "indication": "CNS involvement cannot be excluded (LP not done)",
+                            "doseMgPerKg": 100,
+                            "frequency": "once daily"
+                        }
+                    ],
+                    "imageLinks": []
+                }
+            ]
+        },
+        {
+            "title": "Aminophylline (Prevention of Apnoeas of Prematurity)",
+            "learningObjectives": [
+                "Calculate the loading (stat) dose of aminophylline based on weight.",
+                "Determine the maintenance (BD) dose and the corresponding volume of the prepared solution.",
+                "Understand the preparation of the aminophylline solution (5\u202fmg/mL)."
+            ],
+            "doseTable": [
+                {
+                    "weightRangeKg": "0.75\u20110.99",
+                    "statDoseMg": 5,
+                    "statSolutionMl": 1,
+                    "bdDoseMg": 2,
+                    "bdSolutionMl": 0.4
+                },
+                {
+                    "weightRangeKg": "1.0\u20111.49",
+                    "statDoseMg": 7.5,
+                    "statSolutionMl": 1.5,
+                    "bdDoseMg": 3,
+                    "bdSolutionMl": 0.6
+                },
+                {
+                    "weightRangeKg": "1.5\u20111.99",
+                    "statDoseMg": 10,
+                    "statSolutionMl": 2,
+                    "bdDoseMg": 4,
+                    "bdSolutionMl": 0.8
+                }
+            ],
+            "imageLinks": []
+        }
+    ],
+    "_source_file": "WD_Antibiotic and Aminophylline doses.html"
+}

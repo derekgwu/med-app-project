@@ -1,0 +1,148 @@
+{
+    "title": "Meningitis in NYI (Chapter\u00a017)",
+    "learningObjectives": [
+        "Define meningitis.",
+        "Describe how a NYI with meningitis may present.",
+        "Describe the management of a NYI with meningitis."
+    ],
+    "sections": [
+        {
+            "id": "define",
+            "title": "Definition of Meningitis",
+            "content": [
+                "Meningitis is inflammation of the meninges."
+            ],
+            "subsections": []
+        },
+        {
+            "id": "present",
+            "title": "Symptoms and Signs",
+            "content": [
+                "Suspect meningitis in an infant with sepsis or if they present with any of the following clinical symptoms or signs:",
+                {
+                    "type": "list",
+                    "items": [
+                        "Drowsy, lethargy or unconscious",
+                        "Persistent irritability",
+                        "High\u2011pitched cry",
+                        "Apnoeic episode",
+                        "Convulsion",
+                        "Bulging fontanelle"
+                    ]
+                },
+                "Note: NYI often do not have neck stiffness."
+            ],
+            "imageLinks": [
+                {
+                    "src": "../images/coin155.png",
+                    "description": "Illustration of a young infant with possible meningitis signs"
+                }
+            ],
+            "subsections": []
+        },
+        {
+            "id": "investigations",
+            "title": "Investigations",
+            "content": [
+                "To confirm the diagnosis of meningitis, a lumbar puncture must be done immediately unless the young infant is convulsing actively or is unstable.",
+                "Also obtain a blood culture, urine dip\u2011stick, microscopy and culture (if available) or a urine analysis."
+            ],
+            "subsections": []
+        },
+        {
+            "id": "management",
+            "title": "Empiric Therapy for Meningitis",
+            "content": [
+                "How to calculate the dose \u2013 see wall\u2011charts for detailed dosing."
+            ],
+            "tables": [
+                {
+                    "caption": "Empiric antibiotic regimen (dose per kilogram) and frequency",
+                    "headers": [
+                        "ANTIBIOTIC",
+                        "EACH DOSE",
+                        "FREQUENCY \u2013 Age <\u202f7\u202fdays",
+                        "FREQUENCY \u2013 Age\u202f>\u202f7\u202fdays",
+                        "ROUTE"
+                    ],
+                    "rows": [
+                        [
+                            "Benzyl penicillin",
+                            "100\u202f000\u202fIU/kg",
+                            "12\u202fhrly",
+                            "6\u202fhrly",
+                            "IV"
+                        ],
+                        [
+                            "AND",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Gentamicin",
+                            "LBW 3\u202fmg/kg/dose; Term 5\u202fmg/kg/dose for 1st week; >\u202f7\u202fdays 7.5\u202fmg/kg/dose",
+                            "24\u202fhrly",
+                            "24\u202fhrly",
+                            "IV"
+                        ],
+                        [
+                            "OR",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Ceftriaxone",
+                            "100\u202fmg/kg/dose",
+                            "24\u202fhrly",
+                            "24\u202fhrly",
+                            "IV"
+                        ]
+                    ]
+                }
+            ],
+            "subsections": []
+        },
+        {
+            "id": "supportive",
+            "title": "Key Facts for Providers \u2013 Supportive Care for NYI with Meningitis",
+            "content": [
+                {
+                    "type": "list",
+                    "items": [
+                        "Ensure warmth.",
+                        "Respiratory support with oxygen or CPAP if there is severe respiratory distress or apnoea.",
+                        "Gentle stimulation if apnoeic; consider aminophylline if premature and estimated gestational age <37\u202fweeks.",
+                        "If shocked, treat according to the impaired circulation protocol.",
+                        "If hypoglycaemic, give 2\u202fml/kg of 10\u202f% dextrose stat and re\u2011check in 30\u202fmin; continue maintenance 10\u202f% dextrose.",
+                        "Treat convulsions if present.",
+                        "Treat jaundice if present with phototherapy.",
+                        "If very sick (e.g., continuous convulsions) avoid oral feeds and give maintenance fluids.",
+                        "Give Vitamin\u202fK \u2013 1\u202fmg IM to term baby or 0.5\u202fmg IM to premature baby if not already administered.",
+                        "Reassess therapy based on culture and antibiotic\u2011sensitivity results if possible.",
+                        "Continue IV antibiotics for at least 2\u202fweeks for GBS or 3\u202fweeks for Gram\u2011negative bacteria.",
+                        "If the organism is unknown, treat for 3\u202fweeks to cover possible Gram\u2011negative pathogens.",
+                        "Measure head circumference every 3\u202fdays; if increasing, obtain a cranial ultrasound to assess for intracranial abscess or hydrocephalus."
+                    ]
+                }
+            ],
+            "subsections": []
+        }
+    ],
+    "imageLinks": [
+        {
+            "src": "../images/coin155.png",
+            "description": "Illustration associated with the Symptoms and Signs section"
+        }
+    ],
+    "referenceLinks": [
+        {
+            "text": "Wall charts \u2013 Antibiotic and Aminophylline doses",
+            "href": "WD_Antibiotic and Aminophylline doses.html"
+        }
+    ],
+    "_source_file": "C17_Meningitis.html"
+}

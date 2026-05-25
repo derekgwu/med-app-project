@@ -1,0 +1,132 @@
+{
+    "manualTitle": "Care of the Young Infant and Newborn (COIN)",
+    "sections": [
+        {
+            "title": "Introduction to COIN",
+            "content": [
+                "Most deaths in neonates and young infants can be prevented with low\u2011cost interventions. It has been estimated that up to half of all preventable neonatal deaths could be reduced with optimal treatment of neonatal illness.",
+                "In addition to providing care to newborns at birth, a district health facility receives sick young infants with diverse clinical presentations, some of whom are extremely sick and need emergency treatments. This manual and the course associated with it will deal with care of newborns at birth, the first few days of life, and sick young infants who are likely to be encountered in a secondary\u2011level health facility.",
+                "There is a lot of overlap between the clinical presentation and the management of conditions in the neonate and the young infant (defined as an infant less than two months of age). In this manual, when referring to both age groups we will discuss as the Neonate/Newborn and Young Infant (NYI). The young infant who requires resuscitation may be a neonate who is only a few days old. The approach to initial resuscitation is slightly different between the neonate and young infant, but the skills required are the same and you will practice these during this course.",
+                "This manual is for the candidate participating in a training on the Care of the Young Infant and Newborn (COIN). Lectures, videos, drills, and scenarios are the main methods used to deliver the course. The training is targeted at nurses, midwives, clinical officers, medical officers and medical assistants. The course is evidence\u2011based and strives to balance best practice with pragmatic solutions for our setting. Clear directions are provided for common clinical situations; if unclear, learners are encouraged to consult a colleague or a central hospital.",
+                "In the special newborn care unit, it is usual to have medical equipment not designed for hot, humid, dusty environments with an unstable power supply. Clinicians are often untrained on the use of these technologies and unsure of how to clean them or who to contact should the equipment fail. In addition to clinical knowledge and skills, the course equips participants on the management and use of technologies used in special newborn care units.",
+                "At the back of the manual there are wall charts or job\u2011aids that can be printed and placed in all clinical areas (clinic, ward, and special newborn care unit) where NYI are cared for.",
+                "On the last day of the COIN course, there is an examination that includes a Multiple Choice Questions (MCQ) paper to test knowledge and a competency\u2011based assessment that tests skills. Attitude (attendance and participation) is assessed throughout the course."
+            ],
+            "imageLinks": []
+        },
+        {
+            "title": "Learning Objectives of COIN",
+            "intro": "COIN provides information that would allow an individual to be able to do the following:",
+            "learningObjectives": [
+                {
+                    "objective": "Provide care at birth for all newborns",
+                    "link": "C2_Routine Care.html"
+                },
+                {
+                    "objective": "Provide care at birth for low\u2011birth\u2011weight infants",
+                    "link": "C9_Preterm.html"
+                },
+                {
+                    "objective": "Provide neonatal resuscitation for those who need it",
+                    "link": "C3_ResuscNewborn.html"
+                },
+                {
+                    "objective": "Provide resuscitation for young infants",
+                    "link": "C4_Resuscinfant.html"
+                },
+                {
+                    "objective": "Provide emergency assessment and treatment for sick young infants (e.g., breathing difficulties, birth asphyxia)",
+                    "links": [
+                        {
+                            "topic": "Breathing difficulties",
+                            "link": "C5_Breathing difficulties.html"
+                        },
+                        {
+                            "topic": "Birth asphyxia",
+                            "link": "C8_Asphyxia.html"
+                        }
+                    ]
+                },
+                {
+                    "objective": "Know how to use and maintain equipment necessary for the care of newborns",
+                    "link": "Equipment.html"
+                },
+                {
+                    "objective": "Understand which infants may benefit from referral and safe transport",
+                    "link": "C19_Referral.html"
+                },
+                {
+                    "objective": "Counsel families on common problems arising in this age group",
+                    "link": null
+                },
+                {
+                    "objective": "Carry out an audit and introduce quality\u2011improvement activities in their own facility",
+                    "link": "C22_audit.html"
+                }
+            ],
+            "subsections": [
+                {
+                    "title": "Care at birth for all newborns",
+                    "description": "General routine newborn care immediately after delivery.",
+                    "link": "C2_Routine Care.html"
+                },
+                {
+                    "title": "Care for low\u2011birth\u2011weight infants",
+                    "description": "Special considerations and interventions for infants of low birth weight.",
+                    "link": "C9_Preterm.html"
+                },
+                {
+                    "title": "Neonatal resuscitation",
+                    "description": "Initial steps and advanced techniques for newborn resuscitation.",
+                    "link": "C3_ResuscNewborn.html"
+                },
+                {
+                    "title": "Resuscitation for young infants",
+                    "description": "Resuscitation procedures appropriate for infants older than 28 days but younger than two months.",
+                    "link": "C4_Resuscinfant.html"
+                },
+                {
+                    "title": "Emergency assessment & treatment",
+                    "description": "Rapid evaluation and management of sick young infants, focusing on breathing difficulties and birth asphyxia.",
+                    "links": [
+                        {
+                            "topic": "Breathing difficulties",
+                            "link": "C5_Breathing difficulties.html"
+                        },
+                        {
+                            "topic": "Birth asphyxia",
+                            "link": "C8_Asphyxia.html"
+                        }
+                    ]
+                },
+                {
+                    "title": "Equipment use and maintenance",
+                    "description": "Guidelines for safe operation, cleaning, and troubleshooting of newborn care equipment.",
+                    "link": "Equipment.html"
+                },
+                {
+                    "title": "Referral and safe transport",
+                    "description": "Criteria for referral and principles of safe transport for critically ill infants.",
+                    "link": "C19_Referral.html"
+                },
+                {
+                    "title": "Family counseling",
+                    "description": "Key messages and communication strategies for parents of newborns and young infants.",
+                    "link": null
+                },
+                {
+                    "title": "Audit and quality improvement",
+                    "description": "Steps to conduct an audit and implement quality\u2011improvement cycles in a health facility.",
+                    "link": "C22_audit.html"
+                }
+            ],
+            "imageLinks": []
+        }
+    ],
+    "notes": [
+        "The manual serves both as a participant guide for COIN training and as a bedside reference for NYI care.",
+        "Theory should be complemented with practical sessions during the course or through mentorship to achieve competency.",
+        "Successful completion of the COIN course requires passing both the MCQ (minimum 80%) and the practical scenario exam."
+    ],
+    "_source_file": "introduction.html"
+}

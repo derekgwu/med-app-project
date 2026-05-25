@@ -1,0 +1,57 @@
+{
+    "title": "Appendix\u202f4: Neonatal Death Review Form",
+    "note": "Zoom in for details.",
+    "sections": [
+        {
+            "title": "Overview",
+            "learningObjectives": [
+                "Identify the purpose of the Neonatal Death Review Form.",
+                "Understand how the form fits within the broader audit process for neonatal deaths.",
+                "Recognise the key visual components of the form before completing it."
+            ],
+            "content": "This appendix presents the complete Neonatal Death Review Form together with its individual sections. It is intended for use by clinicians and audit teams when reviewing neonatal fatalities."
+        },
+        {
+            "title": "Related Resources",
+            "learningObjectives": [
+                "Locate additional guidance on neonatal death audits.",
+                "Navigate to the Death Audit page for complementary information."
+            ],
+            "subsections": [
+                {
+                    "title": "Death Audit",
+                    "type": "link",
+                    "url": "C22_audit.html#deathaudit",
+                    "description": "See the Death Audit section for the broader audit framework that this form supports."
+                }
+            ]
+        },
+        {
+            "title": "Form Images",
+            "learningObjectives": [
+                "Visually inspect each page/section of the Neonatal Death Review Form.",
+                "Determine which part of the form is relevant to a specific review question.",
+                "Use the high\u2011resolution images to capture details needed for accurate data entry."
+            ],
+            "imageLinks": [
+                {
+                    "caption": "Full Neonatal Death Review Form",
+                    "url": "../images/App4.png"
+                },
+                {
+                    "caption": "Section\u202fA \u2013 Patient Details",
+                    "url": "../images/App4a.png"
+                },
+                {
+                    "caption": "Section\u202fB \u2013 Clinical Course",
+                    "url": "../images/App4b.png"
+                },
+                {
+                    "caption": "Section\u202fC \u2013 Review Findings",
+                    "url": "../images/App4c.png"
+                }
+            ]
+        }
+    ],
+    "_source_file": "A4_NeonatalReview.html"
+}

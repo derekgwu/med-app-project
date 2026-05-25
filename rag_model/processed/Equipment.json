@@ -1,0 +1,71 @@
+{
+    "title": "Equipment",
+    "learningObjectives": [
+        "Understand the purpose and proper use of essential newborn and young\u2011infant equipment.",
+        "Identify each piece of equipment and describe its role in neonatal care.",
+        "Locate detailed reference pages for every equipment item listed."
+    ],
+    "subsections": [
+        {
+            "title": "Essential Newborn and Young Infant Equipment",
+            "link": "C21_essential.html",
+            "imageLink": null
+        },
+        {
+            "title": "Suction Machine (Pump)",
+            "link": "E1_Suctionpump.html",
+            "imageLink": null
+        },
+        {
+            "title": "Pulse oximeter",
+            "link": "E2_Pulse oximeter.html",
+            "imageLink": null
+        },
+        {
+            "title": "Oxygen concentrator",
+            "link": "E3_Oxygen concentrator.html",
+            "imageLink": null
+        },
+        {
+            "title": "Oxygen cylinder",
+            "link": "E4_Oxygen cylinder.html",
+            "imageLink": null
+        },
+        {
+            "title": "Oxygen splitter",
+            "link": "E5_Oxygen splitter.html",
+            "imageLink": null
+        },
+        {
+            "title": "Oxygen therapy",
+            "link": "E6_Oxygen therapy.html",
+            "imageLink": null
+        },
+        {
+            "title": "Introduction to Bubble Continuous Positive Airway Pressure (bCPAP)",
+            "link": "C7_CPAP.html",
+            "imageLink": null
+        },
+        {
+            "title": "Radiant Warmer",
+            "link": "E8_Radiant Warmer.html",
+            "imageLink": null
+        },
+        {
+            "title": "Glucometer",
+            "link": "E9_Glucometer.html",
+            "imageLink": null
+        },
+        {
+            "title": "Syringe Driver (Pump)",
+            "link": "E10_Syringepump.html",
+            "imageLink": null
+        },
+        {
+            "title": "Phototherapy lights",
+            "link": "E11_phototherapy.html",
+            "imageLink": null
+        }
+    ],
+    "_source_file": "Equipment.html"
+}

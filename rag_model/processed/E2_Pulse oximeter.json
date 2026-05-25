@@ -1,0 +1,199 @@
+{
+    "title": "E2 Pulse Oximeter",
+    "source": "NEST360\u00b0. Newborn Essential Solutions and Technologies\u2011Education \u2013 Clinical Modules: Pulse Oximeter (June\u202f2020). License: CC BY\u2011NC\u2011SA\u202f4.0.",
+    "sections": [
+        {
+            "title": "Clinical Problem",
+            "learningObjectives": [
+                "Explain why pulse oximetry should be part of routine assessment for every infant on admission.",
+                "Identify clinical scenarios that require continuous pulse\u2011oximetry (oxygen therapy, CPAP, assisted ventilation)."
+            ],
+            "subsections": [],
+            "images": [
+                "../images/coin21a.png",
+                "../images/coin21b.png",
+                "../images/coin21c.png",
+                "../images/coin21d.png"
+            ]
+        },
+        {
+            "title": "Assessment",
+            "learningObjectives": [
+                "Describe the physiological principle behind pulse oximetry (red/infra\u2011red LEDs, photodetector, SpO\u2082 calculation).",
+                "Differentiate between normal and poor pulse\u2011oximetry waveforms.",
+                "Identify the three main types of pulse\u2011oximeter units (fixed, handheld, finger\u2011clip) and their appropriate patient groups.",
+                "State the target SpO\u2082 ranges for neonates on and off supplemental oxygen."
+            ],
+            "subsections": [],
+            "images": [
+                "../images/coin22a.png",
+                "../images/coin22b.png",
+                "../images/coin22f.png",
+                "../images/coin23a.png",
+                "../images/coin23b.png",
+                "../images/coin23c.png"
+            ]
+        },
+        {
+            "title": "Management",
+            "learningObjectives": [
+                "Demonstrate how to set\u2011up a pulse\u2011oximeter and its probe for a newborn.",
+                "Explain the preparation steps for a neonate before applying the probe.",
+                "Apply the correct technique for attaching adhesive\u2011wrap, rubber\u2011wrap and clip probes.",
+                "Monitor and record SpO\u2082 and heart\u2011rate values, ensuring they correlate with clinical status.",
+                "Remove the probe safely and perform basic disinfection of the probe and device."
+            ],
+            "subsections": [
+                {
+                    "title": "SETTING UP FOR A PATIENT",
+                    "learningObjectives": [
+                        "Follow hand\u2011washing and equipment\u2011gathering procedures.",
+                        "Power\u2011on the device and verify a red light on the probe."
+                    ],
+                    "images": [
+                        "../images/coin26a.png",
+                        "../images/coin26b.png"
+                    ]
+                },
+                {
+                    "title": "PREPARING A PATIENT",
+                    "learningObjectives": [
+                        "Explain the importance of informed consent with the infant\u2019s guardians.",
+                        "Select an appropriate probe site (wrist/foot for wrap probe, finger/toe for clip probe).",
+                        "Prepare the skin with alcohol and position the infant neutrally."
+                    ],
+                    "images": [
+                        "../images/coin29a.png"
+                    ]
+                },
+                {
+                    "title": "STARTING A PATIENT",
+                    "learningObjectives": [
+                        "Apply an adhesive\u2011wrap probe correctly.",
+                        "Apply a reusable rubber\u2011wrap probe correctly.",
+                        "Attach a clip probe without causing tissue damage."
+                    ],
+                    "images": [
+                        "../images/coin30a.png",
+                        "../images/coin30b.png",
+                        "../images/coin30c.png",
+                        "../images/coin30d.png"
+                    ]
+                },
+                {
+                    "title": "CARING FOR A PATIENT",
+                    "learningObjectives": [
+                        "Allow the trace to stabilise before taking measurements.",
+                        "Document SpO\u2082 and heart\u2011rate, recognising the accuracy limits of the device.",
+                        "Inspect the probe site regularly for skin integrity."
+                    ],
+                    "images": [
+                        "../images/coin31a.png",
+                        "../images/coin31b.png"
+                    ]
+                },
+                {
+                    "title": "REMOVING A PATIENT",
+                    "learningObjectives": [
+                        "Remove adhesive, rubber\u2011wrap, or clip probes safely.",
+                        "Disinfect the probe site and the probe itself according to the probe type."
+                    ],
+                    "images": []
+                }
+            ],
+            "images": []
+        },
+        {
+            "title": "Infection Prevention",
+            "learningObjectives": [
+                "Perform hand hygiene before and after any pulse\u2011oximeter use.",
+                "Identify correct cleaning, disinfection and storage practices for probes and the device.",
+                "Understand the rationale for low\u2011level disinfection solutions in neonatal settings."
+            ],
+            "subsections": [
+                {
+                    "title": "GENERAL INFECTION PREVENTION",
+                    "learningObjectives": [],
+                    "images": []
+                },
+                {
+                    "title": "DISINFECTION AFTER USE",
+                    "learningObjectives": [],
+                    "images": [
+                        "../images/coin32.png"
+                    ]
+                }
+            ],
+            "images": []
+        },
+        {
+            "title": "Complications",
+            "learningObjectives": [
+                "Recognise clinical complications that can arise from inaccurate SpO\u2082 readings (mis\u2011diagnosis, pressure sores, etc.).",
+                "Identify device\u2011related complications (poor probe fit, patient movement, ambient light, alarm settings)."
+            ],
+            "subsections": [
+                {
+                    "title": "CLINICAL COMPLICATIONS",
+                    "learningObjectives": [],
+                    "images": [
+                        "../images/coin33.png"
+                    ]
+                },
+                {
+                    "title": "DEVICE COMPLICATIONS",
+                    "learningObjectives": [],
+                    "images": [
+                        "../images/coin34.png"
+                    ]
+                }
+            ],
+            "images": []
+        },
+        {
+            "title": "Care & Maintenance",
+            "learningObjectives": [
+                "Describe the power options (replaceable vs rechargeable batteries) and charging requirements.",
+                "Outline safe storage and ward\u2011location practices for the device.",
+                "Perform basic preventive maintenance checks before clinical use."
+            ],
+            "subsections": [
+                {
+                    "title": "POWER SOURCE",
+                    "learningObjectives": [],
+                    "images": []
+                },
+                {
+                    "title": "WARD LOCATION",
+                    "learningObjectives": [],
+                    "images": []
+                },
+                {
+                    "title": "USER PREVENTIVE MAINTENANCE",
+                    "learningObjectives": [],
+                    "images": [
+                        "../images/coin35.png",
+                        "../images/coin35a.png"
+                    ]
+                }
+            ],
+            "images": []
+        },
+        {
+            "title": "Troubleshooting & Repair",
+            "learningObjectives": [
+                "Apply a step\u2011by\u2011step approach to resolve the most common pulse\u2011oximeter problems (device not powering on, no trace, flashing red light, slow stabilisation).",
+                "Know when to escalate to biomedical/maintenance support."
+            ],
+            "subsections": [],
+            "images": []
+        },
+        {
+            "title": "References",
+            "learningObjectives": [],
+            "subsections": [],
+            "images": []
+        }
+    ],
+    "_source_file": "E2_Pulse oximeter.html"
+}

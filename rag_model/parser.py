@@ -1,10 +1,11 @@
 import json
+import re
 import requests
 from pathlib import Path
 from bs4 import BeautifulSoup
 import time
 
-MODEL = "llama3"
+MODEL = "gpt-oss:120b-cloud"
 HTML_DIR = Path("html")
 OUTPUT_DIR = Path("processed")
 OUTPUT_DIR.mkdir(exist_ok=True)
@@ -14,31 +15,10 @@ MAX_RETRIES = 3
 
 SCHEMA_KEYS = {"chapter", "learning_objectives", "sections"}
 
-PROMPT = """You are a medical textbook extraction system.
-Convert the provided HTML content into clean structured JSON.
-
-Rules:
-- Preserve chapter hierarchy, learning objectives, sections, tables, and references.
-- Do NOT hallucinate content.
-- Output ONLY valid JSON, no prose, no markdown fences.
-
-Schema:
-{
-  "chapter": "",
-  "learning_objectives": [],
-  "sections": []
-}
-
-Content:
+PROMPT = """
+genereate a structured json for this content with the sections, learning objectives, subsections, and image links
 """
 
-
-def strip_html(html: str) -> str:
-    """Extract readable text/structure from HTML."""
-    soup = BeautifulSoup(html, "html.parser")
-    for tag in soup(["script", "style", "nav", "footer", "header"]):
-        tag.decompose()
-    return soup.get_text(separator="\n", strip=True)
 
 
 def call_ollama(prompt: str) -> str:
@@ -58,10 +38,27 @@ def call_ollama(prompt: str) -> str:
     raise RuntimeError("Ollama unreachable after retries")
 
 
-def extract_json(raw: str) -> dict:
-    """Parse JSON, stripping markdown fences if present."""
-    cleaned = raw.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
-    return json.loads(cleaned)
+
+def extract_json(raw):
+
+    cleaned = raw.strip()
+
+    # remove markdown fences anywhere
+    cleaned = re.sub(r'```json', '', cleaned)
+    cleaned = re.sub(r'```', '', cleaned)
+
+    # find JSON object
+    start = cleaned.find('{')
+    end = cleaned.rfind('}')
+
+    if start == -1 or end == -1:
+        raise ValueError("No JSON object found.")
+
+    cleaned = cleaned[start:end+1]
+    try:
+        return json.loads(cleaned)
+    except:
+        return -1
 
 
 def validate_schema(doc: dict) -> bool:
@@ -74,26 +71,16 @@ for html_file in HTML_DIR.glob("*.html"):
     print(f"Processing {html_file.name}")
 
     html_content = html_file.read_text(encoding="utf-8", errors="ignore")
-    text_content = strip_html(html_content)
 
-    if len(text_content) > MAX_CHARS:
-        print(f"  Truncating {len(text_content)} chars to {MAX_CHARS}")
-        text_content = text_content[:MAX_CHARS]
 
-    try:
-        raw_output = call_ollama(PROMPT + text_content)
-        parsed = extract_json(raw_output)
 
-        if not validate_schema(parsed):
-            raise ValueError(f"Schema mismatch, got keys: {list(parsed.keys())}")
+ 
+    raw_output = call_ollama(PROMPT + html_content)
+    parsed = extract_json(raw_output)
+    if parsed == -1:
+        print(f"Error parsing {html_file.name}")
+        continue
 
-    except (json.JSONDecodeError, ValueError, RuntimeError) as e:
-        print(f"  Failed: {e}")
-        parsed = {
-            "file": html_file.name,
-            "error": str(e),
-            "raw_llm_output": raw_output if "raw_output" in dir() else None,
-        }
 
     parsed["_source_file"] = html_file.name
 

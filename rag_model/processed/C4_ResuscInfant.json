@@ -1,0 +1,111 @@
+{
+    "title": "Resuscitation of the Young Infant (Chapter\u202f4)",
+    "learningObjectives": [
+        "Demonstrate the resuscitation of a sick young infant."
+    ],
+    "sections": [
+        {
+            "id": "AandB",
+            "title": "Managing Airway and Breathing",
+            "description": "The letters A and B in ABCCCD represent airway and breathing. The clinician must assess airway patency, breathing effort, central cyanosis and signs of severe respiratory distress.",
+            "subsections": [
+                {
+                    "id": "airway",
+                    "title": "A. Airway",
+                    "imageLinks": [
+                        "../images/coin3.png"
+                    ],
+                    "details": [
+                        "Neck is slightly extended; head tilt\u2011chin\u2011lift maneuver is used.",
+                        "Conscious infant: inspect mouth, remove secretions, let infant find a comfortable position, give oxygen, continue assessment.",
+                        "Unconscious infant: open airway with slight head tilt and chin lift, inspect mouth, remove secretions, check chest rise, insert airway if needed."
+                    ]
+                },
+                {
+                    "id": "guedel",
+                    "title": "Insertion of an Oropharyngeal (Guedel) Airway",
+                    "imageLinks": [
+                        "../images/coin4.png"
+                    ],
+                    "steps": [
+                        "Select an appropriately sized airway (extends from angle of mouth to angle of jaw with convex side up).",
+                        "Position the child to open the airway.",
+                        "Insert the airway with the convex side up.",
+                        "Re\u2011check airway opening.",
+                        "If the airway is not patent, try a different size or reposition."
+                    ]
+                },
+                {
+                    "id": "breathing",
+                    "title": "B. Breathing",
+                    "imageLinks": [
+                        "../images/coin5.png"
+                    ],
+                    "signsOfSevereRespiratoryDistress": [
+                        "Grunting",
+                        "Head nodding with each inspiration",
+                        "Respiratory rate >\u202f60\u202f/min",
+                        "Severe lower\u2011chest in\u2011drawing",
+                        "Apnoeic spells",
+                        "Unable to feed due to distress",
+                        "Cyanosis"
+                    ],
+                    "oxygenManagement": "Give oxygen via catheter/prongs; if distress worsens or central cyanosis persists, add high\u2011flow oxygen (\u22484\u202fL/min) via face mask.",
+                    "bagMaskVentilation": {
+                        "description": "If spontaneous ventilation is inadequate, ventilate with a self\u2011inflating bag and mask.",
+                        "imageLinks": [
+                            "../images/coin6.png",
+                            "../images/coin6b.png"
+                        ],
+                        "tips": [
+                            "Use a neutral head position; avoid hyper\u2011extension.",
+                            "Place padding under the shoulders to prevent occipital flexion.",
+                            "After five effective breaths, check femoral pulse for 10\u202fseconds; if absent, begin chest compressions."
+                        ]
+                    }
+                },
+                {
+                    "id": "chest-compressions",
+                    "title": "C. Chest Compressions",
+                    "description": "Chest compressions are performed as in neonatal resuscitation: 15 compressions followed by 2 ventilation breaths per cycle.",
+                    "note": "Respiratory arrest (breathless but with a pulse) is often salvageable; a true cardiorespiratory arrest (no pulse) is rarely survivable."
+                }
+            ]
+        },
+        {
+            "id": "NYIresusc",
+            "title": "Algorithm: Emergency assessment and management of NYI airway and breathing",
+            "imageLinks": [
+                "../images/coin7.png"
+            ],
+            "note": "Zoom in on the image for details of the algorithm."
+        },
+        {
+            "title": "E\u202f1 Suction Machine (Pump)",
+            "description": "A suction machine is life\u2011saving equipment often needed in resuscitation of the young infant. See the equipment chapter (E1_Suctionpump.html) for more information."
+        }
+    ],
+    "additionalResources": [
+        {
+            "type": "link",
+            "title": "Young infant resuscitation algorithm",
+            "href": "#NYIresusc"
+        },
+        {
+            "type": "link",
+            "title": "Neonatal resuscitation (Chapter\u202f3)",
+            "href": "C3_ResuscNewborn.html"
+        },
+        {
+            "type": "link",
+            "title": "Temperature management",
+            "href": "C10_Hypothermia.html"
+        },
+        {
+            "type": "link",
+            "title": "Hypoglycaemia management",
+            "href": "C11_Hypoglycaemia.html"
+        }
+    ],
+    "_source_file": "C4_ResuscInfant.html"
+}

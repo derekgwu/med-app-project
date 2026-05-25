@@ -1,0 +1,180 @@
+{
+    "title": "Routine Care of the Normal Newborn Infant (Chapter 2)",
+    "learningObjectives": [
+        "Provide routine care for every newborn.",
+        "Offer relevant and timely information, advice and support to caregivers.",
+        "Identify newborns with danger signs and those who need special care."
+    ],
+    "sections": [
+        {
+            "title": "Why is care of the normal term infant so important?",
+            "id": null,
+            "subsections": []
+        },
+        {
+            "title": "Daily Routine Care of the Newborn",
+            "id": "routine",
+            "subsections": [
+                {
+                    "title": "Review labour and birth record",
+                    "id": null
+                },
+                {
+                    "title": "Ask the mother",
+                    "id": null,
+                    "subsections": [
+                        {
+                            "title": "\"Is the baby sucking well?\"",
+                            "id": null
+                        },
+                        {
+                            "title": "\"Has the baby passed stools?\"",
+                            "id": null
+                        },
+                        {
+                            "title": "\"Has the baby passed urine?\"",
+                            "id": null
+                        },
+                        {
+                            "title": "\"Is the baby jaundiced (yellow)?\"",
+                            "id": null
+                        }
+                    ]
+                },
+                {
+                    "title": "Key Facts for Providers \u2013 Routine Care of the Term Newborn",
+                    "id": null
+                },
+                {
+                    "title": "Key Facts for Providers \u2013 How to Examine the Newborn",
+                    "id": null
+                }
+            ]
+        },
+        {
+            "title": "Assess Danger Signs",
+            "id": "Danger",
+            "subsections": [
+                {
+                    "title": "Key Facts for Providers \u2013 Danger Symptoms or Signs",
+                    "id": null
+                }
+            ]
+        },
+        {
+            "title": "Parental Education about Maintaining Infant Health",
+            "id": null,
+            "subsections": [
+                {
+                    "title": "Warmth",
+                    "id": null
+                },
+                {
+                    "title": "Skin",
+                    "id": null
+                },
+                {
+                    "title": "Cord Care",
+                    "id": null
+                },
+                {
+                    "title": "Nappy Rash",
+                    "id": null
+                },
+                {
+                    "title": "Thrush",
+                    "id": null
+                },
+                {
+                    "title": "Jaundice",
+                    "id": null
+                },
+                {
+                    "title": "Weight Loss",
+                    "id": null
+                },
+                {
+                    "title": "Hygiene",
+                    "id": null
+                },
+                {
+                    "title": "Danger Signs",
+                    "id": null
+                },
+                {
+                    "title": "Transitional Stools",
+                    "id": null
+                },
+                {
+                    "title": "Vaginal White Discharge/ Bleeding",
+                    "id": null
+                }
+            ]
+        },
+        {
+            "title": "Breastfeeding",
+            "id": "Breastfeeding",
+            "subsections": [
+                {
+                    "title": "Benefits of Breastfeeding",
+                    "id": null
+                },
+                {
+                    "title": "Assess Breastfeeding",
+                    "id": null,
+                    "subsections": [
+                        {
+                            "title": "Position",
+                            "id": "Position"
+                        },
+                        {
+                            "title": "Attachment",
+                            "id": "Attachment"
+                        },
+                        {
+                            "title": "Sucking",
+                            "id": "Sucking"
+                        }
+                    ]
+                },
+                {
+                    "title": "Key Facts for Providers and Mothers/Guardians \u2013 Breastfeeding",
+                    "id": null
+                }
+            ]
+        },
+        {
+            "title": "Common Congenital Infections",
+            "id": "Common Infections",
+            "subsections": [
+                {
+                    "title": "HIV",
+                    "id": "HIV"
+                },
+                {
+                    "title": "Syphilis",
+                    "id": "Syphilis"
+                },
+                {
+                    "title": "Tuberculosis",
+                    "id": "Tuberculosis"
+                }
+            ]
+        },
+        {
+            "title": "Discharge and Providing Follow\u2011Up Care",
+            "id": "Discharge",
+            "subsections": [
+                {
+                    "title": "Key Facts for Providers and Mothers/Guardians \u2013 Discharge",
+                    "id": null
+                }
+            ]
+        }
+    ],
+    "imageLinks": [
+        "../images/coin2.png",
+        "../images/coin2a.png"
+    ],
+    "_source_file": "C2_Routine Care.html"
+}

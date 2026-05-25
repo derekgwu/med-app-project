@@ -1,0 +1,78 @@
+{
+    "title": "Wall Chart I \u2013 Algorithm: Emergency assessment and management of NYI airway and breathing",
+    "metadata": {
+        "stylesheet": "../include/layout.css",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "seeAlso": [
+        {
+            "text": "Resuscitation of the Young Infant",
+            "url": "C4_ResuscInfant.html"
+        }
+    ],
+    "note": "Zoom in to see details",
+    "sections": [
+        {
+            "heading": "Emergency Assessment & Management of Newborn (NYI) Airway & Breathing",
+            "learningObjectives": [
+                "Recognize the immediate signs of airway compromise in a newborn.",
+                "Perform a rapid, systematic airway assessment (positioning, suction, clear obstruction removal).",
+                "Initiate appropriate airway interventions (e.g., head\u2011tilt\u2011chin\u2011lift, jaw thrust, use of a laryngeal mask or endotracheal tube).",
+                "Evaluate breathing effectiveness (respiratory rate, chest movement, oxygen saturation).",
+                "Apply basic ventilation techniques when spontaneous breathing is inadequate (bag\u2011valve\u2011mask, CPAP).",
+                "Understand when to transition from basic to advanced resuscitative measures (chest compressions, medication).",
+                "Document the assessment and interventions accurately for hand\u2011over and quality\u2011improvement."
+            ],
+            "subsections": [
+                {
+                    "title": "1. Airway Assessment",
+                    "points": [
+                        "Check for visible obstruction (e.g., secretions, meconium).",
+                        "Position the head in neutral or slight extension.",
+                        "Suction if needed \u2013 oral then nasal."
+                    ]
+                },
+                {
+                    "title": "2. Breathing Assessment",
+                    "points": [
+                        "Observe chest rise and fall.",
+                        "Count respiratory rate; note irregularities.",
+                        "Use pulse oximetry if available."
+                    ]
+                },
+                {
+                    "title": "3. Airway Intervention",
+                    "points": [
+                        "If obstruction persists \u2013 consider Magill forceps or laryngoscope.",
+                        "Insert appropriate airway device (LMA, ET tube) if ventilation ineffective."
+                    ]
+                },
+                {
+                    "title": "4. Ventilation Support",
+                    "points": [
+                        "Bag\u2011valve\u2011mask ventilation at 40\u201360 breaths/min.",
+                        "Deliver 21\u201330\u202f% oxygen initially; titrate based on SpO\u2082.",
+                        "Consider CPAP if spontaneous breathing improves but is weak."
+                    ]
+                },
+                {
+                    "title": "5. Ongoing Re\u2011assessment",
+                    "points": [
+                        "Re\u2011evaluate airway and breathing every 30\u202fseconds.",
+                        "Escalate to chest compressions if heart rate <\u202f60\u202fbpm despite adequate ventilation."
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "description": "Full\u2011size algorithm wall chart for NYI airway and breathing assessment",
+                    "thumbnailUrl": "../images/coin7.png",
+                    "fullSizeUrl": "../images/coin7.png",
+                    "altText": "Wall chart illustration showing step\u2011by\u2011step emergency airway and breathing management for a newborn."
+                }
+            ]
+        }
+    ],
+    "_source_file": "WI_YIresusc.html"
+}

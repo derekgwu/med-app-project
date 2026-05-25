@@ -1,0 +1,114 @@
+{
+    "title": "Essential Newborn and Young Infant Equipment (Chapter 21)",
+    "imageLinks": [],
+    "sections": [
+        {
+            "title": "Learning Objectives",
+            "description": "After completion of this chapter the participant should be able to:",
+            "objectives": [
+                "Describe the minimum equipment required to provide NYI resuscitation.",
+                "Assemble the minimum equipment required to provide NYI resuscitation."
+            ],
+            "subsections": []
+        },
+        {
+            "title": "Equipment Overview",
+            "description": "This equipment should be available in an area in the delivery suite and neonatal care unit for facilitating immediate care of the newborn and ongoing emergency care. It must be checked regularly and supplies replaced after use.",
+            "subsections": [
+                {
+                    "title": "Equipment",
+                    "items": [
+                        "Baby cots",
+                        "Clock",
+                        "Mattresses",
+                        "Radiant warmer with bassinet (link: E8_Radiant Warmer.html)",
+                        "Room thermometer",
+                        "Apnoea monitor",
+                        "Axillary thermometer",
+                        "Bilirubinometer",
+                        "Continuous temperature monitor",
+                        "CPAP machine (link: C7_CPAP.html)",
+                        "Glucometer (link: E9_Glucometer.html)",
+                        "Guedel airways",
+                        "Haemoglobinometer",
+                        "Incubator",
+                        "Oxygen concentrator (link: E3_Oxygen concentrator.html) + Oxygen flow splitter (link: E5_Oxygen splitter.html)",
+                        "pH monitor",
+                        "Phototherapy lights (link: E11_phototherapy.html)",
+                        "Pulse oximeter (link: E2_Pulse oximeter.html)",
+                        "Self\u2011inflating resuscitation bag (250\u202fml\u2011500\u202fml) with masks (size\u202f0 and\u202f1)",
+                        "Suction machine (link: E1_Suctionpump.html)",
+                        "Syringe/infusion pump (link: E10_Syringepump.html)",
+                        "Weighing scales"
+                    ]
+                },
+                {
+                    "title": "Supplies",
+                    "items": [
+                        "Cotton swabs",
+                        "DRY warm cloths x2 (absorbent)",
+                        "Extension tubing to deliver fluid and giving sets",
+                        "Feeding cups",
+                        "Hat",
+                        "Identification bands",
+                        "IV cannulae (26G)",
+                        "Lancets",
+                        "Litmus paper",
+                        "Mattresses",
+                        "Nasal catheters / prongs",
+                        "Needles",
+                        "Oxygen tubing",
+                        "Penguin sucker (link: C3_ResuscNewborn.html#penguin)",
+                        "Sterile and examination gloves",
+                        "Sterile blade / scissors",
+                        "Sterile cord ties",
+                        "Suction catheters (10F, 12F)",
+                        "Feeding tubes (6F, 8F)",
+                        "Syringes (2, 5, 10, 20, 50\u202fml)",
+                        "Tape"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Drugs and Intravenous Fluids",
+            "subsections": [
+                {
+                    "title": "Drugs",
+                    "items": [
+                        "Adrenaline (link: Formulary.html#adrenaline)",
+                        "Benzylpenicillin (link: Formulary.html#bpen)",
+                        "Gentamicin (link: Formulary.html#gentamicin)",
+                        "Ceftriaxone (link: Formulary.html#ceftriaxone)",
+                        "Oral Nevirapine for HIV\u2011exposed infants (link: Formulary.html#nevirapine)",
+                        "Aminophylline (link: Formulary.html#aminophylline)",
+                        "Phenobarbitone (link: Formulary.html#phenobarbitone)",
+                        "TEO (link: Formulary.html#teo)",
+                        "Vitamin\u202fK \u2013 1\u202fmg for term, 0.5\u202fmg for preterm (link: Formulary.html#vitk)",
+                        "Chlorhexidine (link: Formulary.html#chlorhexidine)"
+                    ]
+                },
+                {
+                    "title": "Intravenous Fluids",
+                    "items": [
+                        "Ringers Lactate",
+                        "Normal Saline",
+                        "50\u202f% glucose",
+                        "10\u202f% glucose"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Key Facts for Providers",
+            "description": "Essential Newborn and Young Infant Equipment and Medication",
+            "bulletPoints": [
+                "Health workers should be aware of the essential equipment needed to run a newborn or young infant unit.",
+                "The health workers are responsible for maintaining and cleaning these items on the ward to optimise lifespan and prevent cross infections.",
+                "Stock levels and functionality should be monitored and appropriate action taken to ensure their availability."
+            ],
+            "subsections": []
+        }
+    ],
+    "_source_file": "C21_essential.html"
+}

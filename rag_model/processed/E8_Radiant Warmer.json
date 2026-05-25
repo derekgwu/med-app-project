@@ -1,0 +1,220 @@
+{
+    "title": "E\u202f8\u202fRadiant Warmer",
+    "learningObjectives": [
+        "Recognise the clinical situations that require a neonatal radiant warmer.",
+        "Explain the four mechanisms of neonatal heat loss and how radiant warmers counteract them.",
+        "Select and set the appropriate warming mode (pre\u2011warm, automatic/servo, manual).",
+        "Demonstrate safe set\u2011up, patient preparation, placement, monitoring and removal of a newborn on a radiant warmer.",
+        "Apply infection\u2011prevention and cleaning protocols to maintain device safety.",
+        "Identify common clinical and device\u2011related complications and initiate appropriate corrective actions.",
+        "Troubleshoot basic power, heating and probe failures before contacting maintenance."
+    ],
+    "sections": [
+        {
+            "id": "clinical-problem",
+            "title": "Clinical Problem",
+            "learningObjectives": [
+                "Understand why temperature <\u202f36\u202f\u00b0C at birth increases mortality risk.",
+                "Identify newborn groups for which radiant warming is indicated."
+            ],
+            "subsections": [],
+            "imageLinks": [
+                "../images/coin105.png"
+            ]
+        },
+        {
+            "id": "assessment",
+            "title": "Assessment",
+            "learningObjectives": [
+                "Describe the four mechanisms of neonatal heat loss (evaporation, radiation, conduction, convection).",
+                "Know the normal axillary temperature range (36.5\u202f\u00b0C\u201137.5\u202f\u00b0C).",
+                "Differentiate the three warming modes (pre\u2011warm, automatic/servo, manual)."
+            ],
+            "subsections": [
+                {
+                    "title": "Heat\u2011loss mechanisms & warming modes",
+                    "content": "Summarises evaporation, radiation, conduction and convection; explains how radiant warmers provide focused radiative heat and outlines pre\u2011warm, automatic/servo and manual settings.",
+                    "imageLinks": [
+                        "../images/coin106.png",
+                        "../images/coin106a.png",
+                        "../images/coin107.png"
+                    ]
+                }
+            ],
+            "imageLinks": []
+        },
+        {
+            "id": "management",
+            "title": "Management",
+            "learningObjectives": [
+                "Set\u2011up the warmer safely (power, temperature probe, heating mode).",
+                "Prepare the newborn and required consumables before positioning.",
+                "Place the infant correctly and secure the temperature probe.",
+                "Monitor temperature and alarms according to the selected mode.",
+                "Remove the infant safely and disinfect the device."
+            ],
+            "subsections": [
+                {
+                    "title": "Setting up for a patient",
+                    "content": "Plug power, select pre\u2011warm or 25\u202f% manual, connect temperature probe and verify heat from the overhead elements.",
+                    "imageLinks": [
+                        "../images/coin108.png",
+                        "../images/coin108a.png",
+                        "../images/coin108b.png",
+                        "../images/coin109.png",
+                        "../images/coin109a.png",
+                        "../images/coin109b.png"
+                    ]
+                },
+                {
+                    "title": "Preparing a patient",
+                    "content": "Gather tape, gauze, 70\u202f% alcohol; explain procedure to guardians; perform hand\u2011washing; ensure the baby is dry and wearing a hat.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Starting a patient",
+                    "content": "Pre\u2011warm the cot, switch to servo/automatic mode, position infant centrally, clean and place the temperature probe over the liver (or flank for prone babies) and secure it.",
+                    "imageLinks": [
+                        "../images/coin110.png",
+                        "../images/coin110a.png",
+                        "../images/coin110b.png"
+                    ]
+                },
+                {
+                    "title": "Caring for a patient",
+                    "content": "Monitor temperature 5\u202fmin after start then every 4\u202fh (servo) or 30\u202fmin (manual); respond to temperature, probe, power and system alarms.",
+                    "imageLinks": [
+                        "../images/coin111.png",
+                        "../images/coin111a.png",
+                        "../images/coin111b.png",
+                        "../images/coin111c.png",
+                        "../images/coin111d.png"
+                    ]
+                },
+                {
+                    "title": "Removing a patient",
+                    "content": "Disconnect tape, disinfect probe site and probe, turn off and unplug the warmer, check infant\u2019s temperature after 30\u202fmin, and disinfect the cot before reuse.",
+                    "imageLinks": [
+                        "../images/coin112.png"
+                    ]
+                }
+            ],
+            "imageLinks": []
+        },
+        {
+            "id": "infection-prevention",
+            "title": "Infection Prevention",
+            "learningObjectives": [
+                "Apply hand\u2011 hygiene before and after patient contact.",
+                "Ensure all consumables (probes, tape, gauze) are clean or single\u2011use.",
+                "Follow post\u2011use disinfection procedures for probe, control panel, mattress and cot."
+            ],
+            "subsections": [
+                {
+                    "title": "General infection prevention",
+                    "content": "Hand washing, use of new/clean consumables, proper storage of cables, and dedicated probe per infant.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Disinfection after use",
+                    "content": "Turn off and cool the unit, wipe probe, panel, power button, mattress and cot with gauze and 70\u202f% alcohol or diluted chlorine.",
+                    "imageLinks": []
+                }
+            ],
+            "imageLinks": []
+        },
+        {
+            "id": "complications",
+            "title": "Complications",
+            "learningObjectives": [
+                "Identify clinical complications (hypothermia, hyperthermia, pressure sores, falls, infection).",
+                "Recognise device\u2011related complications (probe mis\u2011management, alarm mis\u2011setting, fire risk)."
+            ],
+            "subsections": [
+                {
+                    "title": "Clinical complications",
+                    "content": "Discusses hypothermia, hyperthermia, pressure sores, falls and infection risks linked to improper use.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Device complications",
+                    "content": "Covers overheating from probe loss, improper alarm thresholds, and fire hazards from linen placement.",
+                    "imageLinks": [
+                        "../images/coin116.png"
+                    ]
+                }
+            ],
+            "imageLinks": []
+        },
+        {
+            "id": "maintenance",
+            "title": "Care & Maintenance",
+            "learningObjectives": [
+                "Understand power requirements and the need for dedicated mains sockets.",
+                "Place the warmer correctly in the ward to minimise drafts.",
+                "Perform weekly preventive checks of heating elements, probe and power\u2011loss alarm."
+            ],
+            "subsections": [
+                {
+                    "title": "Power source",
+                    "content": "Warmers use mains power; plug into a dedicated socket with surge protection; not suitable for low\u2011power backup systems.",
+                    "imageLinks": [
+                        "../images/coin117.png",
+                        "../images/coin117a.png"
+                    ]
+                },
+                {
+                    "title": "Ward location",
+                    "content": "Place against a wall, control panel facing centre of room, keep away from windows and drafts.",
+                    "imageLinks": [
+                        "../images/coin118.png"
+                    ]
+                },
+                {
+                    "title": "User preventive maintenance",
+                    "content": "Weekly test of heating elements & probe by feeling heat and checking temperature rise; test power\u2011loss alarm by disconnecting mains.",
+                    "imageLinks": []
+                }
+            ],
+            "imageLinks": []
+        },
+        {
+            "id": "troubleshooting",
+            "title": "Troubleshooting & Repair",
+            "learningObjectives": [
+                "Diagnose why the unit will not power on.",
+                "Identify reasons for lack of heat despite power.",
+                "Resolve temperature\u2011probe reading failures."
+            ],
+            "subsections": [
+                {
+                    "title": "Problem\u202f1 \u2013 Unit does not turn on",
+                    "content": "Check power cable connection, power switch; replace cable if needed; contact maintenance if still off.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Problem\u202f2 \u2013 Unit powers on but does not heat",
+                    "content": "Verify heating setting is >\u202f0\u202f% (manual) or correct mode selected; replace cable if needed; contact maintenance if heating still absent.",
+                    "imageLinks": [
+                        "../images/coin120.png",
+                        "../images/coin120a.png"
+                    ]
+                },
+                {
+                    "title": "Problem\u202f3 \u2013 Probe not reading temperature",
+                    "content": "Hold probe in hand and watch for temperature change; replace probe if no change or alarm persists; contact maintenance.",
+                    "imageLinks": []
+                }
+            ],
+            "imageLinks": []
+        },
+        {
+            "id": "references",
+            "title": "References",
+            "learningObjectives": [],
+            "subsections": [],
+            "imageLinks": []
+        }
+    ],
+    "_source_file": "E8_Radiant Warmer.html"
+}

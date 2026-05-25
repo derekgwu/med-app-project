@@ -1,0 +1,159 @@
+{
+    "title": "Triage (Chapter\u202f1)",
+    "learningObjectives": [
+        "Define triage",
+        "Describe how to triage",
+        "Understand ABCCCD and priority concept",
+        "Demonstrate triage skills"
+    ],
+    "sections": [
+        {
+            "id": "triage",
+            "title": "\u2018Triage\u2019 means \u2018sorting\u2019",
+            "intro": "Triage is the process of rapidly assessing all sick children when they first arrive in hospital and sorting them according to their need.",
+            "keyPoints": [
+                "Triage assessment can be done anywhere such as in out\u2011patients or the ward.",
+                "Triage should be carried out, on arrival, to all new patients to the hospital.",
+                "Triage can be done by any trained person \u2013 e.g. a health worker, a receptionist, a guard."
+            ],
+            "categories": [
+                {
+                    "name": "EMERGENCIES",
+                    "label": "E",
+                    "color": "red",
+                    "description": "Those with life\u2011threatening illness must be seen immediately."
+                },
+                {
+                    "name": "PRIORITIES",
+                    "label": "P",
+                    "color": "orange",
+                    "description": "Those who are less sick must be seen next."
+                },
+                {
+                    "name": "NON\u2011URGENT (QUEUE)",
+                    "label": "Q",
+                    "color": "green",
+                    "description": "Those who are non\u2011urgent can wait their turn in the queue."
+                }
+            ],
+            "categoryTable": [
+                {
+                    "category": "EMERGENCY [E]",
+                    "color": "red",
+                    "definition": "patient must be seen at once; may need life\u2011saving treatment"
+                },
+                {
+                    "category": "PRIORITY [P]",
+                    "color": "orange",
+                    "definition": "patient needs rapid assessment; needs to be seen soon"
+                },
+                {
+                    "category": "NON\u2011URGENT* [Q]",
+                    "color": "green",
+                    "definition": "patient can safely wait to be seen; *NYI are never in this category"
+                }
+            ]
+        },
+        {
+            "id": "emergency",
+            "title": "EMERGENCIES",
+            "description": "Emergencies are sent straight to the best place for resuscitation.",
+            "abccccdConcept": "The ABCCCD concept is used to identify emergencies. It is a quick screening tool, not a replacement for a full examination.",
+            "emergencySignsAndTreatments": [
+                {
+                    "system": "Airway & Breathing",
+                    "signs": [
+                        "Not breathing",
+                        "Centrally cyanosed",
+                        "Noisy breathing",
+                        "Severe respiratory distress"
+                    ],
+                    "treatments": [
+                        "Manage the airway",
+                        "Give oxygen",
+                        "If present, remove foreign body, BMV"
+                    ]
+                },
+                {
+                    "system": "Circulation",
+                    "signs": [
+                        "Cold hands",
+                        "Capillary refill >\u202f3\u202fseconds",
+                        "Weak and fast pulse"
+                    ],
+                    "treatments": [
+                        "Manage the airway",
+                        "Give oxygen",
+                        "Start fluids 10\u202fml/kg IV"
+                    ]
+                },
+                {
+                    "system": "Coma / Convulsions",
+                    "signs": [
+                        "Unconscious",
+                        "Convulsing",
+                        "Low blood sugar"
+                    ],
+                    "treatments": [
+                        "Manage the airway",
+                        "Give oxygen",
+                        "Give 10\u202f% Dextrose IV",
+                        "Position the baby"
+                    ]
+                },
+                {
+                    "system": "Dehydration",
+                    "signs": [
+                        "Lethargy",
+                        "Sunken eyes",
+                        "Prolonged skin pinch >\u202f2\u202fseconds"
+                    ],
+                    "treatments": [
+                        "No Malnutrition \u2013 Give IV fluids + NGT",
+                        "Severe Malnutrition \u2013 Give NGT, try to avoid IV"
+                    ]
+                }
+            ],
+            "relatedResources": [
+                {
+                    "title": "Resuscitation of the Newborn",
+                    "link": "C3_ResuscNewborn.html"
+                },
+                {
+                    "title": "Resuscitation of the Young Infant",
+                    "link": "C4_ResuscInfant.html"
+                }
+            ]
+        },
+        {
+            "id": "priorities",
+            "title": "PRIORITIES",
+            "description": "Priorities are sent to the front of the queue to be seen quickly. After emergencies are excluded, priority signs are looked for.",
+            "mnemonic": "3TPR, MOB \u2013 and all infants <\u202f2\u202fmonths are automatically priorities.",
+            "prioritySigns": {
+                "3Ts": [
+                    "Tiny (less than 2\u202fmonths of age)",
+                    "Temperature (high temperature as judged by your hand)",
+                    "Trauma"
+                ],
+                "3Ps": [
+                    "Pain",
+                    "Pallor",
+                    "Poisoning"
+                ],
+                "3Rs": [
+                    "Respiratory distress (not life\u2011threatening)",
+                    "Referral (urgent)",
+                    "Restless"
+                ],
+                "MOB": [
+                    "Malnutrition",
+                    "Oedema",
+                    "Burns"
+                ]
+            }
+        }
+    ],
+    "imageLinks": [],
+    "_source_file": "C1_Triage.html"
+}

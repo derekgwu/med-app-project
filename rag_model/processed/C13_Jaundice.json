@@ -1,0 +1,183 @@
+{
+    "title": "Jaundice and Phototherapy (Chapter\u202f13)",
+    "learningObjectives": [
+        "Describe physiological and pathological jaundice, including prolonged jaundice.",
+        "Describe how to evaluate jaundice including assess its severity.",
+        "Describe the management of jaundiced NYI."
+    ],
+    "sections": [
+        {
+            "id": "intro",
+            "title": "Introduction",
+            "summary": "More than 50\u202f% of normal newborns and 80\u202f% of preterm infants become jaundiced. Early mother\u2011baby contact and frequent breastfeeding reduce the need for treatment.",
+            "tables": [
+                {
+                    "caption": "Comparison of physiological, pathological and prolonged jaundice",
+                    "headers": [
+                        "Physiological",
+                        "Pathological",
+                        "Prolonged/Pathological"
+                    ],
+                    "rows": [
+                        [
+                            "Appears after 48\u202fh of life; peaks at 4\u20117\u202fdays; usually resolves without treatment (some NYI need phototherapy).",
+                            "Starts on day\u202f1; may be accompanied by fever; deep jaundice involves palms and soles.",
+                            "Lasts >14\u202fdays in term infants and >21\u202fdays in preterm infants."
+                        ],
+                        [
+                            "",
+                            "Possible causes: Haemolysis, Neonatal sepsis, Congenital infection",
+                            "Possible causes: Hypothyroidism, Neonatal hepatitis, Biliary atresia (pale stool, dark urine)"
+                        ]
+                    ]
+                }
+            ],
+            "subsections": []
+        },
+        {
+            "id": "evaluate",
+            "title": "Evaluation for Aetiology \u2013 History",
+            "summary": "Key historical clues guide differential diagnosis of neonatal jaundice.",
+            "tables": [
+                {
+                    "caption": "History vs. Possible Diagnosis",
+                    "headers": [
+                        "History",
+                        "Diagnosis"
+                    ],
+                    "rows": [
+                        [
+                            "Birth weight, Gestation, Post\u2011natal age",
+                            "Consider jaundice of prematurity"
+                        ],
+                        [
+                            "Fever, Lethargy, Poor feeding, High\u2011pitched/reduced cry, Maternal UTI, foul amniotic fluid, maternal fever",
+                            "Neonatal sepsis (often causes jaundice)"
+                        ],
+                        [
+                            "Birth asphyxia (5\u2011min Apgar \u2264\u202f7)",
+                            "Jaundice associated with asphyxia"
+                        ],
+                        [
+                            "Onset <\u202f24\u202fh, Family history of haemolytic disease, Sibling required phototherapy, Failure of phototherapy",
+                            "Hemolytic disease (ABO incompatibility, Rh disease)"
+                        ]
+                    ]
+                }
+            ],
+            "subsections": []
+        },
+        {
+            "id": "examination",
+            "title": "Evaluation for Aetiology \u2013 Examination",
+            "summary": "Physical examination findings that point toward specific diagnoses.",
+            "tables": [
+                {
+                    "caption": "Examination vs. Possible Diagnosis",
+                    "headers": [
+                        "Examination",
+                        "Diagnosis"
+                    ],
+                    "rows": [
+                        [
+                            "Prematurity",
+                            "Jaundice of prematurity"
+                        ],
+                        [
+                            "Temperature instability, CNS signs (lethargy)",
+                            "Possible meningitis or sepsis"
+                        ],
+                        [
+                            "Cephalohaematoma or significant bruising",
+                            ""
+                        ],
+                        [
+                            "Petechiae, Hepato\u2011splenomegaly",
+                            "Congenital infection"
+                        ]
+                    ]
+                }
+            ],
+            "subsections": []
+        },
+        {
+            "id": "severity",
+            "title": "Assessment of Severity of Jaundice",
+            "summary": "Clinical assessment using blanching, the Kramer scale, and, when available, transcutaneous or serum bilirubin measurements. Also look for signs of acute bilirubin encephalopathy (kernicterus) and dehydration.",
+            "subsections": []
+        },
+        {
+            "id": "investigations",
+            "title": "Investigations",
+            "items": [
+                "Infection screen (LP, blood culture, urine dipstick)",
+                "Blood grouping & Rh status (baby & mother)",
+                "Coombs test (if available)",
+                "PCV or full blood count",
+                "Syphilis testing / VDRL (mother and baby)",
+                "Liver function tests (transaminases, total & direct bilirubin)"
+            ],
+            "subsections": []
+        },
+        {
+            "id": "treatment",
+            "title": "Treatment",
+            "summary": "Primary therapy is phototherapy together with treatment of the underlying cause. Exchange transfusion is reserved for markedly high bilirubin levels.",
+            "subsections": [
+                {
+                    "title": "Phototherapy",
+                    "content": "Begin when any visible jaundice is present at birth, jaundice extends below the umbilicus, or bilirubin reaches treatment thresholds. Maintain baby naked except for a nappy, cover eyes, turn baby every 2\u202fh, monitor bilirubin daily, ensure adequate feeding, and watch for dehydration."
+                },
+                {
+                    "title": "Exchange Transfusion",
+                    "content": "Indicated when bilirubin rises above specific cut\u2011off levels (see Phototherapy chapter for exact values)."
+                }
+            ]
+        },
+        {
+            "id": "prevention",
+            "title": "Prevention of Jaundice",
+            "items": [
+                "Skin\u2011to\u2011skin contact immediately after delivery and early breastfeeding (within 1\u202fh).",
+                "Room\u2011in: baby stays with mother 24\u202fh/day and feeds on demand.",
+                "Avoid mother\u2011baby separation whenever possible.",
+                "If separation is unavoidable, provide expressed breast milk every three hours."
+            ],
+            "subsections": []
+        },
+        {
+            "id": "phototherapy_lights",
+            "title": "Phototherapy Lights (E\u202f11)",
+            "summary": "Indications for initiating phototherapy and practical management while the baby is under lights.",
+            "subsections": [
+                {
+                    "title": "Indications",
+                    "items": [
+                        "Visible jaundice on day\u202f0.",
+                        "Jaundice extending below the umbilicus.",
+                        "Bilirubin level meeting treatment thresholds."
+                    ]
+                },
+                {
+                    "title": "While on Phototherapy",
+                    "items": [
+                        "Baby naked except for nappy; eyes covered with gauze.",
+                        "Check bilirubin daily if possible.",
+                        "Turn baby every 2\u202fh.",
+                        "Monitor for dehydration.",
+                        "Ensure adequate feeding \u2013 supplement with expressed breast milk via cup or NGT if needed.",
+                        "Promote mother\u2011child bonding."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "prolonged",
+            "title": "Prolonged Jaundice",
+            "summary": "Jaundice persisting >14\u202fdays in term infants or >21\u202fdays in preterm infants is abnormal and may indicate infection, hypothyroidism, hepatitis, or biliary atresia. Pale stools or dark urine warrant referral for ultrasound, thyroid function tests, and direct/indirect bilirubin measurement.",
+            "subsections": []
+        }
+    ],
+    "imageLinks": [],
+    "_source_file": "C13_Jaundice.html"
+}

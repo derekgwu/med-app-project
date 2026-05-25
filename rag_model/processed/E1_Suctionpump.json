@@ -1,0 +1,315 @@
+{
+    "title": "Suction Machine (Pump) (E\u202f1)",
+    "source": "NEST360\u00b0. Newborn Essential Solutions and Technologies\u2011Education \u2013 Clinical Modules: Suction Pump (June\u202f2020)",
+    "learning_objectives": [
+        "Recognise clinical situations where a suction pump is required for newborns and infants.",
+        "Select the appropriate suction device (pump, catheter, Yankauer or Penguin sucker) for a given patient size.",
+        "Demonstrate step\u2011by\u2011step set\u2011up, patient preparation, suctioning technique and safe removal of the device.",
+        "Apply infection\u2011prevention and disinfection procedures to minimise cross\u2011contamination.",
+        "Identify common complications (clinical and device\u2011related) and appropriate corrective actions.",
+        "Perform routine maintenance, weekly preventive checks and basic troubleshooting before calling technical support."
+    ],
+    "sections": [
+        {
+            "id": "clinical_problem",
+            "title": "Clinical Problem",
+            "summary": "Obstruction of the nostrils, mouth or upper airway by secretions, blood or meconium can cause respiratory compromise and hypoxia. Suction pumps clear these obstructions. Routine suctioning is not recommended; only suction when obstruction is evident.",
+            "image_links": [],
+            "learning_objectives": [
+                "Explain why suction is indicated only for airway obstruction.",
+                "Describe the risks of routine or unnecessary suctioning."
+            ],
+            "subsections": []
+        },
+        {
+            "id": "assessment",
+            "title": "Assessment",
+            "summary": "Overview of suction\u2011pump types, their components and pressure ranges. Highlights adult vs. paediatric/neonatal pumps, bacterial filters and reusable Penguin suckers.",
+            "image_links": [
+                "../images/coin8b.png",
+                "../images/coin9b.png",
+                "../images/coin9c.png",
+                "../images/coin10 b.png",
+                "../images/coin10c.png"
+            ],
+            "learning_objectives": [
+                "Identify the parts of a suction pump (pump, collection reservoir, filter, tubing).",
+                "Distinguish between adult, paediatric and neonatal suction pumps based on vacuum range.",
+                "Explain the purpose of the bacterial filter and why Penguin suckers are preferred over non\u2011autoclavable bulbs."
+            ],
+            "subsections": [
+                {
+                    "id": "alert_2_1",
+                    "title": "ALERT\u202f2.1 \u2013 Suction Efficacy",
+                    "content": "Recommended suction pressure for neonates is 60\u2011100\u202fmm\u202fHg for \u2264\u202f10\u202fseconds (WHO range 50\u2011100\u202fmm\u202fHg).",
+                    "image_links": []
+                }
+            ]
+        },
+        {
+            "id": "management",
+            "title": "Management",
+            "summary": "Comprehensive guide to using a suction pump: set\u2011up, patient preparation, suctioning technique, care during the procedure and safe removal.",
+            "image_links": [
+                "../images/coin12a.png",
+                "../images/coin12b.png",
+                "../images/coin13a.png",
+                "../images/coin13b.png",
+                "../images/coin13c.png",
+                "../images/coin13a.png",
+                "../images/coin13b.png",
+                "../images/coin15a.png",
+                "../images/coin15b.png",
+                "../images/coin16a.png",
+                "../images/coin16b.png"
+            ],
+            "learning_objectives": [
+                "Assemble all required components before contacting the patient.",
+                "Explain how to set vacuum levels safely for neonates.",
+                "Demonstrate correct depth measurement for suction catheters and safe insertion techniques.",
+                "Recognise signs of trauma or misplacement during suctioning and modify technique accordingly.",
+                "Perform a gentle, timed suction event and document completion."
+            ],
+            "subsections": [
+                {
+                    "id": "setting_up",
+                    "title": "SETTING UP FOR A PATIENT",
+                    "steps": [
+                        "Gather suction pump, reservoir, filter, short & long tubing, catheter/Yankauer, water container.",
+                        "Inspect and clean the collection reservoir if needed.",
+                        "Attach filter to the reservoir port labelled \u201cVacuum\u201d.",
+                        "Connect short tubing to filter inlet and long tubing to the \u201cPatient\u201d outlet.",
+                        "Plug in and power the pump.",
+                        "Connect catheter/Yankauer to long tubing.",
+                        "Adjust regulator to 60\u2011100\u202fmm\u202fHg and test with water."
+                    ],
+                    "image_links": [
+                        "../images/coin12a.png",
+                        "../images/coin12b.png",
+                        "../images/coin13a.png",
+                        "../images/coin13b.png",
+                        "../images/coin13c.png"
+                    ]
+                },
+                {
+                    "id": "preparing",
+                    "title": "PREPARING A PATIENT",
+                    "steps": [
+                        "Explain procedure, risks and benefits to the guardian; perform hand\u2011wash and don gloves.",
+                        "Visually inspect oral/nasopharyngeal cavities for secretions.",
+                        "Choose catheter (Fr\u202f6\u201110) for thin secretions or Yankauer for thick secretions (never in newborn nares).",
+                        "If using catheter, measure from nose to ear and mark half\u2011way back with tape.",
+                        "Place infant in a neutral, comfortable position."
+                    ],
+                    "image_links": [
+                        "../images/coin15a.png",
+                        "../images/coin15b.png"
+                    ]
+                },
+                {
+                    "id": "starting",
+                    "title": "STARTING A PATIENT",
+                    "steps": [
+                        "Gather marked catheter or Yankauer, pump with tubing in place and water container.",
+                        "Re\u2011iterate purpose of the procedure to guardians, wash hands and don gloves.",
+                        "Power on the pump.",
+                        "Connect the suction device to the long tubing.",
+                        "Set vacuum to 60\u2011100\u202fmm\u202fHg and test with water.",
+                        "Insert catheter to tape\u2011marked depth (or Yankauer as far as visible).",
+                        "If needed, lubricate nostrils with 1\u20112 drops saline for Yankauer use.",
+                        "Observe patient\u2019s response, rinse catheter after each side, repeat until secretions cleared."
+                    ],
+                    "image_links": [
+                        "../images/coin16a.png",
+                        "../images/coin16b.png"
+                    ]
+                },
+                {
+                    "id": "caring",
+                    "title": "CARING FOR A PATIENT (During Suction)",
+                    "points": [
+                        "If fresh blood appears, reduce insertion force \u2013 trauma may have occurred.",
+                        "If stomach contents are suctioned, re\u2011measure depth \u2013 catheter may be in oesophagus."
+                    ],
+                    "image_links": []
+                },
+                {
+                    "id": "removing",
+                    "title": "REMOVING A PATIENT",
+                    "steps": [
+                        "Gently withdraw the catheter/Yankauer.",
+                        "Observe the infant for recovery and ensure oxygen is reinstated if needed."
+                    ],
+                    "image_links": []
+                }
+            ]
+        },
+        {
+            "id": "infection_prevention",
+            "title": "Infection Prevention",
+            "summary": "Routine cleaning and disinfection of the suction system is essential to avoid healthcare\u2011associated infections.",
+            "image_links": [],
+            "learning_objectives": [
+                "Apply hand\u2011 hygiene before and after suctioning.",
+                "Use new or fully disinfected tubing and consumables for each patient.",
+                "Store consumables in a clean, dry area and avoid kinked tubing."
+            ],
+            "subsections": [
+                {
+                    "id": "general_infection_prevention",
+                    "title": "GENERAL INFECTION PREVENTION",
+                    "steps": [
+                        "Clean hands with soap/alcohol before and after device use.",
+                        "Ensure all patient\u2011related tubing and catheters are new or thoroughly cleaned.",
+                        "Never reuse suction catheters.",
+                        "Dry tubing hanging it away from contaminated surfaces."
+                    ],
+                    "image_links": []
+                },
+                {
+                    "id": "alert_4_1",
+                    "title": "ALERT\u202f4.1 \u2013 Equipment Re\u2011processing",
+                    "content": "Uncleaned suction pumps pose a major infection risk. Refer to WHO technical specifications or Jhpiego manual for detailed re\u2011processing guidance.",
+                    "image_links": []
+                },
+                {
+                    "id": "disinfection_after_use",
+                    "title": "DISINFACTION AFTER USE",
+                    "steps": [
+                        "Disconnect and discard or disinfect catheter according to protocol.",
+                        "Turn off and unplug pump; replace dirty filter (4.1).",
+                        "Wipe pressure\u2011gauge controls with gauze soaked in 70\u202f% alcohol.",
+                        "Clean pump housing per ward surface\u2011disinfection policy.",
+                        "Clean and disinfect collection reservoir and all tubing after each patient (4.2)."
+                    ],
+                    "image_links": [
+                        "../images/coin18a.png",
+                        "../images/coin18b.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "complications",
+            "title": "Complications",
+            "summary": "Both clinical and device\u2011related complications can arise from inappropriate suctioning or poor handling of equipment.",
+            "image_links": [],
+            "learning_objectives": [
+                "Identify signs of hypoxia, trauma, vomiting or vagal stimulation during suction.",
+                "Recognise device hazards such as unsecured pumps and take preventive measures."
+            ],
+            "subsections": [
+                {
+                    "id": "clinical_complications",
+                    "title": "CLINICAL COMPLICATIONS",
+                    "items": [
+                        {
+                            "name": "Hypoxia",
+                            "description": "May occur if oxygen is stopped during suction; reinstate oxygen as soon as airway is clear."
+                        },
+                        {
+                            "name": "Trauma",
+                            "description": "Excessive pressure (>\u202f100\u202fmm\u202fHg) can damage mucosa; stop suction if bleeding appears."
+                        },
+                        {
+                            "name": "Vomiting",
+                            "description": "Over\u2011deep insertion can trigger gag reflex and aspiration."
+                        },
+                        {
+                            "name": "Vagal stimulation",
+                            "description": "Deep suction may cause apnoea or bradycardia."
+                        }
+                    ]
+                },
+                {
+                    "id": "device_complications",
+                    "title": "DEVICE COMPLICATIONS",
+                    "items": [
+                        {
+                            "name": "Improper positioning",
+                            "description": "Unsecured pumps on walls or shelves may fall, causing injury."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "maintenance",
+            "title": "Care & Maintenance",
+            "summary": "Basic first\u2011line maintenance to extend pump lifespan and ensure reliable performance.",
+            "image_links": [
+                "../images/coin19c.png",
+                "../images/coin19d.png"
+            ],
+            "learning_objectives": [
+                "Identify power source options and battery\u2011care recommendations.",
+                "Locate the pump in a safe, accessible area.",
+                "Perform weekly 15\u2011minute run\u2011time test."
+            ],
+            "subsections": [
+                {
+                    "id": "power_source",
+                    "title": "POWER SOURCE",
+                    "content": "Pumps may be mains\u2011powered, battery\u2011powered or manually operated (foot/hand). Battery\u2011powered units should stay on charger except when needed for use during power outages."
+                },
+                {
+                    "id": "ward_location",
+                    "title": "WARD LOCATION",
+                    "content": "Secure the pump where staff can easily view and adjust vacuum; keep consumables nearby for emergencies."
+                },
+                {
+                    "id": "preventive_maintenance",
+                    "title": "USER PREVENTIVE MAINTENANCE",
+                    "content": "Run the pump for 15\u202fminutes weekly to keep mechanical components functional."
+                }
+            ]
+        },
+        {
+            "id": "troubleshooting",
+            "title": "Troubleshooting & Repair",
+            "summary": "First\u2011line steps to diagnose common failures before calling technical support.",
+            "image_links": [
+                "../images/coin20a.png",
+                "../images/coin20b.png"
+            ],
+            "learning_objectives": [
+                "Check power\u2011cable connection and wall socket when device will not turn on.",
+                "Inspect collection reservoir level and tubing integrity if suction stops."
+            ],
+            "subsections": [
+                {
+                    "id": "trouble_power",
+                    "title": "Device does not turn on",
+                    "steps": [
+                        "Verify power cable is firmly seated and socket is live (7.1).",
+                        "If still non\u2011functional, contact maintenance."
+                    ]
+                },
+                {
+                    "id": "trouble_suction",
+                    "title": "Device stops suctioning",
+                    "steps": [
+                        "Ensure collection reservoir is not full; empty if necessary (7.2).",
+                        "Check tubing for leaks or disconnections.",
+                        "If problem persists, request technical assistance."
+                    ]
+                }
+            ]
+        }
+    ],
+    "references": [
+        {
+            "id": 1,
+            "citation": "Helping babies breathe provider guide. American Academy of Pediatrics, 2016."
+        },
+        {
+            "id": 2,
+            "citation": "WHO technical specifications for neonatal resuscitation devices. World Health Organization, 2016."
+        },
+        {
+            "id": 3,
+            "citation": "Curless MS, Ruparelia CS, Thompson E, and Trexler PA, eds. Infection Prevention and Control: Reference Manual for Health Care Facilities with Limited Resources. Jhpiego, 2018."
+        }
+    ],
+    "_source_file": "E1_Suctionpump.html"
+}

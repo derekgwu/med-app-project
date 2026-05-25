@@ -1,0 +1,222 @@
+{
+    "title": "E 10 Use of the Syringe Driver (Pump) \u2013 Kasupe",
+    "imageLinks": [],
+    "learningObjectives": [
+        "Explain why a syringe driver is required for neonatal intravenous fluid therapy.",
+        "Identify the clinical problems that indicate the need for a syringe driver.",
+        "Perform a complete pre\u2011use assessment of a neonate before starting a syringe driver.",
+        "Demonstrate step\u2011by\u2011step set\u2011up, preparation, start\u2011up, ongoing care and removal of a syringe driver.",
+        "Apply infection\u2011prevention practices for all components of the syringe driver system.",
+        "Recognise common clinical and device complications associated with syringe\u2011driver use.",
+        "Carry out routine care, preventive maintenance and basic troubleshooting of a syringe driver."
+    ],
+    "sections": [
+        {
+            "id": "clinical-problem",
+            "title": "Clinical Problem",
+            "learningObjectives": [
+                "Recognise that all neonates requiring IV fluids for maintenance or resuscitation need a syringe driver."
+            ],
+            "content": "All babies who require administration of intravenous fluids, especially for maintenance or resuscitation will need a syringe driver to deliver the fluids."
+        },
+        {
+            "id": "assessment",
+            "title": "Assessment",
+            "learningObjectives": [
+                "Identify neonates at risk of hypoglycaemia and dehydration when they are not being fed.",
+                "Understand how syringe drivers control low\u2011volume fluid delivery over minutes or hours."
+            ],
+            "content": "Patients who are not being fed are at risk of developing hypoglycaemia and dehydration. Syringe drivers are used for the controlled infusion of small volumes of intravenous fluids over minutes or hours.\n\nA syringe driver uses an internal motor to push a syringe plunger at very slow rates to ensure controlled delivery of low volumes of fluid. Syringe drivers may be calibrated for specific syringe brands and sizes and may have internal medicine libraries that can store flow rates and delivery volumes for specific types of fluids.\n\nPatients should receive intravenous fluid per hour, based on their weight and age. Due to their small weights, neonates should never be given fluid too quickly or in too large volumes.",
+            "subsections": []
+        },
+        {
+            "id": "management",
+            "title": "Management",
+            "learningObjectives": [
+                "Set up a syringe driver and all required accessories for a patient.",
+                "Prepare a cannulated or non\u2011cannulated neonate for infusion.",
+                "Start the infusion safely, verify patency and monitor for early complications.",
+                "Provide ongoing care, including 4\u2011hourly assessments and alarm checks.",
+                "Remove a patient safely once therapy is complete."
+            ],
+            "subsections": [
+                {
+                    "title": "Setting up for a patient",
+                    "type": "orderedList",
+                    "steps": [
+                        "Collect syringe driver, power cable, clearly labelled syringe of treatment fluid and extension tubing.",
+                        "Connect the power cable to the syringe driver, plug into socket and turn on the socket.",
+                        "Place the syringe in the syringe channel, secure with the clamp and move the syringe pusher to the top of the plunger.",
+                        "Turn on the syringe driver, set the desired flow rate and volume, then press start.",
+                        "Check that fluid is coming out of the syringe tip, connect extension tubing, flush through the tubing and ensure no air bubbles are present."
+                    ]
+                },
+                {
+                    "title": "Preparing a patient \u2013 cannulated",
+                    "type": "orderedList",
+                    "steps": [
+                        "Collect gloves, 70\u202f% alcohol, cotton swab, labelled syringe of normal saline.",
+                        "Wash hands and put on gloves.",
+                        "Clean end of cannula with alcohol\u2011soaked swab.",
+                        "Flush cannula with 1\u202fmL normal saline; if resistance or puffiness occurs, reassess or replace the line."
+                    ]
+                },
+                {
+                    "title": "Preparing a patient \u2013 not cannulated",
+                    "type": "orderedList",
+                    "steps": [
+                        "Collect gloves, gauze or cotton swabs, 70\u202f% alcohol, 24\u2011gauge IV cannula, tape, syringe of normal saline.",
+                        "Wash hands and put on gloves.",
+                        "Clean the arm with alcohol\u2011soaked gauze, apply a gentle tourniquet (no elastic band).",
+                        "Insert IV cannula into a vein and wait for a flash of blood.",
+                        "Continue inserting while gently withdrawing the needle, ensuring blood flow persists.",
+                        "Flush cannula with 1\u202fmL normal saline; if resistance or puffiness occurs, reassess or replace.",
+                        "If flush is successful, cap the cannula.",
+                        "Secure the cannula with tape (do not encircle the limb).",
+                        "Apply a splint if needed to prevent occlusion of the extension tubing."
+                    ]
+                },
+                {
+                    "title": "Starting a patient",
+                    "type": "orderedList",
+                    "steps": [
+                        "Check that the extension tubing is completely filled with fluid \u2013 NO AIR should be present.",
+                        "Set the syringe driver to the appropriate rate and volume; wait for a drop to form at the tubing tip.",
+                        "Attach the tubing to the cannula.",
+                        "After 30\u202fminutes, assess the cannula site for redness, swelling or displacement. If the site is puffy or the driver alarms:",
+                        [
+                            "Stop the syringe driver.",
+                            "Flush the cannula to assess patency; if not patent, remove and replace in a different extremity."
+                        ]
+                    ]
+                },
+                {
+                    "title": "Caring for a patient",
+                    "type": "unorderedList",
+                    "items": [
+                        "Assess at least every 4\u202fhours for: puffiness/redness around the cannula, cannula displacement, vital signs (respiratory rate, heart rate, SpO\u2082, temperature), fluid balance (input/output chart), blood sugar.",
+                        "Record the time of each treatment.",
+                        "Monitor the syringe driver frequently for remaining fluid volume and any alarms (occlusion, etc.).",
+                        "If syringe fluid finishes and more fluid is required, repeat the \u201cStarting a patient\u201d procedure."
+                    ]
+                },
+                {
+                    "title": "Removing a patient",
+                    "type": "paragraph",
+                    "content": "When fluid delivery is complete and no further infusion is needed, press Stop on the syringe driver, remove the extension tubing and cap the cannula."
+                }
+            ]
+        },
+        {
+            "id": "infection-prevention",
+            "title": "Infection Prevention",
+            "learningObjectives": [
+                "Apply routine cleaning and hand\u2011hygiene practices before and after handling the syringe driver or cannula.",
+                "Ensure all consumables (syringes, tubing, cannulas) are new, single\u2011use and stored cleanly.",
+                "Disinfect the syringe driver and its surfaces after each use according to ward guidelines."
+            ],
+            "subsections": [
+                {
+                    "title": "General infection prevention",
+                    "type": "orderedList",
+                    "steps": [
+                        "Clean hands with soap and water or alcohol before and after any patient contact; wear gloves throughout the procedure and dispose of them immediately afterwards.",
+                        "Thoroughly clean the patient\u2019s skin before inserting or adjusting a cannula.",
+                        "Use only new, patient\u2011specific consumables; never reuse items that have contacted bio\u2011fluids.",
+                        "Store all consumables in a clean, dry location."
+                    ]
+                },
+                {
+                    "title": "Disinfection after use",
+                    "type": "orderedList",
+                    "steps": [
+                        "Turn off and unplug the syringe driver.",
+                        "Dispose of tubing and syringe in a hazardous\u2011waste container; clean LCD controls and syringe clamp with an alcohol\u2011soaked cotton swab after each use.",
+                        "Clean the housing of the syringe driver according to ward surface\u2011disinfection guidelines."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "complications",
+            "title": "Complications",
+            "learningObjectives": [
+                "Identify clinical complications such as infection, extravasation injury, fluid overload, dehydration/hypoglycaemia and air emboli.",
+                "Recognise device\u2011related complications, especially errors related to syringe type and calibration."
+            ],
+            "subsections": [
+                {
+                    "title": "Clinical complications",
+                    "type": "unorderedList",
+                    "items": [
+                        "Infection \u2013 inadequate skin cleaning, long\u2011term indwelling cannula, contaminated tubing or syringe.",
+                        "Extravasation injury \u2013 cannula displacement or occlusion while infusion continues.",
+                        "Fluid overload \u2013 infusion too rapid or too large a volume, leading to oedema or respiratory distress.",
+                        "Dehydration and hypoglycaemia \u2013 interruptions in fluid delivery due to line occlusion or device failure.",
+                        "Air emboli \u2013 presence of air in syringe or tubing can cause severe respiratory or cardiac events."
+                    ]
+                },
+                {
+                    "title": "Device complications",
+                    "type": "paragraph",
+                    "content": "Errors related to syringe type may cause inaccurate fluid volumes because the driver may be calibrated for a specific brand or size of syringe."
+                }
+            ]
+        },
+        {
+            "id": "maintenance",
+            "title": "Care & Maintenance",
+            "learningObjectives": [
+                "Understand the power source requirements and the importance of battery readiness.",
+                "Know appropriate storage locations and securing methods for syringe drivers in the ward.",
+                "Perform weekly preventive maintenance tests to ensure the device remains functional."
+            ],
+            "subsections": [
+                {
+                    "title": "Power source",
+                    "type": "paragraph",
+                    "content": "Syringe drivers are usually mains\u2011powered with a rechargeable battery. Keep the device on its charger when not in use, but remove it only when needed to ensure a charged battery is available during power outages."
+                },
+                {
+                    "title": "Ward location",
+                    "type": "paragraph",
+                    "content": "Drivers may be wall\u2011 or pole\u2011mounted for easy access. Multiple drivers can be used on a single patient; they must be secured while in use and syringes clearly labelled by content."
+                },
+                {
+                    "title": "User preventive maintenance",
+                    "type": "paragraph",
+                    "content": "Set up the driver as if preparing for a patient and run it for 15\u202fminutes each week if not in clinical use. Visually inspect for missing parts or alarm indicators during this test run."
+                }
+            ]
+        },
+        {
+            "id": "troubleshooting",
+            "title": "Troubleshooting & Repair",
+            "learningObjectives": [
+                "Follow first\u2011line troubleshooting steps before contacting engineering or maintenance.",
+                "Identify common faults such as power failure or inability to push fluid and know appropriate actions."
+            ],
+            "subsections": [
+                {
+                    "title": "1 \u2013 The syringe driver is not turning on",
+                    "type": "orderedList",
+                    "steps": [
+                        "Check that the power cable is securely attached to the driver and that the socket is powered.",
+                        "If the driver still does not turn on, contact the maintenance department."
+                    ]
+                },
+                {
+                    "title": "2 \u2013 The syringe driver is not pushing out fluid",
+                    "type": "orderedList",
+                    "steps": [
+                        "Check that no alarms are sounding on the driver.",
+                        "Remove the syringe and attempt to manually push fluid from the syringe.",
+                        "If fluid does not flow manually, replace the syringe.",
+                        "If fluid flows manually but the driver still fails, contact the maintenance department."
+                    ]
+                }
+            ]
+        }
+    ],
+    "_source_file": "E10_Syringepump.html"
+}

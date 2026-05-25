@@ -1,0 +1,280 @@
+{
+    "title": "E\u202f3\u202fOxygen Concentrator",
+    "overallLearningObjectives": [
+        "Explain the clinical situations in which an oxygen concentrator is indicated for neonates and young infants.",
+        "Describe the technical specifications, flow\u2011types and basic physiology of oxygen concentrators.",
+        "Demonstrate how to set\u2011up, operate, and safely disconnect an oxygen concentrator for a patient.",
+        "Identify infection\u2011prevention practices required before and after each use of the device.",
+        "Recognise common device\u2011related complications and the steps required to mitigate them.",
+        "Perform routine care, preventive maintenance and filter\u2011replacement procedures.",
+        "Apply systematic troubleshooting steps before contacting technical support."
+    ],
+    "imageLinks": [
+        "../images/coin38.png",
+        "../images/coin39.png",
+        "../images/coin40.png",
+        "../images/coin42.png",
+        "../images/coin42a.png",
+        "../images/coin43.png",
+        "../images/coin43a.png",
+        "../images/coin44.png",
+        "../images/coin45.png",
+        "../images/coin46.png",
+        "../images/coin47.png",
+        "../images/coin47a.png",
+        "../images/coin48a.png",
+        "../images/coin48d.png",
+        "../images/coin48e.png"
+    ],
+    "sections": [
+        {
+            "id": "clinical-problem",
+            "title": "Clinical Problem",
+            "learningObjectives": [
+                "Identify when an oxygen concentrator should be considered as the primary source of oxygen.",
+                "Distinguish between single\u2011patient use and shared\u2011patient configurations."
+            ],
+            "summary": "Oxygen concentrators can supply oxygen to one\u2011or\u2011two patients directly, or be used with flow splitters or CPAP devices to serve multiple patients. They are indicated for sick children with hypoxia (SpO\u2082\u202f<\u202f90\u202f%).",
+            "subsections": []
+        },
+        {
+            "id": "assessment",
+            "title": "Assessment",
+            "learningObjectives": [
+                "Recall the flow\u2011range (2\u201110\u202fL/min) and oxygen\u2011purity (85\u201195.5\u202f%) of typical concentrators.",
+                "Differentiate between intermittent/pulse flow and continuous flow.",
+                "Interpret the visual indicators that confirm proper device operation."
+            ],
+            "summary": "Concentrators deliver 2\u201110\u202fL/min of oxygen at 85\u201195.5\u202f% purity using two sieve beds. Two flow modes exist: intermittent/pulse (pulsed breaths) and continuous (steady flow). Images illustrate the device and flow\u2011type selector.",
+            "imageReferences": [
+                "coin38.png",
+                "coin39.png",
+                "coin40.png"
+            ],
+            "subsections": []
+        },
+        {
+            "id": "management",
+            "title": "Management",
+            "learningObjectives": [
+                "Prepare the patient and environment before connecting the concentrator.",
+                "Set the appropriate flow rate and verify device readiness.",
+                "Perform the \u201cBubble Test\u201d to confirm oxygen delivery.",
+                "Safely remove the patient and power down the device after use."
+            ],
+            "summary": "Guidance on step\u2011by\u2011step set\u2011up, patient preparation, and verification of oxygen delivery. Includes power\u2011on, flow\u2011setting, humidification, nasal\u2011prong attachment, and flow verification.",
+            "subsections": [
+                {
+                    "id": "setting-up-for-a-patient",
+                    "title": "Setting Up for a Patient",
+                    "learningObjectives": [
+                        "Plug in and power the concentrator correctly.",
+                        "Allow the machine to stabilise for 5\u202fminutes before use.",
+                        "Determine need for humidification (\u2265\u202f4\u202fL/min).",
+                        "Attach correctly sized nasal prongs and perform the Bubble Test."
+                    ],
+                    "steps": [
+                        "Plug power cable into wall and turn on concentrator (3.1a\u20113.1b).",
+                        "Set desired flow; wait 5\u202fmin for indicator light (3.2).",
+                        "If flow\u202f>\u202f4\u202fL/min, connect a humidifier.",
+                        "Attach nasal prongs to oxygen port or humidifier (3.3).",
+                        "Perform Bubble Test by submerging prongs in water (3.4)."
+                    ],
+                    "imageReferences": [
+                        "coin42.png",
+                        "coin42a.png",
+                        "coin43.png",
+                        "coin43a.png",
+                        "coin44.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "infection-prevention",
+            "title": "Infection Prevention",
+            "learningObjectives": [
+                "Apply routine cleaning of the concentrator housing according to ward guidelines.",
+                "Disinfect flow\u2011meter controls with 70\u202f% alcohol after each use.",
+                "Follow institutional protocol for tubing re\u2011use and device disinfection."
+            ],
+            "summary": "Cleaning of the device and its accessories is essential to avoid hospital\u2011acquired infections. Separate sections outline general surface cleaning and post\u2011use disinfection steps.",
+            "subsections": [
+                {
+                    "id": "general-infection-prevention",
+                    "title": "General Infection Prevention",
+                    "content": "Clean the concentrator housing following ward surface\u2011disinfection procedures."
+                },
+                {
+                    "id": "disinfection-after-use",
+                    "title": "Disinfection After Use",
+                    "steps": [
+                        "Turn off and unplug the device.",
+                        "Disinfect flow\u2011meter controls with gauze soaked in 70\u202f% alcohol (4.1).",
+                        "Repeat surface cleaning of housing and LEDs after each use."
+                    ],
+                    "imageReferences": [
+                        "coin45.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "complications",
+            "title": "Complications",
+            "learningObjectives": [
+                "Identify device\u2011related complications such as inadequate oxygen concentration.",
+                "Know when to increase monitoring frequency or contact maintenance."
+            ],
+            "summary": "Device complications focus on low oxygen output; if the indicator shows a problem, maintenance is required and patient monitoring should be intensified.",
+            "subsections": [
+                {
+                    "id": "device-complications",
+                    "title": "Device Complications",
+                    "content": "Inadequate oxygen concentration (5.1) requires maintenance or replacement of the concentrator.",
+                    "imageReferences": [
+                        "coin46.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "maintenance",
+            "title": "Care & Maintenance",
+            "learningObjectives": [
+                "Describe power\u2011source options and proper ward placement for the concentrator.",
+                "Perform weekly filter checks and bi\u2011weekly cleaning of gross\u2011particle filters.",
+                "Run the machine for at least 15\u202fminutes weekly to keep sieve beds functional.",
+                "Document all preventive\u2011maintenance activities in a logbook."
+            ],
+            "summary": "Covers power options, optimal location, preventive maintenance of gross\u2011particle and bacterial filters, and routine run\u2011in to preserve sieve\u2011bed performance.",
+            "subsections": [
+                {
+                    "id": "power-source",
+                    "title": "Power Source",
+                    "content": "Concentrators may be powered from mains (with voltage protector) or a rechargeable battery, depending on model."
+                },
+                {
+                    "id": "ward-location",
+                    "title": "Ward Location",
+                    "content": "Place the unit in a clean, dry, well\u2011ventilated area, 30\u201135\u202fcm from walls for adequate airflow."
+                },
+                {
+                    "id": "user-preventive-maintenance",
+                    "title": "User Preventive Maintenance",
+                    "content": "Two filters require regular care:",
+                    "filters": [
+                        {
+                            "type": "Gross particle filter (external)",
+                            "steps": [
+                                "Pull the filter gently from the back.",
+                                "Swirl in cool, soapy water, rinse, and air\u2011dry completely.",
+                                "Store as a spare until next cleaning."
+                            ]
+                        },
+                        {
+                            "type": "Bacterial filter (internal)",
+                            "note": "Do NOT wash; cleaning is performed by the maintenance department."
+                        }
+                    ],
+                    "imageReferences": [
+                        "coin47.png",
+                        "coin47a.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "troubleshooting",
+            "title": "Troubleshooting & Repair",
+            "learningObjectives": [
+                "Use a systematic checklist to diagnose power\u2011on failures, lack of flow, and low\u2011oxygen alarms.",
+                "Know when to involve technical/maintenance staff."
+            ],
+            "summary": "Provides three primary troubleshooting scenarios with step\u2011by\u2011step actions and associated image references.",
+            "subsections": [
+                {
+                    "id": "troubleshoot-no-power",
+                    "title": "Device does not turn on",
+                    "steps": [
+                        "Verify power cable is securely attached and socket is on.",
+                        "Press the reset button (7.1) if still off.",
+                        "Contact maintenance if the device remains non\u2011functional."
+                    ],
+                    "imageReferences": [
+                        "coin48a.png"
+                    ]
+                },
+                {
+                    "id": "troubleshoot-no-flow",
+                    "title": "Device turns on but no flow is produced",
+                    "steps": [
+                        "Connect a \u201cChristmas tree\u201d nozzle to the oxygen port (7.2).",
+                        "Inspect port for debris; clean with gauze soaked in 70\u202f% alcohol (7.3).",
+                        "Escalate to maintenance if flow is still absent."
+                    ],
+                    "imageReferences": [
+                        "coin48d.png",
+                        "coin48e.png"
+                    ]
+                },
+                {
+                    "id": "troubleshoot-low-oxygen-alarm",
+                    "title": "Low\u2011oxygen indicator/alarm sounds",
+                    "steps": [
+                        "Check and replace gross\u2011particle and bacterial filters; run device 10\u202fmin.",
+                        "Confirm set flow rates are within the device\u2019s max specifications.",
+                        "If alarm persists, reduce flow; if still present after >\u202f50\u202f% reduction, contact maintenance."
+                    ]
+                }
+            ]
+        }
+    ],
+    "references": [
+        {
+            "id": 1,
+            "citation": "Textbook of Neonatal Resuscitation (NRP), 7th Ed. (American Academy of Pediatrics, 2016)."
+        },
+        {
+            "id": 2,
+            "citation": "Oxygen therapy for children. (World Health Organization, 2016)."
+        },
+        {
+            "id": 3,
+            "citation": "Bancalari, E. & Claure, N. Oxygenation Targets and Outcomes in Premature Infants. JAMA 309, 2161 (2013)."
+        },
+        {
+            "id": 4,
+            "citation": "Cummings, J. J., Polin, R. A. & Committee on Fetus and Newborn. Oxygen Targeting in Extremely Low Birth Weight Infants. Pediatrics 138, e20161576 (2016)."
+        },
+        {
+            "id": 5,
+            "citation": "Manja, V., Lakshminrusimha, S. & Cook, D. J. Oxygen Saturation Target Range for Extremely Preterm Infants: A Systematic Review and Meta\u2011analysis. JAMA Pediatrics 169, 332 (2015)."
+        },
+        {
+            "id": 6,
+            "citation": "Polin, R. A. & Bateman, D. Oxygen\u2011Saturation Targets in Preterm Infants. New England Journal of Medicine 368, 2141\u20132142 (2013)."
+        },
+        {
+            "id": 7,
+            "citation": "Walsh, M. Oxygen Delivery Through Nasal Cannulae to Preterm Infants: Can Practice Be Improved? Pediatrics 116, 857\u2013861 (2005)."
+        },
+        {
+            "id": 8,
+            "citation": "Locke, R. G., Wolfson, M. R., Shaffer, T. H., Rubenstein, S. D. & Greenspan, J. S. Inadvertent administration of positive end\u2011distending pressure during nasal cannula flow. Pediatrics 91, 135\u2013138 (1993)."
+        },
+        {
+            "id": 9,
+            "citation": "Sreenan, C., Lemke, R. P., Hudson\u2011Mason, A. & Osiovich, H. High\u2011Flow Nasal Cannulae in the Management of Apnea of Prematurity: A Comparison With Conventional Nasal Continuous Positive Airway Pressure. Pediatrics 107, 1081\u20131083 (2001)."
+        },
+        {
+            "id": 10,
+            "citation": "Curless MS, Ruparelia CS, Thompson E, and Trexler PA, eds. 2018. Infection Prevention and Control: Reference Manual for Health Care Facilities with Limited Resources. Jhpiego: Baltimore, MD."
+        },
+        {
+            "id": 11,
+            "citation": "World Health Organization. Technical specifications for oxygen concentrators. (World Health Organization, 2016)."
+        }
+    ],
+    "_source_file": "E3_Oxygen concentrator.html"
+}

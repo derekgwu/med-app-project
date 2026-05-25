@@ -1,0 +1,170 @@
+{
+    "title": "Diarrhoea and Dehydration in NYI (Chapter\u202f18)",
+    "learningObjectives": [
+        "Assess the severity of dehydration.",
+        "Describe the management of no, moderate and severe dehydration."
+    ],
+    "sections": [
+        {
+            "id": "assessment",
+            "title": "Assessment of Severe Dehydration",
+            "content": "In triage the letter D stands for Dehydration.  This section explains how to assess the degree of dehydration in infants with diarrhoea, vomiting or poor feeding, differentiating normal breast\u2011feeding stools from true diarrhoea.",
+            "subsections": [
+                {
+                    "id": "history",
+                    "title": "History taking",
+                    "content": "Ask about duration of diarrhoea/vomiting and whether blood is present in the stool."
+                },
+                {
+                    "id": "clinical-signs",
+                    "title": "Clinical signs of severe dehydration",
+                    "content": "Key observations: lethargy, sunken eyes, prolonged skin\u2011pinch (>\u202f2\u202fs), inability to suck or drink.",
+                    "images": [
+                        {
+                            "description": "Sunken eyes example",
+                            "url": "../images/coin156a.png"
+                        },
+                        {
+                            "description": "Prolonged skin\u2011pinch example",
+                            "url": "../images/coin156.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "degree-of-dehydration",
+            "title": "Assessment of the Degree of Dehydration (Table)",
+            "content": "Comparison of clinical findings and corresponding WHO management plans (A,\u202fB,\u202fC).",
+            "table": {
+                "headers": [
+                    "Degree of Dehydration",
+                    "Examine the Child",
+                    "Manage the Child"
+                ],
+                "rows": [
+                    {
+                        "degree": "Severe Dehydration",
+                        "examination": [
+                            "Lethargic or unconscious",
+                            "At least 2 of: unable to drink, sunken eyes, skin\u2011pinch >\u202f2\u202fs"
+                        ],
+                        "management": [
+                            "Plan\u202fC (see Treatment of Severe Dehydration)",
+                            "If sepsis/low weight \u2192 start antibiotics, admit or refer"
+                        ]
+                    },
+                    {
+                        "degree": "Some Dehydration",
+                        "examination": [
+                            "At least 2 of: restless/irritable, thirsty/drinks eagerly, sunken eyes, skin\u2011pinch >\u202f2\u202fs"
+                        ],
+                        "management": [
+                            "Plan\u202fB (see Treatment of Some Dehydration)",
+                            "If sepsis/low weight \u2192 start antibiotics, admit or refer"
+                        ]
+                    },
+                    {
+                        "degree": "No Dehydration",
+                        "examination": [
+                            "Insufficient signs for severe/some dehydration",
+                            "Skin\u2011pinch returns immediately"
+                        ],
+                        "management": [
+                            "Plan\u202fA (see Treatment of No Dehydration)",
+                            "Home care, educate mother, follow\u2011up in 3\u202fdays"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "pc",
+            "title": "Treatment of Severe Dehydration \u2013 Plan\u202fC",
+            "content": "Use a syringe pump if available.  Give 100\u202fml/kg Ringer\u2019s lactate IV (or normal saline if RL unavailable).  If the child can drink, give ORS by mouth/NG.  Reassess hourly and provide supportive care.",
+            "subsections": [
+                {
+                    "id": "fluid-regimen",
+                    "title": "IV Fluid Regimen",
+                    "content": "First 30\u202fml/kg over 1\u202fhour (0\u20112\u202fmonths), then 70\u202fml/kg over 5\u202fhours."
+                },
+                {
+                    "id": "ors-alternative",
+                    "title": "ORS Alternative if IV not possible",
+                    "content": "Give ORS 20\u202fml/kg/hour for 6\u202fhours (120\u202fml/kg) via NG tube."
+                },
+                {
+                    "id": "supportive-care",
+                    "title": "Supportive Care",
+                    "content": "Keep infant warm, O\u2082\u202fsat\u202f>\u202f90\u202f%, check blood glucose (treat if\u202f<\u202f2.5\u202fmmol/L), treat jaundice if present."
+                }
+            ]
+        },
+        {
+            "id": "pb",
+            "title": "Treatment of Some Dehydration \u2013 Plan\u202fB",
+            "content": "Determine ORS volume for the first 4\u202fhours (\u2248\u202fweight\u202f\u00d7\u202f75\u202fml).  Provide instructions for frequent small sips, continued breastfeeding, and warning signs.",
+            "tables": [
+                {
+                    "title": "Volume of ORS \u2013 Plan\u202fB for the NYI",
+                    "headers": [
+                        "Weight",
+                        "Amount of ORS (per hour for 4\u202fhours)"
+                    ],
+                    "rows": [
+                        {
+                            "weight": "1\u202f\u2013\u202f<\u202f2\u202fkg",
+                            "amount": "30\u202fml per hour"
+                        },
+                        {
+                            "weight": "2\u202f\u2013\u202f<\u202f4\u202fkg",
+                            "amount": "60\u202fml per hour"
+                        },
+                        {
+                            "weight": "4\u202f\u2013\u202f<\u202f6\u202fkg",
+                            "amount": "90\u202fml per hour"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "after-4h",
+            "title": "After 4\u202fHours \u2013 Re\u2011assessment",
+            "content": "Re\u2011evaluate the child, classify dehydration again and move to the appropriate plan (A,\u202fB,\u202for\u202fC).  Teach the mother to prepare ORS at home, give 5\u202fml/kg after each loose stool, and administer zinc 10\u202fmg daily for 10\u201114\u202fdays if <\u202f6\u202fmonths."
+        },
+        {
+            "id": "pa",
+            "title": "Treatment of No Dehydration \u2013 Plan\u202fA",
+            "content": "Explain home\u2011care rules: give extra fluid as tolerated, continue frequent breastfeeding, and educate on red\u2011flag signs that require return to the hospital."
+        },
+        {
+            "id": "ab",
+            "title": "Role of Antibiotics",
+            "content": "Antibiotics are rarely needed; only give for visibly bloody diarrhoea (after excluding surgical causes).  If needed: Ciprofloxacin 7.5\u202fmg/kg for 3\u202fdays or Ceftriaxone 50\u202fmg/kg IV for 5\u202fdays."
+        },
+        {
+            "id": "key-facts",
+            "title": "Key Facts for Providers",
+            "content": "Summary checklist for clinicians.",
+            "list": [
+                "Know normal stool patterns for each age group.",
+                "Take a focused history.",
+                "Assess and classify dehydration.",
+                "Apply WHO management plans: A (no), B (some), C (severe).",
+                "Antibiotics are seldom required; assess carefully before prescribing."
+            ]
+        }
+    ],
+    "imageLinks": [
+        {
+            "description": "Sunken eyes example",
+            "url": "../images/coin156a.png"
+        },
+        {
+            "description": "Prolonged skin\u2011pinch example",
+            "url": "../images/coin156.png"
+        }
+    ],
+    "_source_file": "C18_Diarrhoea.html"
+}

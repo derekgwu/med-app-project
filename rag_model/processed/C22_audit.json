@@ -1,0 +1,84 @@
+{
+    "title": "Quality Improvement and Death Audits (Chapter 22)",
+    "learningObjectives": [
+        "Understand what clinical audit is and how it can be conducted.",
+        "Understand how death audit can be used as a tool for quality improvement.",
+        "Be able to plan and conduct a neonatal death audit as part of a quality improvement process.",
+        "Be able to do a root cause analysis using the 5\u2011why analysis approach and develop action plans."
+    ],
+    "sections": [
+        {
+            "id": "clinicalaudit",
+            "title": "Clinical Audits",
+            "imageLinks": [],
+            "subsections": [
+                {
+                    "title": "Steps in Preparing to Conduct a Clinical Audit",
+                    "content": "Guidance on selecting a topic, defining the audit period, obtaining data, ethics, and keeping the audit simple.",
+                    "imageLinks": [
+                        "../images/coin157.png",
+                        "../images/coin158.png",
+                        "../images/coin159.png",
+                        "../images/coin160.png"
+                    ]
+                },
+                {
+                    "title": "Conducting the Clinical Audit",
+                    "content": "How to extract data, populate a data\u2011collection tool, analyse against standards, share results, identify gaps, and plan remedial actions.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Audit Data Collection Tool (Blood\u2011Glucose Example)",
+                    "content": "Table showing fields such as date of birth, sex, admission time, glucose test Y/N, and comments.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Monitoring Progress",
+                    "content": "Use of repeat audits, target vs. achieved tables, and visual display of progress on a graph.",
+                    "imageLinks": []
+                }
+            ]
+        },
+        {
+            "id": "deathaudit",
+            "title": "Neonatal Death Audit",
+            "imageLinks": [
+                "../images/coin161.png",
+                "../images/coin162.png"
+            ],
+            "subsections": [
+                {
+                    "title": "How to Conduct a Neonatal Death Audit",
+                    "content": "Overview of the audit cycle, purpose (no\u2011blame), and the importance of routine, ongoing reviews.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Team Composition & Planning",
+                    "content": "Suggested participants (administrator, clinicians, QIST members, data clerk, etc.) and steps for preparing the review form, source documents, and meeting logistics.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Conducting the Death Audit",
+                    "content": "Key meeting activities: review minutes, admission/mortality trends, case reviews, cause\u2011of\u2011death determination, and identification of modifiable factors.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "5\u2011Why Analysis",
+                    "content": "Root\u2011cause technique that asks \u201cwhy?\u201d up to five times; example provided for inadequate glucose monitoring.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Summary & Reporting",
+                    "content": "Compiling findings into the consolidation form, circulating minutes, assigning action\u2011point owners, and scheduling the next audit.",
+                    "imageLinks": []
+                },
+                {
+                    "title": "Key Facts for Providers (Clinical & Death Audits)",
+                    "content": "Bullet\u2011point reminder that audits target systems, not people; emphasise a no\u2011blame approach and multidisciplinary involvement.",
+                    "imageLinks": []
+                }
+            ]
+        }
+    ],
+    "_source_file": "C22_audit.html"
+}

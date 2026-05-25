@@ -1,0 +1,104 @@
+{
+    "title": "Wall Chart G \u2013 Preparation of 10% dextrose from 50%",
+    "learningObjectives": [
+        "Understand how to prepare a 10% dextrose solution from a 50% dextrose stock.",
+        "Calculate the required volumes of diluent and 50% dextrose for different syringe, burette and bag sizes.",
+        "Prepare a 10% dextrose solution in a 1\u2011L IV bag using the 4\u2011part\u2011to\u20111\u2011part mixing rule.",
+        "Plan maintenance therapy by selecting appropriate glucose delivery methods (IV fluids or enteral feeds)."
+    ],
+    "sections": [
+        {
+            "id": "make",
+            "title": "Preparation of 10% dextrose from 50% dextrose",
+            "learningObjectives": [],
+            "content": {
+                "description": "Mix water for injection (or Ringers Lactate or Normal Saline) with 50% dextrose in a 4\u202f:\u202f1 ratio (4 parts diluent to 1 part dextrose).",
+                "tables": [
+                    {
+                        "headers": [
+                            "Size",
+                            "Water for Injection or Ringers Lactate or Normal Saline (4 parts)",
+                            "50% Dextrose (1 part)"
+                        ],
+                        "rows": [
+                            [
+                                "5\u202fml syringe",
+                                "4\u202fml",
+                                "1\u202fml"
+                            ],
+                            [
+                                "10\u202fml syringe",
+                                "8\u202fml",
+                                "2\u202fml"
+                            ],
+                            [
+                                "20\u202fml syringe",
+                                "16\u202fml",
+                                "4\u202fml"
+                            ],
+                            [
+                                "50\u202fml syringe",
+                                "40\u202fml",
+                                "10\u202fml"
+                            ],
+                            [
+                                "100\u202fml burette",
+                                "80\u202fml",
+                                "20\u202fml"
+                            ],
+                            [
+                                "200\u202fml bag",
+                                "160\u202fml",
+                                "40\u202fml"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "subsections": []
+        },
+        {
+            "id": "bag",
+            "title": "To make up a bag of 10% dextrose solution",
+            "learningObjectives": [],
+            "content": {
+                "steps": [
+                    "Empty fluid out of a litre bag of IV normal saline until only 200\u202fml remain (4 parts).",
+                    "Add 50\u202fml of 50% dextrose (1 part) to reach a total volume of 250\u202fml, producing a 10% dextrose solution."
+                ],
+                "tables": [
+                    {
+                        "headers": [
+                            "250\u202fml in a litre bag",
+                            "200\u202fml of normal saline / RL solution",
+                            "50\u202fml of 50% glucose"
+                        ],
+                        "rows": []
+                    }
+                ]
+            },
+            "subsections": []
+        },
+        {
+            "id": "maintenance",
+            "title": "Maintenance Therapy",
+            "learningObjectives": [],
+            "content": {
+                "description": "After an initial glucose bolus, continue providing glucose using either:",
+                "links": [
+                    {
+                        "text": "IV fluids with glucose and electrolytes",
+                        "url": "WC_Maintenance Oral and IV fluids.html#fluids"
+                    },
+                    {
+                        "text": "Nasal gastric or oral feed",
+                        "url": "WC_Maintenance Oral and IV fluids.html#feeds"
+                    }
+                ]
+            },
+            "subsections": []
+        }
+    ],
+    "imageLinks": [],
+    "_source_file": "WG_10perc_glc.html"
+}

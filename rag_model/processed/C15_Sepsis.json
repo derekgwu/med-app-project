@@ -1,0 +1,228 @@
+{
+    "title": "Sepsis in NYI (Chapter 15)",
+    "learningObjectives": [
+        "Describe the risks for sepsis in a NYI.",
+        "Describe how a NYI may present with sepsis.",
+        "Describe the management of sepsis in a NYI (drug dosages, supportive care and duration of antibiotic treatment)."
+    ],
+    "sections": [
+        {
+            "id": "risk",
+            "title": "Risk factors for Sepsis",
+            "content": "NYI have immature immune systems and have just been colonised with bacteria during their recent delivery. They are therefore prone to infections which are likely to cross barriers (lungs\u2011blood, gut\u2011blood, meninges). Many NYI infections can be prevented by good hygiene at birth, early and exclusive breastfeeding, appropriate umbilical cord care, appropriate eye care, using Kangaroo Mother Care (KMC) and avoiding separation of the mother and infant.\n\nCommon systemic bacterial infections in young infants include sepsis, pneumonia, urinary tract infection and meningitis and all these may present alike. Sepsis is a clinical syndrome of systemic illness accompanied by septicaemia (bacteria in the blood). It is also called bacteraemia.\n\n**Risk Factors for Sepsis and Clues to Infection**\n\n- Intrapartum maternal fever (temperature >\u202f38\u202f\u00b0C)\n- Membranes ruptured >\u202f18\u202fh before delivery\n- Foul\u2011smelling or purulent amniotic fluid\n- Untreated STI such as syphilis\n- Suspected or confirmed sepsis in a twin\n\nBabies born to mothers with these risk factors may be symptomatic or asymptomatic. Both groups should be treated as having sepsis with IV antibiotics because the risk of neonatal infection and mortality rates are high.",
+            "subsections": []
+        },
+        {
+            "id": "assessment_treatment",
+            "title": "Initial Assessment and Treatment of Sepsis in the NYI",
+            "content": "ABCCCD \u2013 Assess ABCD and manage the problems identified. Provide supportive care and monitoring for the sick NYI.\n\nStart empiric antibiotics; give penicillin and gentamicin \u2013 see doses in wall\u2011charts. Give (flu)cloxacillin instead of penicillin if extensive skin pustules or abscesses are present as these may indicate a staphylococcal infection.",
+            "subsections": []
+        },
+        {
+            "id": "present",
+            "title": "Symptoms and Signs of sepsis in a NYI",
+            "content": "Typical clinical features are:",
+            "listItems": [
+                "Lethargy, decreased movement",
+                "Axillary temperature \u2265\u202f37.5\u202f\u00b0C or \u2264\u202f35.5\u202f\u00b0C (or feels hot to touch)",
+                "Umbilical redness extending to the periumbilical skin or umbilicus draining pus, skin pustules, big boil (abscess)",
+                "Painful joint/swelling, reduced movement and irritability when the part is handled",
+                "Bulging fontanelle",
+                "Grunting, nasal flaring, fast breathing, chest in\u2011drawing, crepitations in the lungs"
+            ],
+            "images": [
+                {
+                    "src": "../images/coin150.png",
+                    "description": "Umbilical redness / pus"
+                },
+                {
+                    "src": "../images/coin151.png",
+                    "description": "Bulging fontanelle"
+                },
+                {
+                    "src": "../images/coin152.png",
+                    "description": "Respiratory distress signs"
+                }
+            ],
+            "subsections": []
+        },
+        {
+            "id": "investigations",
+            "title": "Investigations",
+            "content": "A sepsis screen should be done before IV antibiotics. The screen includes:",
+            "listItems": [
+                "White blood cell count (<\u202f5\u202f000 or >\u202f20\u202f000 cells/\u00b5l are very likely sepsis in age >\u202f72\u202fh)",
+                "Lumbar puncture",
+                "Blood culture",
+                "Urine culture"
+            ],
+            "subsections": []
+        },
+        {
+            "id": "management",
+            "title": "Empiric antibiotic therapy and dose for sepsis",
+            "content": "If a baby develops a fever after >\u202f72\u202fh in a neonatal unit it is likely a hospital\u2011acquired infection; add ceftriaxone. If <\u202f72\u202fh, benzyl\u2011penicillin\u202f+\u202fgentamicin are the drugs of choice.\n\n**Dosage tables**",
+            "tables": [
+                {
+                    "caption": "First\u2011line antibiotics",
+                    "header": [
+                        "ANTIBIOTIC",
+                        "EACH DOSE",
+                        "FREQUENCY \u2013 Age <\u202f7\u202fdays",
+                        "FREQUENCY \u2013 Age >\u202f7\u202fdays",
+                        "ROUTE"
+                    ],
+                    "rows": [
+                        [
+                            "Benzyl penicillin",
+                            "50,000\u202fIU/kg",
+                            "12\u202fhrly",
+                            "6\u202fhrly",
+                            "IV, IM"
+                        ],
+                        [
+                            "AND",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        [
+                            "Gentamicin",
+                            "LBW: 3\u202fmg/kg; Term: 5\u202fmg/kg; >\u202f7\u202fdays: 7.5\u202fmg/kg",
+                            "24\u202fhrly",
+                            "24\u202fhrly (7.5\u202fmg/kg/dose)",
+                            "IV, IM"
+                        ]
+                    ]
+                },
+                {
+                    "caption": "Second\u2011line antibiotic (if needed)",
+                    "header": [
+                        "ANTIBIOTIC",
+                        "EACH DOSE",
+                        "FREQUENCY \u2013 Age <\u202f7\u202fdays",
+                        "FREQUENCY \u2013 Age >\u202f7\u202fdays",
+                        "ROUTE"
+                    ],
+                    "rows": [
+                        [
+                            "Ceftriaxone (2nd line)",
+                            "50\u2011100\u202fmg/kg",
+                            "24\u202fhrly",
+                            "24\u202fhrly",
+                            "IV"
+                        ]
+                    ]
+                },
+                {
+                    "caption": "Alternatives when benzyl\u2011penicillin unavailable",
+                    "header": [
+                        "ANTIBIOTIC",
+                        "EACH DOSE",
+                        "FREQUENCY \u2013 Age <\u202f7\u202fdays",
+                        "FREQUENCY \u2013 Age >\u202f7\u202fdays",
+                        "ROUTE"
+                    ],
+                    "rows": [
+                        [
+                            "Ampicillin",
+                            "25\u202fmg/kg",
+                            "<\u202f2\u202fkg: 12\u202fhrly",
+                            "<\u202f1.2\u202fkg: 12\u202fhrly; 1.2\u20112\u202fkg: 8\u202fhrly",
+                            "IV/IM"
+                        ],
+                        [
+                            "",
+                            "",
+                            ">\u202f2\u202fkg: 8\u202fhrly",
+                            ">\u202f2\u202fkg: 6\u202fhrly",
+                            "IV/IM"
+                        ]
+                    ]
+                },
+                {
+                    "caption": "(Flu)Cloxacillin",
+                    "header": [
+                        "ANTIBIOTIC",
+                        "EACH DOSE",
+                        "FREQUENCY \u2013 Age <\u202f7\u202fdays",
+                        "FREQUENCY \u2013 Age >\u202f7\u202fdays",
+                        "ROUTE"
+                    ],
+                    "rows": [
+                        [
+                            "(Flu)Cloxacillin",
+                            "50\u202fmg/kg",
+                            "12\u202fhrly",
+                            "6\u202fhrly",
+                            "IV"
+                        ]
+                    ]
+                }
+            ],
+            "subsections": []
+        },
+        {
+            "id": "supportive",
+            "title": "Key Facts for Providers: Supportive Care for NYI with Sepsis",
+            "content": "",
+            "listItems": [
+                "Ensure warmth.",
+                "Gentle stimulation if apnoeic; consider aminophylline if premature and estimated gestational age <\u202f37\u202fweeks.",
+                "Respiratory support with oxygen or CPAP if severe respiratory distress or apnoea.",
+                "If shocked, treat according to the impaired circulation protocol.",
+                "If hypoglycaemic, give 2\u202fml/kg of 10\u202f% dextrose stat and re\u2011check in 30\u202fmin; continue maintenance 10\u202f% dextrose.",
+                "If Vitamin\u202fK not given, give 1\u202fmg intramuscularly (septic NYI have increased bleeding tendency).",
+                "If very sick (e.g., continuous convulsions), avoid oral feeds, give maintenance IV fluids, treat convulsions if present.",
+                "Treat jaundice if present with phototherapy."
+            ],
+            "subsections": []
+        },
+        {
+            "id": "duration",
+            "title": "Key Facts for Providers: Empiric Antibiotics and Duration",
+            "content": "",
+            "listItems": [
+                "Empiric antibiotics are chosen before the causative organism is identified; they cover the most likely pathogens for this age group.",
+                "If there is no blood culture or the culture is negative and the baby is well, continue empiric antibiotics for a minimum of 5\u202fdays.",
+                "If the baby was clinically septic, treat for 7\u201110\u202fdays (longer for meningitis or bone/joint infection).",
+                "If no improvement after 48\u202fh, consider changing from first\u2011line (penicillin\u202f+\u202fgentamicin) to second\u2011line (often ceftriaxone, depending on local policy)."
+            ],
+            "subsections": []
+        },
+        {
+            "id": "prevention",
+            "title": "How to Prevent Sepsis in a NYI",
+            "content": "",
+            "listItems": [
+                "Ensure early and exclusive breastfeeding.",
+                "Practice 24/7 rooming\u2011in for healthy newborns.",
+                "Use Kangaroo Mother Care (KMC) for premature babies.",
+                "Maintain good hand hygiene for staff, visitors and caregivers.",
+                "Screen mother for HIV and VDRL; treat neonate when necessary.",
+                "Keep baby normothermic at all times.",
+                "Remove IV cannulas as quickly as possible."
+            ],
+            "subsections": []
+        }
+    ],
+    "imageLinks": [
+        {
+            "src": "../images/coin150.png",
+            "sectionId": "present",
+            "description": "Umbilical redness / pus"
+        },
+        {
+            "src": "../images/coin151.png",
+            "sectionId": "present",
+            "description": "Bulging fontanelle"
+        },
+        {
+            "src": "../images/coin152.png",
+            "sectionId": "present",
+            "description": "Respiratory distress signs"
+        }
+    ],
+    "_source_file": "C15_Sepsis.html"
+}

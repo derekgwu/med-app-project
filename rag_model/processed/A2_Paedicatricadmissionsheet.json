@@ -1,0 +1,50 @@
+{
+    "documentTitle": "Appendix\u202f2: Paediatric Admission Form",
+    "overview": "Zoom in for details. This appendix shows the full Paediatric Admission Form and a close\u2011up view of its key sections.",
+    "sections": [
+        {
+            "sectionTitle": "Paediatric Admission Form \u2013 Full View",
+            "learningObjectives": [
+                "Recognise the overall layout of the Paediatric Admission Form.",
+                "Identify the major sections (patient details, clinical information, consent, etc.) at a glance."
+            ],
+            "subsections": [
+                {
+                    "subtitle": "Full form layout",
+                    "content": "A complete view of the admission form is provided so learners can see how the different parts are arranged on a single page."
+                }
+            ],
+            "imageLinks": [
+                {
+                    "description": "Full Paediatric Admission Form (high\u2011resolution)",
+                    "url": "../images/App2.png"
+                }
+            ]
+        },
+        {
+            "sectionTitle": "Paediatric Admission Form \u2013 Close\u2011up View",
+            "learningObjectives": [
+                "Locate and interpret the detailed fields within each section of the form.",
+                "Understand required entries and how to correctly fill them out."
+            ],
+            "subsections": [
+                {
+                    "subtitle": "Zoomed\u2011in detail",
+                    "content": "A magnified image highlights the individual fields, labels, and any check\u2011boxes or signature lines."
+                }
+            ],
+            "imageLinks": [
+                {
+                    "description": "Close\u2011up of key form fields",
+                    "url": "../images/App2a.png"
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "styleSheet": "../include/layout.css",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "_source_file": "A2_Paedicatricadmissionsheet.html"
+}

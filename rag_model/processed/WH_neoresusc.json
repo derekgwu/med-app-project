@@ -1,0 +1,33 @@
+{
+    "title": "Wall Chart H \u2013 Neonatal Resuscitation Algorithm",
+    "metadata": {
+        "stylesheet": "../include/layout.css",
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1.0"
+    },
+    "sections": [
+        {
+            "id": "resusc",
+            "title": "NEONATAL RESUSCITATION ALGORITHM",
+            "description": "Zoom in to see details.",
+            "learningObjectives": [],
+            "subsections": [],
+            "imageLinks": [
+                {
+                    "url": "../images/coin12.png",
+                    "altText": "Neonatal resuscitation algorithm chart",
+                    "thumbnailUrl": "../images/coin12.png",
+                    "maxWidth": "100%"
+                }
+            ],
+            "relatedLinks": [
+                {
+                    "title": "Neonatal Resuscitation",
+                    "url": "C3_ResuscNewborn.html",
+                    "type": "seeAlso"
+                }
+            ]
+        }
+    ],
+    "_source_file": "WH_neoresusc.html"
+}

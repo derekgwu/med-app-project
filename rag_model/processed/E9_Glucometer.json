@@ -1,0 +1,234 @@
+{
+    "title": "E 9 Glucometer",
+    "learning_objectives": [
+        "Describe why a glucometer is essential for detecting and managing neonatal hypoglycaemia and hyperglycaemia.",
+        "Identify the clinical signs and risk\u2011factors that should prompt blood\u2011glucose testing in newborns.",
+        "Perform a complete glucometer\u2011based blood\u2011glucose assessment, from preparation through result documentation.",
+        "Apply infection\u2011prevention and device\u2011cleaning practices to minimise cross\u2011contamination.",
+        "Recognise common clinical and device\u2011related complications of glucometer use and know how to respond.",
+        "Execute routine care, preventive maintenance and basic troubleshooting of a glucometer."
+    ],
+    "sections": [
+        {
+            "id": "clinical-problem",
+            "title": "Clinical Problem",
+            "content": "Assessment of blood glucose with a glucometer should be performed on routine admission for all infants and continued for all sick or at\u2011risk newborns.  Hypoglycaemia may present with jitteriness, irritability, hypotonia, lethargy, reduced consciousness, poor feeding, seizures, hypothermia, apnoea/irregular breathing, or it may be asymptomatic.  Prematurity, intra\u2011uterine growth restriction, birth\u2011asphyxia, infants of diabetic mothers and other sick babies are especially prone to hypoglycaemia.",
+            "image_links": []
+        },
+        {
+            "id": "assessment",
+            "title": "Assessment",
+            "content": "Hypoglycaemia occurs in ~10\u202f% of healthy neonates and is the most common neonatal medical emergency.  Glucometers provide rapid, approximate whole\u2011blood glucose values; results should be confirmed by laboratory testing when persistent, recurrent, or accuracy is in doubt.  Test strips use a glucose\u2011oxidase electrode that generates a current proportional to glucose concentration.",
+            "image_links": [
+                "../images/coin121.png",
+                "../images/coin121a.png"
+            ]
+        },
+        {
+            "id": "management",
+            "title": "Management",
+            "subsections": [
+                {
+                    "id": "setup-patient",
+                    "title": "SETTING UP FOR A PATIENT",
+                    "steps": [
+                        "Collect glucometer, strips, and control solutions.",
+                        "Turn on the glucometer (press power button or insert a strip).",
+                        "Insert a test strip (click into place).",
+                        "Perform a daily Quality\u2011Control test using control solution or known\u2011glucose solution and verify a \u2018Pass\u2019 result."
+                    ],
+                    "image_links": [
+                        "../images/coin122.png",
+                        "../images/coin122a.png",
+                        "../images/coin123.png",
+                        "../images/coin123a.png",
+                        "../images/coin123b.png"
+                    ]
+                },
+                {
+                    "id": "prepare-patient",
+                    "title": "PREPARING A PATIENT",
+                    "steps": [
+                        "Assess the infant for conditions associated with hypoglycaemia.",
+                        "Explain purpose, risks and benefits to the guardians before proceeding.",
+                        "Perform hand\u2011washing and don gloves.",
+                        "Gather gloves, 70\u202f% alcohol, cotton swab.",
+                        "Clean the outer heel with alcohol\u2011soaked cotton; allow to dry.  Never use a finger puncture or a poorly perfused site."
+                    ],
+                    "image_links": [
+                        "../images/coin124.png"
+                    ]
+                },
+                {
+                    "id": "assess-patient",
+                    "title": "ASSESSING A PATIENT",
+                    "steps": [
+                        "Collect a new lancet, glucometer, strip, cotton swabs, alcohol, gloves and a tray.",
+                        "Perform hand\u2011washing and don gloves.",
+                        "Insert strip and turn on the meter.",
+                        "Prick the disinfected outer heel with the lancet; obtain a blood drop (if none, massage heel).",
+                        "Wipe away the first drop, then collect a second drop on the strip (device absorbs automatically).",
+                        "Apply dry cotton pressure to stop bleeding.",
+                        "Read the displayed glucose value, record it, and repeat if it conflicts with clinical status.",
+                        "Compare result to normal thresholds (\u22642.5\u202fmmol/L\u202f=\u202f45\u202fmg/dL is considered hypoglycaemic)."
+                    ],
+                    "image_links": [
+                        "../images/coin125.png",
+                        "../images/coin125a.png",
+                        "../images/coin125b.png",
+                        "../images/coin126.png",
+                        "../images/coin126a.png"
+                    ]
+                },
+                {
+                    "id": "concluding-assessment",
+                    "title": "CONCLUDING ASSESSMENT",
+                    "steps": [
+                        "Remove and discard the used strip in hazardous\u2011waste.",
+                        "Dispose of the lancet in a sharps container.",
+                        "Remove gloves, discard, and perform hand\u2011washing."
+                    ],
+                    "image_links": []
+                }
+            ],
+            "image_links": []
+        },
+        {
+            "id": "infection-prevention",
+            "title": "Infection Prevention",
+            "subsections": [
+                {
+                    "id": "general-prevention",
+                    "title": "GENERAL INFECTION PREVENTION",
+                    "steps": [
+                        "Clean hands with soap/alcohol before and after any glucometer use; wear gloves throughout.",
+                        "Thoroughly clean the infant\u2019s skin before sampling; avoid sampling from infected or poorly perfused sites.",
+                        "Use only new, single\u2011use consumables (lancets, strips, swabs, gloves).",
+                        "Store strips in a dry, airtight container per hospital policy.",
+                        "Follow universal precautions for sharps."
+                    ],
+                    "image_links": []
+                },
+                {
+                    "id": "post\u2011use-disinfection",
+                    "title": "DISINFECTION AFTER USE",
+                    "steps": [
+                        "Discard strip and lancet as above, remove gloves, wash hands.",
+                        "Wipe the glucometer exterior with 70\u202f% alcohol (avoid submerging or dripping into strip slot)."
+                    ],
+                    "image_links": [
+                        "../images/coin129.png"
+                    ]
+                }
+            ],
+            "image_links": []
+        },
+        {
+            "id": "complications",
+            "title": "Complications",
+            "subsections": [
+                {
+                    "id": "clinical-complications",
+                    "title": "CLINICAL COMPLICATIONS",
+                    "items": [
+                        "Bruising from repeated heel punctures.",
+                        "Bleeding if pressure not applied.",
+                        "Artery, nerve or bone injury from inappropriate heel site.",
+                        "Pain from lancet prick.",
+                        "Rare site infection if asepsis is inadequate."
+                    ],
+                    "image_links": []
+                },
+                {
+                    "id": "device-complications",
+                    "title": "DEVICE COMPLICATIONS",
+                    "items": [
+                        "Falsely high readings due to dextrose gel or skin residues \u2013 cleanse and repeat.",
+                        "Inaccurate results from expired or improperly stored strips \u2013 verify expiration and storage."
+                    ],
+                    "image_links": []
+                }
+            ],
+            "image_links": []
+        },
+        {
+            "id": "maintenance",
+            "title": "Care & Maintenance",
+            "subsections": [
+                {
+                    "id": "power-source",
+                    "title": "POWER SOURCE",
+                    "content": "Glucometers are powered by replaceable or rechargeable batteries (6.1).  Rechargeable units should be charged regularly when not in use.",
+                    "image_links": []
+                },
+                {
+                    "id": "ward-location",
+                    "title": "WARD LOCATION",
+                    "content": "Store the glucometer and strips in a clean, dry, secure area.  If a docking/charging station is provided, keep the device on it when idle (6.2).",
+                    "image_links": [
+                        "../images/coin130.png",
+                        "../images/coin130a.png"
+                    ]
+                },
+                {
+                    "id": "preventive-maintenance",
+                    "title": "USER PREVENTIVE MAINTENANCE",
+                    "content": "Besides battery care, perform a monthly Quality\u2011Control test using control solution or a known\u2011glucose solution (6.3\u20116.5).  A \u2018Pass\u2019 confirms proper functioning.",
+                    "image_links": [
+                        "../images/coin131.png",
+                        "../images/coin131a.png",
+                        "../images/coin131b.png"
+                    ]
+                }
+            ],
+            "image_links": []
+        },
+        {
+            "id": "troubleshooting",
+            "title": "Troubleshooting & Repair",
+            "issues": [
+                {
+                    "code": "1",
+                    "problem": "The glucometer is not turning on",
+                    "steps": [
+                        "Insert a test strip \u2013 many models power\u2011on automatically.",
+                        "If still off, charge or replace the batteries.",
+                        "If the problem persists, contact maintenance/engineering."
+                    ]
+                },
+                {
+                    "code": "2",
+                    "problem": "Results are consistently incompatible with the patient\u2019s clinical condition",
+                    "steps": [
+                        "Check expiration date of strips; replace if expired.",
+                        "Run a Quality\u2011Control test (see Care & Maintenance \u25ba Preventive Maintenance).",
+                        "If discrepancy remains, seek technical support."
+                    ]
+                }
+            ],
+            "image_links": []
+        }
+    ],
+    "all_image_links": [
+        "../images/coin121.png",
+        "../images/coin121a.png",
+        "../images/coin122.png",
+        "../images/coin122a.png",
+        "../images/coin123.png",
+        "../images/coin123a.png",
+        "../images/coin123b.png",
+        "../images/coin124.png",
+        "../images/coin125.png",
+        "../images/coin125a.png",
+        "../images/coin125b.png",
+        "../images/coin126.png",
+        "../images/coin126a.png",
+        "../images/coin129.png",
+        "../images/coin130.png",
+        "../images/coin130a.png",
+        "../images/coin131.png",
+        "../images/coin131a.png",
+        "../images/coin131b.png"
+    ],
+    "_source_file": "E9_Glucometer.html"
+}

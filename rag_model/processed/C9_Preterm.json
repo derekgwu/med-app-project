@@ -1,0 +1,381 @@
+{
+    "title": "Care of the Low Birth Weight/Preterm Infant (Chapter\u202f9)",
+    "learningObjectives": [
+        "List the main problems associated with low birth weight (LBW) / preterm baby.",
+        "Describe the management of the feeds for a LBW/preterm baby.",
+        "Describe the steps involved in tube feeding.",
+        "Counsel the mother on discharge, home care and follow\u2011up."
+    ],
+    "sections": [
+        {
+            "id": "importance",
+            "title": "Why is care of the low birth weight infant so important in Malawi?",
+            "content": "In 2018 the WHO estimated that 10.5\u202f% of babies born in Malawi are low\u2011birth\u2011weight, the majority being premature. A neonate <\u202f2500\u202fg is classified as LBW. Nearly 75\u202f% of neonatal deaths occur among LBW neonates. Even after surviving the acute phase they remain at higher risk of malnutrition, recurrent infections and neuro\u2011developmental impairment. LBW may be caused by prematurity, intra\u2011uterine growth retardation (IUGR) or both; distinguishing the aetiology guides further management.",
+            "subsections": []
+        },
+        {
+            "id": "main-prob",
+            "title": "Common problems in LBW, preterm and SGA neonates",
+            "content": "Increased risk of:",
+            "listItems": [
+                "Hypothermia",
+                "Inability to breast\u2011feed",
+                "Hypoglycaemia",
+                "Infection / Sepsis",
+                "Respiratory Distress Syndrome (RDS)",
+                "Polycythaemia",
+                "Apnoea",
+                "Hyperbilirubinaemia",
+                "Retinopathy of prematurity"
+            ],
+            "subsections": [
+                {
+                    "id": "gestation",
+                    "title": "How to estimate the gestational age",
+                    "content": "When the exact gestational age is unknown the Parkin score (physical\u2011characteristics scoring) is used. The total score is matched to a gestational\u2011age table.",
+                    "tables": [
+                        {
+                            "title": "Approximate Gestational Age Based on Physical Characteristics (Parkin Score)",
+                            "headers": [
+                                "Score",
+                                "Skin texture",
+                                "Skin colour",
+                                "Ear firmness",
+                                "Breast size"
+                            ],
+                            "rows": [
+                                [
+                                    "0",
+                                    "Very thin",
+                                    "Dark red",
+                                    "Soft pinna, no spring\u2011back",
+                                    "No palpable breast tissue"
+                                ],
+                                [
+                                    "1",
+                                    "Thin and smooth",
+                                    "Uniformly pink",
+                                    "Soft pinna, slow spring\u2011back",
+                                    "Breast tissue palpable on one/both sides <\u202f0.5\u202fcm"
+                                ],
+                                [
+                                    "2",
+                                    "Smooth, medium thickness, rash & superficial peeling",
+                                    "Pale pink",
+                                    "Thin cartilage, readily springs back",
+                                    "Breast tissue palpable on both sides 0.5\u20111\u202fcm"
+                                ],
+                                [
+                                    "3",
+                                    "Slight thickening, superficial cracking, especially hands/feet",
+                                    "Pale, hardly pink except ear/lips/palms/soles",
+                                    "Firm pinna with definite cartilage",
+                                    "Breast tissue palpable >\u202f1\u202fcm"
+                                ],
+                                [
+                                    "4",
+                                    "Thick, superficial or deep cracking",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ]
+                        },
+                        {
+                            "title": "Gestational Age by Total Parkin Score",
+                            "headers": [
+                                "Score",
+                                "Gestational age (weeks)"
+                            ],
+                            "rows": [
+                                [
+                                    "1",
+                                    "27"
+                                ],
+                                [
+                                    "2",
+                                    "30"
+                                ],
+                                [
+                                    "3",
+                                    "33"
+                                ],
+                                [
+                                    "4",
+                                    "34\u00bd"
+                                ],
+                                [
+                                    "5",
+                                    "36"
+                                ],
+                                [
+                                    "6",
+                                    "37"
+                                ],
+                                [
+                                    "7",
+                                    "38\u00bd"
+                                ],
+                                [
+                                    "8",
+                                    "39\u00bd"
+                                ],
+                                [
+                                    "9",
+                                    "40"
+                                ],
+                                [
+                                    "10",
+                                    "41"
+                                ],
+                                [
+                                    "11",
+                                    "41\u00bd"
+                                ],
+                                [
+                                    "12",
+                                    "42"
+                                ]
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "delivery-management",
+            "title": "Management at Delivery of Low Birth Weight / Premature Babies",
+            "subsections": [
+                {
+                    "id": "where-to-manage",
+                    "title": "Deciding where a LBW baby should be managed",
+                    "content": "A healthy LBW newborn \u2265\u202f1500\u202fg can be cared for at home under supervision of a health\u2011care worker. Babies <\u202f1500\u202fg are at risk of hypothermia, feeding problems, apnoea, RDS and necrotising enterocolitis and usually need facility\u2011based care with close monitoring."
+                },
+                {
+                    "id": "hospitalisation-indications",
+                    "title": "Indications for hospitalisation of a LBW neonate",
+                    "listItems": [
+                        "A sick neonate with danger signs",
+                        "A LBW neonate who is not gaining weight",
+                        "Neonate unable to feed from the breast or by cup"
+                    ]
+                },
+                {
+                    "id": "KMC",
+                    "title": "Keeping the LBW babies dry and warm (prevention of hypothermia)",
+                    "content": "Continuous Kangaroo Mother Care (KMC) = skin\u2011to\u2011skin contact with the mother, preferably with exclusive breast\u2011milk feeding. Intermittent KMC = skin\u2011to\u2011skin alternated with warming devices. Three categories of KMC in Malawi:",
+                    "listItems": [
+                        "Facility KMC \u2013 for all neonates <\u202f1500\u202fg",
+                        "Ambulatory KMC \u2013 babies 1500\u20111800\u202fg after discharge, followed up by the facility",
+                        "Community KMC \u2013 babies >\u202f1800\u202fg, clinically stable, cared for in the community"
+                    ],
+                    "keyFacts": "If continuous or intermittent KMC is not possible, use an overhead radiant warmer, incubator or warming crib. Keep the room at ~25\u202f\u00b0C, use a hat, change wet clothing frequently and monitor axillary temperature.",
+                    "images": [
+                        {
+                            "alt": "KMC illustration 1",
+                            "src": "../images/coin102.png"
+                        },
+                        {
+                            "alt": "KMC illustration 2",
+                            "src": "../images/coin102a.png"
+                        }
+                    ],
+                    "subsections": [
+                        {
+                            "title": "Key facts for providers & mothers/guardians \u2013 skin\u2011to\u2011skin contact (KMC)",
+                            "content": "Place baby upright in mother's clothing, ensure baby\u2019s head is turned to one side, tie securely, cover both with mother's clothes. Allow baby to breast\u2011feed at least every 2\u202fh, keep mother propped up, add blankets if room is cold, enlist another caregiver for KMC when mother rests."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "feeds",
+            "title": "Feeding the LBW Infant",
+            "subsections": [
+                {
+                    "id": "breast-milk",
+                    "title": "Breast\u2011milk as preferred feed",
+                    "content": "Breast\u2011milk provides high electrolytes, protein, antibodies and anti\u2011infective factors essential for rapid growth and survival of preterm infants."
+                },
+                {
+                    "id": "schedule-feeds",
+                    "title": "Scheduling of enteral feeds",
+                    "tables": [
+                        {
+                            "title": "Ideal feeding regime by birth\u2011weight / gestation",
+                            "headers": [
+                                "Weight / gestation",
+                                "Ideal feeding regime"
+                            ],
+                            "rows": [
+                                [
+                                    "<\u202f1500\u202fg or <\u202f32\u202fweeks",
+                                    "Feed every 2\u202fhours"
+                                ],
+                                [
+                                    ">\u202f1500\u202fg or >\u202f32\u202fweeks",
+                                    "Feed every 3\u202fhours"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "feedinglbw",
+                    "title": "Key facts for providers & mothers/guardians \u2013 feeding LBW / premature infants",
+                    "content": "Feeding should be scheduled because preterm infants rarely demand feeds. Work out a schedule with the mother; LBW babies may take longer on the breast."
+                },
+                {
+                    "id": "route-by-age",
+                    "title": "Likely route of feeding according to birth\u2011weight / gestational age",
+                    "tables": [
+                        {
+                            "title": "",
+                            "headers": [
+                                "Birth\u2011weight / gestation",
+                                "1\u20113\u202fdays of life",
+                                "3\u202fdays\u20113\u202fweeks of life"
+                            ],
+                            "rows": [
+                                [
+                                    "<\u202f1500\u202fg / <\u202f32\u202fweeks",
+                                    "Tube feeds",
+                                    "Tube or cup feeds"
+                                ],
+                                [
+                                    "1500\u20111800\u202fg / 32\u201134\u202fweeks",
+                                    "Tube feeds or cup",
+                                    "Breast\u2011feed; if unsatisfactory use cup"
+                                ],
+                                [
+                                    ">\u202f1800\u20112500\u202fg / >\u202f34\u202fweeks",
+                                    "Breast\u2011feed; if unsatisfactory use cup",
+                                    "Breast\u2011feed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "breast-expression",
+                    "title": "Breast\u2011milk expression \u2013 key facts for providers & mothers/guardians",
+                    "content": "Mothers should express milk when the baby cannot breast\u2011feed directly, to maintain milk supply and relieve engorgement. Detailed step\u2011by\u2011step technique is listed in the source document."
+                },
+                {
+                    "id": "tube-feeding",
+                    "title": "Nasogastric (NG) and Oro\u2011gastric (OG) tube feeding",
+                    "content": "Use French size\u202f5\u20116 tubes. Measure from nose (or mouth) to ear lobe then to midpoint between xiphisternum and umbilicus. Verify placement by aspirating gastric contents and auscultation.",
+                    "images": [
+                        {
+                            "alt": "NG/OG tube insertion diagram",
+                            "src": "../images/coin103.png"
+                        }
+                    ],
+                    "subsections": [
+                        {
+                            "title": "Steps of oro\u2011/nasogastric tube feeding",
+                            "orderedList": [
+                                "Check tube position before each feed.",
+                                "Use a clean syringe, remove the plunger.",
+                                "Pinch the tube, connect syringe barrel to tube end.",
+                                "Fill syringe barrel with required milk volume.",
+                                "Hold tube with one hand, release pinch, elevate syringe 5\u201110\u202fcm above the baby.",
+                                "Allow milk to flow by gravity; do not use the plunger.",
+                                "Control flow by adjusting syringe height.",
+                                "Observe the baby throughout the feed; never leave unattended.",
+                                "Do not flush tube with water or saline after feed.",
+                                "Cap the tube between feeds.",
+                                "Progress to cup/spoon when baby can swallow without coughing.",
+                                "Replace tube after 3\u202fdays or sooner if pulled out/blocked."
+                            ]
+                        },
+                        {
+                            "title": "Steps of cup feeding (id=\"cup\")",
+                            "orderedList": [
+                                "Ensure baby is awake, semi\u2011upright; place cloth to catch drips.",
+                                "Measure the required milk volume into the cup.",
+                                "Rest the cup tip on the baby\u2019s lower lip.",
+                                "Tilt the cup to dispense a small amount at a time.",
+                                "Feed slowly, confirming each swallow before the next sip.",
+                                "Stop when the baby closes the mouth; never force feed.",
+                                "Document time and volume fed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "apnoea-prevention",
+                    "title": "Prevention of apnoea",
+                    "content": "Refer to the linked section on apnoea in the main textbook; no additional detail is given in this chapter."
+                }
+            ]
+        },
+        {
+            "id": "vitamins",
+            "title": "Vitamin supplements and iron for preterm infants",
+            "tables": [
+                {
+                    "title": "Supplement regimen",
+                    "headers": [
+                        "Supplement",
+                        "Route",
+                        "Timing & duration"
+                    ],
+                    "rows": [
+                        [
+                            "Vitamin\u202fK (National Guidelines)",
+                            "0.5\u202fmg IM in preterm neonates; 1\u202fmg IM in term neonates",
+                            "At birth"
+                        ],
+                        [
+                            "Multivitamin preparation (if available)",
+                            "0.3\u20110.6\u202fml (5\u201110 drops) per day (\u2248 1000\u202fIU vitamin\u202fA & 400\u202fIU vitamin\u202fD)",
+                            "When taking full feeds until 6\u202fmonths"
+                        ],
+                        [
+                            "Iron (if available)",
+                            "2\u20114\u202fmg/kg per day oral (usually 0.5\u202fml of 10\u202fmg\u202fml\u207b\u00b9 syrup for a 2\u202fkg baby)",
+                            "Start at 2\u202fweeks of age, continue until 6\u202fmonths"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "discharge",
+            "title": "Discharge of the LBW/Preterm Infant",
+            "keyFacts": [
+                "A well LBW baby can be discharged when:",
+                [
+                    "Fully breast\u2011fed (or breast\u2011feeding supplemented by expressed milk via cup) and has gained weight for 3 consecutive days.",
+                    "Has had no apnoea for seven days.",
+                    "Maintains normal body temperature.",
+                    "Mother feels confident caring for the baby."
+                ],
+                "Documentation in health passport:",
+                [
+                    "Birth weight & gestational age (if known).",
+                    "Any co\u2011existing problems (e.g., jaundice, sepsis).",
+                    "HIV exposure status.",
+                    "Vitamin\u202fK administered.",
+                    "BCG and oral polio doses recorded.",
+                    "Prescribed micronutrient supplements."
+                ],
+                "Follow\u2011up schedule:",
+                [
+                    "Weekly visits until infant reaches 2.5\u202fkg, then as per routine schedule."
+                ],
+                "Vaccination:",
+                [
+                    "Same schedule as term infants if baby is well; delayed until recovery if baby is sick."
+                ],
+                "Counselling for home care:",
+                [
+                    "Exclusive breast\u2011feeding, keeping baby warm, recognising danger signs, maternal nutrition & health."
+                ]
+            ]
+        }
+    ],
+    "_source_file": "C9_Preterm.html"
+}

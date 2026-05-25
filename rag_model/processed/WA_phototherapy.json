@@ -1,0 +1,109 @@
+{
+    "title": "Wall Chart A \u2013 Phototherapy Chart: When to start phototherapy for jaundice",
+    "learningObjectives": [
+        "Identify the bilirubin thresholds that indicate the need for phototherapy in term and pre\u2011term newborns.",
+        "Distinguish between bilirubin levels that require phototherapy versus those that mandate urgent exchange transfusion.",
+        "Apply day\u2011of\u2011life specific guidelines to decide when to initiate treatment for jaundiced neonates.",
+        "Locate and use the visual wall\u2011chart (WA.png) as a quick reference in clinical settings."
+    ],
+    "sections": [
+        {
+            "title": "Introduction & Quick Reference",
+            "content": [
+                "NB. On all babies who are jaundiced in the first 24\u202fhours of life phototherapy should be considered promptly.",
+                "This wall\u2011chart provides a colour\u2011coded decision aid for starting phototherapy or arranging exchange transfusion based on bilirubin levels, day of life, and infant maturity."
+            ],
+            "imageLinks": [
+                {
+                    "description": "Phototherapy wall\u2011chart image",
+                    "url": "../images/WA.png",
+                    "altText": "Wall Chart A \u2013 Phototherapy Chart"
+                }
+            ],
+            "resources": [
+                {
+                    "type": "see also",
+                    "title": "The jaundiced neonate",
+                    "url": "C13_Jaundice.html"
+                },
+                {
+                    "type": "see also",
+                    "title": "Phototherapy lights in equipment section",
+                    "url": "E11_phototherapy.html"
+                }
+            ]
+        },
+        {
+            "title": "Jaundice & Phototherapy vs. Exchange Transfusion",
+            "subsections": [
+                {
+                    "title": "Phototherapy",
+                    "description": "Jaundice of these levels is treated with phototherapy.",
+                    "table": {
+                        "columns": [
+                            "Day of Life",
+                            "Healthy Term Baby (mg/dL / \u00b5mol/L)",
+                            "Premature <35\u202fwks, LBW or sick baby (mg/dL / \u00b5mol/L)"
+                        ],
+                        "rows": [
+                            {
+                                "day": "Day\u202f1",
+                                "healthyTerm": "Treat any visible jaundice",
+                                "premature": "Treat any visible jaundice"
+                            },
+                            {
+                                "day": "Day\u202f2",
+                                "healthyTerm": "15\u202fmg/dL (260\u202f\u00b5mol/L)",
+                                "premature": "10\u202fmg/dL (170\u202f\u00b5mol/L)"
+                            },
+                            {
+                                "day": "Day\u202f3",
+                                "healthyTerm": "18\u202fmg/dL (310\u202f\u00b5mol/L)",
+                                "premature": "15\u202fmg/dL (260\u202f\u00b5mol/L)"
+                            },
+                            {
+                                "day": "Day\u202f4 onward",
+                                "healthyTerm": "20\u202fmg/dL (340\u202f\u00b5mol/L)",
+                                "premature": "17\u202fmg/dL (290\u202f\u00b5mol/L)"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Exchange Transfusion",
+                    "description": "Jaundice of these levels or above is dangerous and the baby requires urgent referral for possible exchange transfusion.",
+                    "table": {
+                        "columns": [
+                            "Day of Life",
+                            "Healthy Term Baby (mg/dL / \u00b5mol/L)",
+                            "Premature <35\u202fwks, LBW or sick baby (mg/dL / \u00b5mol/L)"
+                        ],
+                        "rows": [
+                            {
+                                "day": "Day\u202f1",
+                                "healthyTerm": "15\u202fmg/dL (260\u202f\u00b5mol/L)",
+                                "premature": "10\u202fmg/dL (220\u202f\u00b5mol/L)"
+                            },
+                            {
+                                "day": "Day\u202f2",
+                                "healthyTerm": "25\u202fmg/dL (425\u202f\u00b5mol/L)",
+                                "premature": "15\u202fmg/dL (260\u202f\u00b5mol/L)"
+                            },
+                            {
+                                "day": "Day\u202f3",
+                                "healthyTerm": "25\u202fmg/dL (425\u202f\u00b5mol/L)",
+                                "premature": "20\u202fmg/dL (340\u202f\u00b5mol/L)"
+                            },
+                            {
+                                "day": "Day\u202f4 onward",
+                                "healthyTerm": "25\u202fmg/dL (425\u202f\u00b5mol/L)",
+                                "premature": "20\u202fmg/dL (340\u202f\u00b5mol/L)"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "_source_file": "WA_phototherapy.html"
+}

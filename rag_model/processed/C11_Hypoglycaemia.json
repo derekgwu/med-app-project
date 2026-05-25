@@ -1,0 +1,211 @@
+{
+    "title": "How to Manage Hypoglycaemia or Hyperglycaemia in NYI (Chapter 11)",
+    "learningObjectives": [
+        "Define hypoglycaemia.",
+        "Perform a glucose test.",
+        "Identify NYI at risk of hypoglycaemia.",
+        "Identify signs and symptoms of hypoglycaemia.",
+        "Describe the treatment of hypoglycaemia in a symptomatic and asymptomatic NYI.",
+        "Describe assessment and management of a neonate with hyperglycaemia in NYI.",
+        "Make up a 10\u202f% dextrose solution when only 50\u202f% dextrose is available.",
+        "Make up a bag of 10\u202f% dextrose solution."
+    ],
+    "sections": [
+        {
+            "id": "overview",
+            "title": "Overview of Hypoglycaemia in NYI",
+            "content": "Hypoglycaemia is common in low\u2011birth\u2011weight and very sick newborn infants (NYI) and should always be considered early in management. 20\u202f% of infants below seven days of age have hypoglycaemia. It is important to identify hypoglycaemia because it is associated with convulsions, permanent brain injury and increased mortality.",
+            "subsections": []
+        },
+        {
+            "id": "define",
+            "title": "Definition",
+            "content": "COIN defines hypoglycaemia as blood glucose of <\u202f45\u202fmg/dL (2.5\u202fmmol/L) for NYI. Blood glucose levels can be checked using a glucometer.",
+            "subsections": []
+        },
+        {
+            "id": "risk",
+            "title": "Newborns at Risk of Hypoglycaemia",
+            "content": "Any baby who has:",
+            "listItems": [
+                "Seizures",
+                "Reduced consciousness",
+                "Lethargy",
+                "Small for dates",
+                "Low birth weight",
+                "Infant of diabetic mothers",
+                "Asphyxia or prolonged resuscitation",
+                "Unable to feed",
+                "Jittery babies"
+            ],
+            "subsections": []
+        },
+        {
+            "id": "glucometer",
+            "title": "E\u202f9 Glucometer",
+            "content": "Assessment of blood glucose with a glucometer should be conducted as part of routine assessment for all infants on admission and during continuing management for all sick or at\u2011risk patients.",
+            "listItems": [
+                "Jitteriness",
+                "Irritability",
+                "Hypotonia",
+                "Lethargy",
+                "Reduced level of consciousness",
+                "Failure to feed or poor feeding",
+                "Seizures",
+                "Hypothermia",
+                "Apnoea or irregular breathing"
+            ],
+            "subsections": []
+        },
+        {
+            "id": "identifying-managing",
+            "title": "Identifying and Managing a NYI with Hypoglycaemia",
+            "content": "",
+            "subsections": [
+                {
+                    "id": "chartA",
+                    "title": "Chart A \u2013 Identify a NYI with Hypoglycaemia",
+                    "content": "Zoom in for details.",
+                    "imageLinks": [
+                        {
+                            "href": "../images/coin132.png",
+                            "alt": "Chart A \u2013 Identify a NYI with Hypoglycaemia"
+                        }
+                    ],
+                    "subsections": []
+                },
+                {
+                    "id": "chartB",
+                    "title": "Chart B \u2013 Management if NOT Symptomatic",
+                    "content": "Management of a baby with blood glucose <\u202f45\u202fmg/dL (2.5\u202fmmol/L) and NOT symptomatic. Zoom in for details.",
+                    "imageLinks": [
+                        {
+                            "href": "../images/coin133.png",
+                            "alt": "Chart B \u2013 Management if NOT Symptomatic"
+                        }
+                    ],
+                    "subsections": []
+                },
+                {
+                    "id": "chartC",
+                    "title": "Chart C \u2013 Management if Symptomatic",
+                    "content": "Management of a baby with blood glucose <\u202f45\u202fmg/dL (2.5\u202fmmol/L) and symptomatic. Zoom in for details.",
+                    "imageLinks": [
+                        {
+                            "href": "../images/coin134.png",
+                            "alt": "Chart C \u2013 Management if Symptomatic"
+                        }
+                    ],
+                    "subsections": []
+                }
+            ]
+        },
+        {
+            "id": "make",
+            "title": "How to Make Up a 10\u202f% Dextrose Solution When You Only Have 50\u202f% Dextrose",
+            "content": "Use the following mixing ratios (4 parts water or compatible IV fluid to 1 part 50\u202f% dextrose):",
+            "tables": [
+                {
+                    "header": [
+                        "Size",
+                        "Water for Injection / Ringers Lactate / Normal Saline (4 parts)",
+                        "50\u202f% Dextrose (1 part)"
+                    ],
+                    "rows": [
+                        [
+                            "5\u202fml syringe",
+                            "4\u202fml",
+                            "1\u202fml"
+                        ],
+                        [
+                            "10\u202fml syringe",
+                            "8\u202fml",
+                            "2\u202fml"
+                        ],
+                        [
+                            "20\u202fml syringe",
+                            "16\u202fml",
+                            "4\u202fml"
+                        ],
+                        [
+                            "50\u202fml syringe",
+                            "40\u202fml",
+                            "10\u202fml"
+                        ],
+                        [
+                            "100\u202fml burette",
+                            "80\u202fml",
+                            "20\u202fml"
+                        ],
+                        [
+                            "200\u202fml bag",
+                            "160\u202fml",
+                            "40\u202fml"
+                        ]
+                    ]
+                }
+            ],
+            "subsections": []
+        },
+        {
+            "id": "bag",
+            "title": "How to Make Up a Bag of 10\u202f% Dextrose Solution",
+            "content": "Empty fluid from a litre bag of IV normal saline until only 200\u202fml remain (4 parts) and then add 50\u202fml of 50\u202f% dextrose (1 part) to make a total of 250\u202fml of 10\u202f% dextrose solution.",
+            "tables": [
+                {
+                    "header": [
+                        "250\u202fml in a litre bag",
+                        "200\u202fml of normal saline / RL solution",
+                        "50\u202fml of 50\u202f% glucose"
+                    ],
+                    "rows": []
+                }
+            ],
+            "notes": "Giving 50\u202f% glucose is no longer recommended because of reported cases of dextrose overdose leading to convulsions, death and possible brain damage.",
+            "subsections": []
+        },
+        {
+            "id": "maintenance-therapy",
+            "title": "Maintenance Therapy",
+            "content": "After a bolus of glucose a plan must be made to continue providing a glucose supply as:",
+            "listItems": [
+                "IV fluids with glucose and electrolytes",
+                "Nasal gastric or oral feed"
+            ],
+            "subsections": []
+        },
+        {
+            "id": "hyperglycaemia",
+            "title": "Hyperglycaemia",
+            "content": "Neonatal hyperglycaemia is defined as a blood glucose of >\u202f145\u202fmg/dL (8\u202fmmol/L) regardless of body weight, gestational or post\u2011natal age. It is more common in low\u2011birth\u2011weight infants and usually results from stress (sepsis, dehydration, HIE) or excessive glucose in IV fluids.",
+            "subsections": [
+                {
+                    "id": "hyperglycaemia-management",
+                    "title": "What Should Be Done When a Neonate Has a High Glucose Reading?",
+                    "orderedList": [
+                        "Repeat the test to confirm accuracy (use a different glucometer if needed).",
+                        "Perform a full physical examination, monitor vital signs, look for dehydration, fever, acidosis and treat any underlying cause.",
+                        "If on IV fluids, confirm correct preparation and appropriate infusion rate for age/weight.",
+                        "If blood glucose >\u202f180\u202fmg/dL (10\u202fmmol/L), discuss with a referral facility for further guidance.",
+                        "Monitor the baby and blood sugar every 2\u20114 hours."
+                    ]
+                }
+            ]
+        }
+    ],
+    "imageLinks": [
+        {
+            "href": "../images/coin132.png",
+            "description": "Chart A \u2013 Identify a NYI with Hypoglycaemia"
+        },
+        {
+            "href": "../images/coin133.png",
+            "description": "Chart B \u2013 Management if NOT Symptomatic"
+        },
+        {
+            "href": "../images/coin134.png",
+            "description": "Chart C \u2013 Management if Symptomatic"
+        }
+    ],
+    "_source_file": "C11_Hypoglycaemia.html"
+}

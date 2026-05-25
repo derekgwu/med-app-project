@@ -1,0 +1,59 @@
+{
+    "documentTitle": "Appendix 6: Neonatal Referral Form",
+    "seeAlso": {
+        "title": "Referral and Transport of the sick NYI",
+        "url": "C19_Referral.html"
+    },
+    "learningObjectives": [
+        "Identify all fields and sections that appear on the Neonatal Referral Form.",
+        "Explain how the referral form is used in the assessment and transfer of sick newborns.",
+        "Locate and view high\u2011resolution images of the complete form and its detailed sections.",
+        "Access related resources for referral and transport of newborns."
+    ],
+    "sections": [
+        {
+            "title": "Overview",
+            "content": "This appendix provides a visual reference for the Neonatal Referral Form. The form is used when referring a sick newborn (NYI) to a higher\u2011level facility.",
+            "learningObjectives": [
+                "Recognize the purpose of the Neonatal Referral Form within the health\u2011care system."
+            ],
+            "subsections": []
+        },
+        {
+            "title": "Referral Form \u2013 Full View",
+            "content": "The first image shows the complete Neonatal Referral Form. Zoom in for details.",
+            "learningObjectives": [
+                "Identify each major section of the form (patient details, clinical findings, transport details, etc.)."
+            ],
+            "subsections": [
+                {
+                    "title": "Full Form Image",
+                    "type": "image",
+                    "imageLink": "../images/App6.png",
+                    "description": "Complete Neonatal Referral Form (high\u2011resolution)."
+                }
+            ]
+        },
+        {
+            "title": "Referral Form \u2013 Detailed Section",
+            "content": "The second image provides a close\u2011up of a specific part of the form that often requires careful completion.",
+            "learningObjectives": [
+                "Interpret the detailed fields highlighted in the zoomed section."
+            ],
+            "subsections": [
+                {
+                    "title": "Detailed Section Image",
+                    "type": "image",
+                    "imageLink": "../images/App6a.png",
+                    "description": "Zoomed view of a particular section of the Neonatal Referral Form."
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "charset": "utf-8",
+        "viewport": "width=device-width, initial-scale=1.0",
+        "stylesheet": "../include/layout.css"
+    },
+    "_source_file": "A6_Neonatalreferral.html"
+}

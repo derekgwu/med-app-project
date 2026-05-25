@@ -1,0 +1,77 @@
+{
+    "title": "Shock in NYI (Chapter 14)",
+    "learningObjectives": [
+        "Define shock in a NYI.",
+        "Assess NYI for shock.",
+        "Describe the steps in the management of shock in a NYI."
+    ],
+    "sections": [
+        {
+            "id": "intro",
+            "title": "Introduction",
+            "content": "The letters C in \u201cABCCCD\u201d stand for Circulation, Coma and Convulsions. This module will help with the systematic assessment, resuscitation and treatment of all NYI with life\u2011threatening conditions that are most frequently seen in infants less than 2\u202fmonths of age.",
+            "subsections": []
+        },
+        {
+            "id": "definition",
+            "title": "Definition",
+            "content": "Shock, also called \u2018severe impaired circulation\u2019, can be defined as the life\u2011threatening failure of adequate oxygen delivery to the tissues and may be due to decreased blood perfusion of tissues, inadequate blood oxygen saturation, or increased oxygen demand from the tissues that results in decreased end\u2011organ oxygenation and dysfunction. If left untreated, shock results in sustained multiple organ dysfunction, end\u2011organ damage and possible death.",
+            "subsections": []
+        },
+        {
+            "id": "assess",
+            "title": "Assessment",
+            "content": "All sick infants are assessed for Airway, Breathing, Circulation, Coma, Convulsions and severe Dehydration (ABCCCD). Efforts should be made to maintain normal blood glucose and a normal body temperature while managing ABCCCD.",
+            "subsections": [
+                {
+                    "id": "circulation-signs",
+                    "title": "Assess Circulation for Signs of Shock",
+                    "content": "Rapid assessment of circulation after airway and breathing. Signs include: baby alert?, hands cold?, temperature gradient up limbs?, capillary refill time (CRT) >\u202f3\u202fs?, pulse fast and weak?. Shock is present when 3 or more signs are noted."
+                },
+                {
+                    "id": "additional-signs",
+                    "title": "Additional Findings",
+                    "content": "Look for dehydration (sunken eyes/decreased skin turgor), pallor, severe wasting/oedema, and assess oxygen saturation, heart rate and blood pressure."
+                },
+                {
+                    "id": "crt",
+                    "title": "Capillary Refill Time (CRT)",
+                    "content": "Capillary refill is assessed by applying finger pressure to the centre of the chest over the sternum for 3\u202fseconds. The time from release of pressure to full return of pink colour should be <\u202f3\u202fseconds. Longer times suggest shock, unless the environment is cold."
+                },
+                {
+                    "id": "pulse",
+                    "title": "Pulse Assessment",
+                    "content": "A strong, non\u2011fast radial pulse (\u2264\u202f160\u202fbpm) is adequate. Absence of a radial pulse or a weak/faster pulse requires checking the femoral pulse and assessing hydration status."
+                }
+            ],
+            "images": [
+                {
+                    "alt": "Capillary refill illustration",
+                    "src": "../images/coin148.png"
+                },
+                {
+                    "alt": "Pulse assessment illustration",
+                    "src": "../images/coin148a.png"
+                }
+            ]
+        },
+        {
+            "id": "management",
+            "title": "Treatment of Shock",
+            "content": "Treatment of shock requires teamwork. The following actions need to be started simultaneously, beginning with fluid administration for shock or impaired circulation.",
+            "subsections": [],
+            "images": [
+                {
+                    "alt": "Overview chart for shock (assessment and treatment)",
+                    "src": "../images/coin149.png"
+                }
+            ]
+        }
+    ],
+    "imageLinks": [
+        "../images/coin148.png",
+        "../images/coin148a.png",
+        "../images/coin149.png"
+    ],
+    "_source_file": "C14_Shock.html"
+}

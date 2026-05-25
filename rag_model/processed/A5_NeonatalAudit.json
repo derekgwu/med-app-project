@@ -1,0 +1,69 @@
+{
+    "title": "Appendix 5: Neonatal Death Audit Consolidation Forms",
+    "description": "A collection of forms and coding tables used for consolidating neonatal death audits, with visual references and guidance on categorising modifiable factors.",
+    "externalLinks": [
+        {
+            "text": "Death audit",
+            "url": "C22_audit.html#deathaudit"
+        }
+    ],
+    "sections": [
+        {
+            "title": "Appendix Forms",
+            "learningObjectives": [
+                "Identify the different parts of the Neonatal Death Audit Consolidation Forms.",
+                "Locate and view each form image for detailed reference."
+            ],
+            "images": [
+                {
+                    "caption": "Main consolidation form",
+                    "url": "../images/App5.png"
+                },
+                {
+                    "caption": "Form \u2013 part A",
+                    "url": "../images/App5a.png"
+                },
+                {
+                    "caption": "Form \u2013 part B",
+                    "url": "../images/App5b.png"
+                },
+                {
+                    "caption": "Form \u2013 part C",
+                    "url": "../images/App5c.png"
+                },
+                {
+                    "caption": "Form \u2013 part D",
+                    "url": "../images/App5d.png"
+                },
+                {
+                    "caption": "Form \u2013 part E",
+                    "url": "../images/App5e.png"
+                }
+            ],
+            "subsections": []
+        },
+        {
+            "title": "Categorizing Modifiable Factors",
+            "learningObjectives": [
+                "Understand the coding scheme used to categorise modifiable factors in neonatal death audits.",
+                "Link the codes to priority conditions and activities described in IMCI, ETAT, the Pocketbook on Hospital Care for Children in Malawi, and the COIN training manual."
+            ],
+            "images": [
+                {
+                    "caption": "Modifiable factors \u2013 table 1",
+                    "url": "../images/App5f.png"
+                },
+                {
+                    "caption": "Modifiable factors \u2013 table 2",
+                    "url": "../images/App5g.png"
+                },
+                {
+                    "caption": "Modifiable factors \u2013 table 3",
+                    "url": "../images/App5h.png"
+                }
+            ],
+            "subsections": []
+        }
+    ],
+    "_source_file": "A5_NeonatalAudit.html"
+}

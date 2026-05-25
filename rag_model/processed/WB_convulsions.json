@@ -1,0 +1,44 @@
+{
+    "title": "Wall Chart B \u2013 Management of Seizures",
+    "learningObjectives": [
+        "Identify the appropriate management steps for seizures in neonates from birth to 2\u202fweeks of age.",
+        "Calculate the correct phenobarbitone dose (20\u202fmg/kg) and adjust volume based on the vial concentration.",
+        "Describe the management protocol for seizures in infants older than 2\u202fweeks.",
+        "Reference related topics such as general convulsion management."
+    ],
+    "references": [
+        {
+            "title": "Convulsions",
+            "url": "C16_ComaConvulsions.html#convulsion"
+        }
+    ],
+    "sections": [
+        {
+            "title": "Infant from birth up to 2 weeks of age with seizures",
+            "description": "Zoom in for details.",
+            "image": {
+                "src": "../images/coin153.png",
+                "link": "../images/coin153.png",
+                "altText": "Seizure management chart for infants 0\u20112\u202fweeks"
+            },
+            "notes": [
+                "The volumes in the chart assume phenobarbitone is supplied as a 200\u202fmg/mL preparation.",
+                "The recommended dose is 20\u202fmg/kg; recalculate the volume if a different concentration is used."
+            ]
+        },
+        {
+            "title": "Managing seizures beyond 2 weeks of age",
+            "description": "Zoom in for details.",
+            "image": {
+                "src": "../images/coin154.png",
+                "link": "../images/coin154.png",
+                "altText": "Seizure management chart for infants >2\u202fweeks"
+            },
+            "notes": [
+                "The volumes in the chart assume phenobarbitone is supplied as a 200\u202fmg/mL preparation.",
+                "The recommended dose is 20\u202fmg/kg; recalculate the volume if a different concentration is used."
+            ]
+        }
+    ],
+    "_source_file": "WB_convulsions.html"
+}

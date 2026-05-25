@@ -1,0 +1,52 @@
+{
+    "title": "Wall Chart J \u2013 CPAP: TRY BCPAP Algorithm, Increasing and Weaning CPAP",
+    "reference": {
+        "text": "Chapter on CPAP",
+        "url": "C7_CPAP.html"
+    },
+    "learningObjectives": [
+        "Identify which patients are appropriate candidates for bCPAP.",
+        "Follow the step\u2011by\u2011step TRY\u2011bCPAP algorithm for initiating therapy.",
+        "Adjust (increase) bCPAP settings safely and effectively.",
+        "Implement a systematic weaning process from bCPAP."
+    ],
+    "sections": [
+        {
+            "title": "TRY BCPAP ALGORITHM \u2013 Assessing which patient to put on bCPAP",
+            "description": "Zoom in to see details.",
+            "subsections": [],
+            "imageLinks": [
+                {
+                    "thumbnail": "../images/coin81.png",
+                    "fullSize": "../images/coin81.png",
+                    "altText": "TRY bCPAP algorithm flow chart"
+                }
+            ]
+        },
+        {
+            "title": "Increasing BCPAP",
+            "description": "Zoom in to see details.",
+            "subsections": [],
+            "imageLinks": [
+                {
+                    "thumbnail": "../images/coin95.png",
+                    "fullSize": "../images/coin95.png",
+                    "altText": "Diagram showing steps to increase bCPAP"
+                }
+            ]
+        },
+        {
+            "title": "Weaning BCPAP",
+            "description": "Zoom in to see details.",
+            "subsections": [],
+            "imageLinks": [
+                {
+                    "thumbnail": "../images/coin96.png",
+                    "fullSize": "../images/coin96.png",
+                    "altText": "Diagram showing steps to wean bCPAP"
+                }
+            ]
+        }
+    ],
+    "_source_file": "WJ_TRY.html"
+}

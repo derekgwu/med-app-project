@@ -1,0 +1,306 @@
+{
+    "title": "Resuscitation of the Newborn (Chapter 3)",
+    "learningObjectives": [
+        "Describe which newborns may need more than essential newborn care at delivery (require resuscitation)",
+        "Prepare for providing care at birth",
+        "Provide care at birth for all newborns",
+        "Describe essential newborn care at delivery",
+        "Resuscitate babies who need more than essential newborn care",
+        "Utilise all equipment necessary for resuscitation (Radiant warmer, Suction Machine, Pulse oximeter, Glucometer, Oxygen concentrator, Oxygen cylinder)"
+    ],
+    "sections": [
+        {
+            "id": "why_care",
+            "title": "Why is care at birth important?",
+            "content": "This is the critical period of transition from intra\u2011utero life to extra\u2011utero independent existence. Effective care at birth is needed to anticipate problems with this transition and to provide support to ensure stabilization. Most babies born with apnoea at birth will start to breathe themselves within 60\u201390\u202fseconds if they have a clear airway.",
+            "subsections": [],
+            "images": []
+        },
+        {
+            "id": "which_babies_require_resuscitation",
+            "title": "Which babies require resuscitation?",
+            "content": "Approximately 10\u202f% of newborns require some assistance to begin breathing at birth; very few, only about 1\u202f% need more than basic resuscitation to survive.",
+            "subsections": [],
+            "images": []
+        },
+        {
+            "id": "high_risk_deliveries",
+            "title": "High Risk Deliveries",
+            "content": "These are deliveries where it is more likely that resuscitation will be required. They include deliveries to mothers who are sick, who had a previous foetal or neonatal death, with pre\u2011eclampsia or eclampsia, with multiple pregnancies, or who are delivering preterm. Delivery circumstances that increase the risk are abnormal presentation, prolonged second stage, prolapsed cord, prolonged rupture of membranes, and meconium staining of the liquor.",
+            "subsections": [],
+            "images": []
+        },
+        {
+            "id": "preparation",
+            "title": "Preparation for a delivery",
+            "content": "For many infants, resuscitation cannot be anticipated before delivery. Therefore be prepared for resuscitation at **every** delivery.",
+            "subsections": [
+                {
+                    "id": "temp",
+                    "title": "Temperature",
+                    "content": "The recommended temperature for the delivery room is 25\u202f\u00b0C. Shut windows, turn off AC/fans, warm the resuscitaire 30\u202fmin before delivery and have at least two pre\u2011warmed absorbent towels \u2013 one to dry the baby and one to wrap the baby."
+                },
+                {
+                    "id": "personnel",
+                    "title": "Personnel",
+                    "content": "Nurse/midwife should identify a helper, explain roles and allocate duties according to skill level (qualified staff, untrained staff, or relative)."
+                },
+                {
+                    "id": "equipment",
+                    "title": "Equipment",
+                    "content": "Check that all equipment and supplies are available, clean and functional before birth. Equipment should be positioned for immediate use."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/coin8.png",
+                    "caption": "Check the bag against your hand"
+                },
+                {
+                    "src": "../images/coin9.png",
+                    "caption": "\u2026before using it on a baby"
+                }
+            ]
+        },
+        {
+            "id": "baby_delivered",
+            "title": "Baby is Delivered",
+            "content": "Most newborns require only simple supportive care at and after delivery. Deliver the baby onto the mother\u2019s abdomen, note the time of birth and wait one minute before clamping the pulsating cord. Use two dry warm cloths \u2013 one to dry and a fresh one to wrap. Immediate drying prevents heat loss and often stimulates breathing.",
+            "subsections": [
+                {
+                    "id": "initial_assessment",
+                    "title": "How do you determine whether the baby requires resuscitation?",
+                    "content": "Assessment\u2011Decision table (crying \u2192 routine care; not crying but chest rising \u2192 routine care; gasping, not breathing, or very poor tone \u2192 start resuscitation immediately)."
+                },
+                {
+                    "id": "key_facts",
+                    "title": "Key Facts for Providers \u2013 How to Provide Essential Newborn Care at Delivery",
+                    "content": "1. Dry the infant with a clean cloth and observe. 2. Maintain skin\u2011to\u2011skin contact. 3. Cover to prevent heat loss. 4. Clamp and cut cord after \u22651\u202fmin. 5. Encourage breast\u2011feeding within the first hour. 6. Skin\u2011to\u2011skin & early breast\u2011feeding keep infant warm and prevent hypoglycaemia."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/coin10.png",
+                    "caption": "Two clothes \u2013 one to dry and a fresh one to wrap"
+                }
+            ]
+        },
+        {
+            "id": "steps_resuscitation",
+            "title": "Steps to Follow During Resuscitation",
+            "content": "If the baby requires resuscitation provide warmth with a radiant warmer or a warming cot. Position yourself at the bedside (head of the baby) so the chest and abdomen remain unobstructed.",
+            "subsections": [
+                {
+                    "id": "abc",
+                    "title": "ABCs of Resuscitation",
+                    "content": "A \u2013 Ensure Airway is open and clear. B \u2013 Ensure Breathing (spontaneous or assisted). C \u2013 Ensure adequate Circulation of oxygenated blood. Maintain body temperature throughout."
+                },
+                {
+                    "id": "airway",
+                    "title": "A. Airway",
+                    "content": "Open airway by slightly extending the neck, maintain neutral position, use a rolled cloth if occiput is large. Clear secretions by wiping or suctioning (mouth\u2011first, then nose) with a Penguin suction device or catheter.",
+                    "images": [
+                        {
+                            "src": "../images/coin14.png",
+                            "caption": null
+                        },
+                        {
+                            "src": "../images/coin14a.png",
+                            "caption": null
+                        },
+                        {
+                            "src": "../images/coin14aa.png",
+                            "caption": null
+                        },
+                        {
+                            "src": "../images/coin15.png",
+                            "caption": "Correct head position to open up airway for bag ventilation \u2013 do not hyperextend the neck."
+                        },
+                        {
+                            "src": "../images/coin17.png",
+                            "caption": "Suction the mouth and nose (M before N) using Penguin suction device."
+                        },
+                        {
+                            "src": "../images/coin17a.png",
+                            "caption": "To empty during suction"
+                        },
+                        {
+                            "src": "../images/coin17aa.png",
+                            "caption": "To prepare for cleaning after use"
+                        }
+                    ]
+                },
+                {
+                    "id": "breathing",
+                    "title": "B. Positive\u2011Pressure Ventilation (Bag\u2011Mask)",
+                    "content": "Indications: baby not breathing or gasping, HR <100\u202fbpm despite spontaneous breathing, persistent central cyanosis. Use appropriately sized masks (round or anatomically shaped). Position mask covering nose, mouth and chin; hold with thumb\u2011index\u2011middle fingers and lift the chin with ring/fifth fingers. Bag\u2011mask has a pop\u2011off valve set at ~30\u201140\u202fcm\u202fH\u2082O to prevent excessive pressure. Deliver 40\u201160 breaths/min (\u22481\u202fbreath/sec). For term infants use room air; for preterm \u226432\u202fweeks start with 30\u202f% O\u2082 (or air if blender unavailable). Assess effectiveness by chest rise, heart\u2011rate >100\u202fbpm, improved colour and spontaneous effort.",
+                    "images": [
+                        {
+                            "src": "../images/coin19.png",
+                            "caption": null
+                        },
+                        {
+                            "src": "../images/coin20.png",
+                            "caption": "Ventilating a neonate with bag and mask \u2013 pull the jaw forward with the third finger; do not hyperextend the neck."
+                        },
+                        {
+                            "src": "../images/coin21.png",
+                            "caption": "The self\u2011inflating bag with pop\u2011off valve."
+                        }
+                    ]
+                },
+                {
+                    "id": "circulation",
+                    "title": "C. Circulation \u2013 Chest Compressions",
+                    "content": "Begin compressions if HR <60\u202fbpm after 30\u202fseconds of effective ventilation. Two providers are needed \u2013 one for ventilation (head of the baby) and one for compressions (side or foot). Techniques: Thumb technique (thumbs on sternum, fingers under back) or 2\u2011finger technique (middle finger\u202f+\u202findex/ring finger). Position hands on the lower third of the sternum (halfway between xiphoid and line between nipples). Compress to a depth of ~1\u20443 AP chest diameter, release fully. Ratio 3 compressions\u202f:\u202f1 ventilation (3:1) \u2248 90 compressions/min. After ~30\u202fseconds reassess HR. If HR >60\u202fbpm stop compressions, continue ventilation at 40\u201160\u202fbreaths/min. If HR remains <60\u202fbpm continue CPR until HR >100\u202fbpm or the baby is deemed non\u2011viable.",
+                    "images": [
+                        {
+                            "src": "../images/coin23.png",
+                            "caption": "Thumb technique \u2013 thumbs on sternum, fingers under back."
+                        },
+                        {
+                            "src": "../images/coin23aa.png",
+                            "caption": "2\u2011finger technique \u2013 tips of middle finger + index/ring finger on sternum."
+                        },
+                        {
+                            "src": "../images/coin24b.png",
+                            "caption": "Hand position \u2013 lower third of sternum, half way between xiphoid and nipple line."
+                        },
+                        {
+                            "src": "../images/coin24.png",
+                            "caption": "Place thumbs/fingers just above the xiphoid. Avoid direct pressure on the xiphoid."
+                        },
+                        {
+                            "src": "../images/coin25.png",
+                            "caption": "Depth of compression \u2248 one\u2011third of anterior\u2011posterior chest diameter."
+                        },
+                        {
+                            "src": "../images/coin26.png",
+                            "caption": "Compression\u2011ventilation ratio 3:1."
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/coin11.png",
+                    "caption": null
+                },
+                {
+                    "src": "../images/bvm.png",
+                    "caption": null
+                }
+            ]
+        },
+        {
+            "id": "cessation",
+            "title": "Cessation of Resuscitation",
+            "content": "Discontinue efforts when: 1) infant is not breathing and no detectable heartbeat after\u202f10\u202fmin; or 2) no spontaneous breathing and HR\u202f<\u202f60\u202fbpm after\u202f20\u202fmin of effective resuscitation. Record the event, inform the parents and allow them to hold the infant if they wish.",
+            "subsections": [],
+            "images": []
+        },
+        {
+            "id": "algorithm",
+            "title": "Neonatal Resuscitation Algorithm",
+            "content": "A visual flow\u2011chart summarising the steps from initial assessment through airway, breathing, chest compressions and post\u2011resuscitation care.",
+            "subsections": [],
+            "images": [
+                {
+                    "src": "../images/coin12.png",
+                    "caption": "Neonatal Resuscitation Algorithm (zoom to see details)"
+                }
+            ]
+        }
+    ],
+    "allImages": [
+        {
+            "src": "../images/coin8.png",
+            "caption": "Check the bag against your hand"
+        },
+        {
+            "src": "../images/coin9.png",
+            "caption": "\u2026before using it on a baby"
+        },
+        {
+            "src": "../images/coin10.png",
+            "caption": "Two clothes \u2013 one to dry and a fresh one to wrap"
+        },
+        {
+            "src": "../images/coin11.png",
+            "caption": null
+        },
+        {
+            "src": "../images/bvm.png",
+            "caption": null
+        },
+        {
+            "src": "../images/coin14.png",
+            "caption": null
+        },
+        {
+            "src": "../images/coin14a.png",
+            "caption": null
+        },
+        {
+            "src": "../images/coin14aa.png",
+            "caption": null
+        },
+        {
+            "src": "../images/coin15.png",
+            "caption": "Correct head position to open up airway for bag ventilation \u2013 do not hyperextend the neck."
+        },
+        {
+            "src": "../images/coin17.png",
+            "caption": "Suction the mouth and nose (M before N) using Penguin suction device."
+        },
+        {
+            "src": "../images/coin17a.png",
+            "caption": "To empty during suction"
+        },
+        {
+            "src": "../images/coin17aa.png",
+            "caption": "To prepare for cleaning after use"
+        },
+        {
+            "src": "../images/coin19.png",
+            "caption": null
+        },
+        {
+            "src": "../images/coin20.png",
+            "caption": "Ventilating a neonate with bag and mask \u2013 pull the jaw forward with the third finger; do not hyperextend the neck."
+        },
+        {
+            "src": "../images/coin21.png",
+            "caption": "The self\u2011inflating bag with pop\u2011off valve."
+        },
+        {
+            "src": "../images/coin23.png",
+            "caption": "Thumb technique \u2013 thumbs on sternum, fingers under back."
+        },
+        {
+            "src": "../images/coin23aa.png",
+            "caption": "2\u2011finger technique \u2013 tips of middle finger + index/ring finger on sternum."
+        },
+        {
+            "src": "../images/coin24b.png",
+            "caption": "Hand position \u2013 lower third of sternum, half way between xiphoid and nipple line."
+        },
+        {
+            "src": "../images/coin24.png",
+            "caption": "Place thumbs/fingers just above the xiphoid. Avoid direct pressure on the xiphoid."
+        },
+        {
+            "src": "../images/coin25.png",
+            "caption": "Depth of compression \u2248 one\u2011third of anterior\u2011posterior chest diameter."
+        },
+        {
+            "src": "../images/coin26.png",
+            "caption": "Compression\u2011ventilation ratio 3:1."
+        },
+        {
+            "src": "../images/coin12.png",
+            "caption": "Neonatal Resuscitation Algorithm (zoom to see details)"
+        }
+    ],
+    "_source_file": "C3_ResuscNewborn.html"
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Referral, Transport and Discharge",
+    "description": "Overview of the processes for referring, transporting, and discharging patients.",
+    "sections": [
+        {
+            "title": "Referral and Transport of the Sick NYI",
+            "link": "C19_Referral.html",
+            "learningObjectives": [
+                "Identify the indications for referring a sick Newborn/Infant (NYI) to a higher level of care.",
+                "Describe the steps involved in safely transporting a NYI, including equipment, personnel, and documentation requirements.",
+                "Explain communication protocols between referring and receiving facilities to ensure continuity of care."
+            ],
+            "subsections": [],
+            "images": []
+        },
+        {
+            "title": "Discharge from the Hospital",
+            "link": "C20_Discharge.html",
+            "learningObjectives": [
+                "Outline the criteria for medically fit discharge of a patient from the hospital.",
+                "Detail the components of a comprehensive discharge plan, including medication reconciliation, follow\u2011up appointments, and patient education.",
+                "Recognize common barriers to safe discharge and strategies to mitigate them."
+            ],
+            "subsections": [],
+            "images": []
+        }
+    ],
+    "imageResources": [],
+    "_source_file": "C19_20Transport.html"
+}

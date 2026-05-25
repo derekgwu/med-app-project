@@ -1,0 +1,191 @@
+{
+    "title": "E\u202f6\u202fOxygen Therapy",
+    "description": "Overview of oxygen therapy for newborns and young infants, including when to use it, how to deliver it, monitoring, infection\u2011prevention, troubleshooting and maintenance.",
+    "imageLinks": [
+        "../images/coin71.png",
+        "../images/coin72.png",
+        "../images/coin72a.png",
+        "../images/coin73.png",
+        "../images/coin74.png",
+        "../images/coin76.png"
+    ],
+    "learningObjectives": [
+        "Identify clinical situations in newborns that require supplemental oxygen.",
+        "Understand the target SpO\u2082 range (90\u201195\u202f%) and how to titrate oxygen safely.",
+        "Select the appropriate oxygen delivery device (cannula, mask, CPAP, splitter, concentrator, cylinder).",
+        "Perform a systematic patient assessment before, during and after oxygen therapy.",
+        "Apply infection\u2011prevention and re\u2011processing procedures for oxygen\u2011related equipment.",
+        "Recognise and manage common clinical and device complications of oxygen therapy.",
+        "Implement routine care, maintenance and troubleshooting for oxygen delivery systems."
+    ],
+    "sections": [
+        {
+            "id": "Clinical Problem",
+            "title": "Clinical Problem",
+            "summary": "Oxygen may be delivered directly, via a splitter, or in combination with devices such as CPAP. Indications include hypoxaemia (SpO\u2082\u202f<\u202f90\u202f%) caused by a wide range of neonatal respiratory and systemic conditions.",
+            "learningObjectives": [
+                "List the neonatal conditions that may require supplemental oxygen.",
+                "Explain why continuous SpO\u2082 monitoring is mandatory when delivering oxygen."
+            ],
+            "subsections": []
+        },
+        {
+            "id": "Assessment",
+            "title": "Assessment",
+            "summary": "Assessment focuses on recognising hypoxia, measuring SpO\u2082, and selecting appropriate flow rates for the chosen delivery method.",
+            "learningObjectives": [
+                "Differentiate flow\u2011rate requirements for resuscitation, nasal prongs, masks and CPAP.",
+                "Interpret ALERT\u202f2.1 and ALERT\u202f2.2 regarding resuscitation FiO\u2082 and safe SpO\u2082 targets."
+            ],
+            "subsections": [
+                {
+                    "title": "Flow\u2011rate table",
+                    "content": [
+                        "Resuscitation (bag\u2011mask):\u202f10\u202fL\u202fmin\u207b\u00b9 (Alert\u202f2.1)",
+                        "Flow\u2011meter stand (splitter):\u202f1\u20112\u202fL\u202fmin\u207b\u00b9 per port",
+                        "Nasal prongs:\u202f\u2264\u202f2\u202fL\u202fmin\u207b\u00b9",
+                        "Mask:\u202f3\u201110\u202fL\u202fmin\u207b\u00b9",
+                        "CPAP:\u202f1\u20116\u202fL\u202fmin\u207b\u00b9"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Management",
+            "title": "Management",
+            "summary": "Covers preparation, initiation, ongoing care, and removal of oxygen therapy. Device\u2011specific guidance is referenced to separate modules.",
+            "learningObjectives": [
+                "Perform the ABC assessment and decide whether CPAP or low\u2011flow oxygen is indicated.",
+                "Demonstrate correct set\u2011up of nasal prongs and secure them safely.",
+                "Monitor SpO\u2082 continuously and titrate flow to keep saturation within 90\u201195\u202f%.",
+                "Follow a step\u2011wise wean protocol and criteria for safe removal of oxygen."
+            ],
+            "subsections": [
+                {
+                    "title": "Preparing a Patient",
+                    "content": [
+                        "Assess airway, breathing (RR\u202f>\u202f60\u202fbpm, SpO\u2082\u202f<\u202f90\u202f%, work of breathing), circulation (perfusion, capillary refill), seizures and temperature.",
+                        "Consider bubble CPAP if available and indicated."
+                    ]
+                },
+                {
+                    "title": "Starting a Patient",
+                    "content": [
+                        "Gather appropriately sized nasal prongs, tape, cotton wool.",
+                        "Verify tubing connection, set flow, confirm oxygen is exiting the prongs.",
+                        "Insert prongs loosely, secure with tape, protect skin, label ports."
+                    ]
+                },
+                {
+                    "title": "Caring for a Patient",
+                    "content": [
+                        "Continuous pulse\u2011oximetry, titrate flow to keep SpO\u2082\u202f90\u201195\u202f%.",
+                        "If >\u202f2\u202fL\u202fmin\u207b\u00b9 is needed, switch to CPAP or mask (Alert\u202f3.2).",
+                        "Monitor vital signs, work of breathing and nostril patency.",
+                        "Apply nasal saline drops every 4\u202fh (or more often)."
+                    ]
+                },
+                {
+                    "title": "Removing a Patient",
+                    "content": [
+                        "Reduce flow by 0.25\u202fL\u202fmin\u207b\u00b9, re\u2011check SpO\u2082 after 15\u202fmin; repeat until stable at 0.25\u202fL\u202fmin\u207b\u00b9.",
+                        "If stable >\u202f90\u201195\u202f% for 15\u202fmin, remove tape and prongs; re\u2011check after 15\u202fmin.",
+                        "Re\u2011initiate oxygen if saturation falls <\u202f90\u202f% or clinical status deteriorates."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Infection prevention",
+            "title": "Infection Prevention",
+            "summary": "Emphasises hand hygiene, use of new or properly cleaned tubing, drying and storage, and rapid re\u2011processing of reusable components.",
+            "learningObjectives": [
+                "Apply hand\u2011hygiene before and after handling oxygen equipment.",
+                "Identify steps for cleaning, drying and storing nasal prongs and tubing.",
+                "Explain the importance of timely re\u2011processing of single\u2011use respiratory circuits (Alert\u202f4.1)."
+            ],
+            "subsections": [
+                {
+                    "title": "General Infection Prevention",
+                    "content": [
+                        "Wash or disinfect hands before/after contact.",
+                        "Use new or thoroughly cleaned tubing; label cleaned items.",
+                        "Hang tubing to dry, keep off the floor, store in a clean dry area."
+                    ]
+                },
+                {
+                    "title": "Disinfection After Use",
+                    "content": [
+                        "Detach tubing, start cleaning protocol immediately if re\u2011using.",
+                        "If not re\u2011using, discard according to waste policy (Alert\u202f4.1).",
+                        "Replace humidifier water after each patient or daily."
+                    ]
+                },
+                {
+                    "title": "Reprocessing Tubing",
+                    "content": "Refer to the illustrated algorithm (coin76.png) for step\u2011by\u2011step cleaning, disinfection and storage."
+                }
+            ]
+        },
+        {
+            "id": "Complications",
+            "title": "Complications",
+            "summary": "Distinguishes clinical complications (hypoxia, hyperoxia, nasal blockage, necrotic septum) from device\u2011related complications (inadequate oxygen concentration).",
+            "learningObjectives": [
+                "Recognise signs of hypoxia and hyperoxia and their potential sequelae.",
+                "Identify equipment\u2011related problems such as blocked prongs or poor FiO\u2082 delivery.",
+                "Implement preventive measures to avoid nasal tissue injury."
+            ],
+            "subsections": [
+                {
+                    "title": "Clinical Complications",
+                    "content": [
+                        "Hypoxia \u2192 brain injury, multi\u2011organ failure, death.",
+                        "Hyperoxia \u2192 retinopathy of prematurity, chronic lung disease.",
+                        "Nasal blockage, necrotic septum, displaced prongs."
+                    ]
+                },
+                {
+                    "title": "Device Complications",
+                    "content": [
+                        "Inadequate oxygen concentration from any delivery system can limit therapeutic effect."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Maintenance",
+            "title": "Care & Maintenance",
+            "summary": "Power, location and preventive maintenance differ by device (concentrator, cylinder, splitter). Specific guidance is provided in the linked modules.",
+            "learningObjectives": [
+                "Identify the power requirements for each oxygen\u2011delivery device.",
+                "Describe routine preventive\u2011maintenance tasks for concentrators, cylinders and splitters."
+            ],
+            "subsections": []
+        },
+        {
+            "id": "Troubleshooting",
+            "title": "Troubleshooting & Repair",
+            "summary": "Typical failures and repair steps vary by device type; see the dedicated modules for detailed procedures.",
+            "learningObjectives": [
+                "Diagnose common faults in oxygen concentrators, cylinders and splitters.",
+                "Apply basic repair or replacement steps before seeking technical support."
+            ],
+            "subsections": []
+        }
+    ],
+    "references": [
+        "Textbook of Neonatal Resuscitation (NRP), 7th Ed. (American Academy of Pediatrics, 2016).",
+        "Oxygen therapy for children. (World Health Organization, 2016).",
+        "Bancalari, E. & Claure, N. Oxygenation Targets and Outcomes in Premature Infants. JAMA 309, 2161 (2013).",
+        "Cummings, J. J., Polin, R. A. & Committee on Fetus and Newborn. Oxygen Targeting in Extremely Low Birth Weight Infants. Pediatrics 138, e20161576 (2016).",
+        "Manja, V., Lakshminrusimha, S. & Cook, D. J. Oxygen Saturation Target Range for Extremely Preterm Infants: A Systematic Review and Meta\u2011analysis. JAMA Pediatrics 169, 332 (2015).",
+        "Polin, R. A. & Bateman, D. Oxygen\u2011Saturation Targets in Preterm Infants. New England Journal of Medicine 368, 2141\u20112142 (2013).",
+        "Walsh, M. Oxygen Delivery Through Nasal Cannulae to Preterm Infants: Can Practice Be Improved? Pediatrics 116, 857\u2011861 (2005).",
+        "Locke, R. G., Wolfson, M. R., Shaffer, T. H., Rubenstein, S. D. & Greenspan, J. S. Inadvertent administration of positive end\u2011distending pressure during nasal cannula flow. Pediatrics 91, 135\u2011138 (1993).",
+        "Sreenan, C., Lemke, R. P., Hudson\u2011Mason, A. & Osiovich, H. High\u2011Flow Nasal Cannulae in the Management of Apnea of Prematurity. Pediatrics 107, 1081\u20111083 (2001).",
+        "Curless MS, Ruparelia CS, Thompson E, and Trexler PA, eds. (2018). Infection Prevention and Control: Reference Manual for Health Care Facilities with Limited Resources. Jhpiego.",
+        "World Health Organization. Technical specifications for oxygen concentrators (2016)."
+    ],
+    "_source_file": "E6_Oxygen therapy.html"
+}

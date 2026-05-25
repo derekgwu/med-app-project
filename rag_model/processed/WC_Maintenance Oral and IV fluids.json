@@ -1,0 +1,360 @@
+{
+    "title": "Wall Chart C \u2013 Maintenance feeds and fluids",
+    "source": "wall_chart_c.html",
+    "sections": [
+        {
+            "id": "feeds",
+            "title": "WC\u202f1\u202fMaintenance feeds by gastric tube or by cup by weight band",
+            "learningObjectives": [
+                "Identify the appropriate daily feed volume (ml\u202f/kg\u202f/\u202fday) for neonates from Day\u202f1 onward.",
+                "Select the correct feed frequency (two\u2011hourly vs. three\u2011hourly) based on the infant\u2019s weight band.",
+                "Calculate the total volume to be administered in each feed (e.g., 4\u202fml per feed for a 0.75\u20130.99\u202fkg infant on a two\u2011hourly schedule).",
+                "Recognize the modification of feeds for low\u2011birth\u2011weight (LBW) / small\u2011for\u2011gestational\u2011age (SGA) infants from Day\u202f7 onward."
+            ],
+            "subsections": [
+                {
+                    "type": "reference",
+                    "title": "Related chapters",
+                    "content": [
+                        {
+                            "text": "Chapter on feeding",
+                            "url": "C12_fluidmanagement.html#feeds"
+                        },
+                        {
+                            "text": "Tube feeding",
+                            "url": "C9_Preterm.html#tube feeding"
+                        },
+                        {
+                            "text": "Cup feeding",
+                            "url": "C9_Preterm.html#cup"
+                        }
+                    ]
+                },
+                {
+                    "type": "table",
+                    "title": "Feed volumes by age\u2011days and weight\u2011band (ml\u202f/kg\u202f/\u202fday)",
+                    "description": "Daily volume targets for the first four days of life and thereafter, plus the special LBW/SGA column starting on Day\u202f7.",
+                    "columns": [
+                        "Age days",
+                        "Day\u202f1",
+                        "Day\u202f2",
+                        "Day\u202f3",
+                        "Day\u202f4\u2011onwards",
+                        "Day\u202f7\u2011onwards (if LBW/SGA)"
+                    ],
+                    "rows": [
+                        {
+                            "ageRange": "0.75\u20110.99\u202fkg",
+                            "day1": 4,
+                            "day2": 7,
+                            "day3": 9,
+                            "day4On": 11,
+                            "lbwSga": 13,
+                            "note": "Two\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "1.00\u20111.24\u202fkg",
+                            "day1": 6,
+                            "day2": 8,
+                            "day3": 11,
+                            "day4On": 14,
+                            "lbwSga": 17,
+                            "note": "Two\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "1.25\u20111.49\u202fkg",
+                            "day1": 7,
+                            "day2": 10,
+                            "day3": 14,
+                            "day4On": 17,
+                            "lbwSga": 21,
+                            "note": "Two\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "1.50\u20111.74\u202fkg",
+                            "day1": "8/13",
+                            "day2": "12/18",
+                            "day3": "16/24",
+                            "day4On": "20/30",
+                            "lbwSga": "24/37",
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "1.75\u20111.99\u202fkg",
+                            "day1": "9/14",
+                            "day2": "14/21",
+                            "day3": "19/28",
+                            "day4On": "23/35",
+                            "lbwSga": "28/42",
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "2.00\u20112.24\u202fkg",
+                            "day1": "11/16",
+                            "day2": "16/24",
+                            "day3": "21/32",
+                            "day4On": "27/40",
+                            "lbwSga": "32/48",
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "2.25\u20112.49\u202fkg",
+                            "day1": "12/18",
+                            "day2": "18/27",
+                            "day3": "24/36",
+                            "day4On": "30/45",
+                            "lbwSga": "36/53",
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "2.50\u20112.74\u202fkg",
+                            "day1": "13/20",
+                            "day2": "20/30",
+                            "day3": "26/39",
+                            "day4On": "33/49",
+                            "lbwSga": null,
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "2.75\u20112.90\u202fkg",
+                            "day1": "14/22",
+                            "day2": "22/32",
+                            "day3": "29/43",
+                            "day4On": "36/54",
+                            "lbwSga": null,
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "3.00\u20113.24\u202fkg",
+                            "day1": "16/23",
+                            "day2": "23/35",
+                            "day3": "31/47",
+                            "day4On": "39/59",
+                            "lbwSga": null,
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "3.25\u20113.49\u202fkg",
+                            "day1": "17/25",
+                            "day2": "25/38",
+                            "day3": "35/53",
+                            "day4On": "42/63",
+                            "lbwSga": null,
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "3.50\u20113.74\u202fkg",
+                            "day1": "18/27",
+                            "day2": "27/41",
+                            "day3": "34/54",
+                            "day4On": "45/68",
+                            "lbwSga": null,
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "3.75\u20113.90\u202fkg",
+                            "day1": "19/29",
+                            "day2": "29/44",
+                            "day3": "39/58",
+                            "day4On": "48/73",
+                            "lbwSga": null,
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "4.00\u20114.24\u202fkg",
+                            "day1": "21/31",
+                            "day2": "31/46",
+                            "day3": "41/62",
+                            "day4On": "52/77",
+                            "lbwSga": null,
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "4.25\u20114.49\u202fkg",
+                            "day1": "22/33",
+                            "day2": "33/49",
+                            "day3": "44/66",
+                            "day4On": "55/82",
+                            "lbwSga": null,
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "4.50\u20114.74\u202fkg",
+                            "day1": "23/35",
+                            "day2": "35/52",
+                            "day3": "46/69",
+                            "day4On": "58/87",
+                            "lbwSga": null,
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        },
+                        {
+                            "ageRange": "4.75\u20115.00\u202fkg",
+                            "day1": "24/35",
+                            "day2": "37/55",
+                            "day3": "49/73",
+                            "day4On": "61/91",
+                            "lbwSga": null,
+                            "note": "Two\u2011/Three\u2011hourly feeds"
+                        }
+                    ],
+                    "footnote": "Values are presented as <feed\u2011volume per feed> for two\u2011hourly schedules; for three\u2011hourly schedules the second value (in bold) is shown."
+                }
+            ],
+            "imageLinks": [
+                {
+                    "description": "Feed volume chart (WC\u202f1)",
+                    "url": "images/wc1_maintenance_feeds.png"
+                }
+            ]
+        },
+        {
+            "id": "fluids",
+            "title": "WC\u202f2\u202fMaintenance IV fluids by age and weight band",
+            "learningObjectives": [
+                "Determine the appropriate 10\u202f% dextrose (or RL) maintenance fluid volume (ml\u202f/kg\u202f/\u202fday) for neonates based on age (days) and weight band.",
+                "Differentiate fluid requirements for the first three days of life compared with day\u202f4 onward.",
+                "Apply the correct fluid prescription for low birth\u2011weight infants when a higher volume (e.g., 180\u202fml\u202f/kg) is indicated."
+            ],
+            "subsections": [
+                {
+                    "type": "reference",
+                    "title": "Related chapter",
+                    "content": [
+                        {
+                            "text": "Chapter on maintenance fluids",
+                            "url": "C12_fluidmanagement.html#iv"
+                        }
+                    ]
+                },
+                {
+                    "type": "table",
+                    "title": "IV fluid volumes (ml\u202f/kg\u202f/\u202fday)",
+                    "description": "Daily fluid volume for 10\u202f% dextrose solutions (plain 10\u202f% dextrose for Days\u202f1\u20112, 10\u202f% dextrose with RL for Day\u202f3 onward).",
+                    "columns": [
+                        "Weight band (kg)",
+                        "Day\u202f1 (ml\u202f/kg)",
+                        "Day\u202f2 (ml\u202fkg)",
+                        "Day\u202f3\u2011onwards (ml\u202fkg)"
+                    ],
+                    "rows": [
+                        {
+                            "ageRange": "0.75\u20110.99",
+                            "day1": 2,
+                            "day2": 3,
+                            "day3On": 4
+                        },
+                        {
+                            "ageRange": "1.00\u20111.24",
+                            "day1": 3,
+                            "day2": 4,
+                            "day3On": 5
+                        },
+                        {
+                            "ageRange": "1.25\u20111.49",
+                            "day1": 3,
+                            "day2": 5,
+                            "day3On": 6
+                        },
+                        {
+                            "ageRange": "1.50\u20111.74",
+                            "day1": 4,
+                            "day2": 6,
+                            "day3On": 7
+                        },
+                        {
+                            "ageRange": "1.75\u20111.90",
+                            "day1": 5,
+                            "day2": 7,
+                            "day3On": 8
+                        },
+                        {
+                            "ageRange": "2.00\u20112.24",
+                            "day1": 5,
+                            "day2": 8,
+                            "day3On": 9
+                        },
+                        {
+                            "ageRange": "2.25\u20112.49",
+                            "day1": 6,
+                            "day2": 9,
+                            "day3On": 10
+                        },
+                        {
+                            "ageRange": "2.50\u20112.74",
+                            "day1": 7,
+                            "day2": 10,
+                            "day3On": 11
+                        },
+                        {
+                            "ageRange": "2.75\u20112.90",
+                            "day1": 7,
+                            "day2": 11,
+                            "day3On": 12
+                        },
+                        {
+                            "ageRange": "3.00\u20113.24",
+                            "day1": 8,
+                            "day2": 12,
+                            "day3On": 13
+                        },
+                        {
+                            "ageRange": "3.25\u20113.49",
+                            "day1": 8,
+                            "day2": 13,
+                            "day3On": 14
+                        },
+                        {
+                            "ageRange": "3.50\u20113.74",
+                            "day1": 9,
+                            "day2": 14,
+                            "day3On": 15
+                        },
+                        {
+                            "ageRange": "3.75\u20113.90",
+                            "day1": 10,
+                            "day2": 15,
+                            "day3On": 16
+                        },
+                        {
+                            "ageRange": "4.00\u20114.24",
+                            "day1": 10,
+                            "day2": 15,
+                            "day3On": 17
+                        },
+                        {
+                            "ageRange": "4.25\u20114.49",
+                            "day1": 11,
+                            "day2": 16,
+                            "day3On": 18
+                        },
+                        {
+                            "ageRange": "4.50\u20114.74",
+                            "day1": 12,
+                            "day2": 17,
+                            "day3On": 19
+                        },
+                        {
+                            "ageRange": "4.75\u20115.00",
+                            "day1": 12,
+                            "day2": 18,
+                            "day3On": 20
+                        }
+                    ],
+                    "footnote": "All values are in millilitres per kilogram per day (ml\u202f/kg\u202f/\u202fday)."
+                }
+            ],
+            "imageLinks": [
+                {
+                    "description": "IV fluid chart (WC\u202f2)",
+                    "url": "images/wc2_maintenance_fluids.png"
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "created": "2026\u201105\u201125",
+        "author": "Converted from HTML wall\u2011chart",
+        "license": "CC\u2011BY\u20114.0"
+    },
+    "_source_file": "WC_Maintenance Oral and IV fluids.html"
+}

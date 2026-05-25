@@ -1,0 +1,31 @@
+{
+    "documentTitle": "Appendix 3: Neonatal CCP Form",
+    "sections": [
+        {
+            "title": "Neonatal CCP Form Overview",
+            "learningObjectives": [
+                "Identify the main components of the Neonatal CCP (Child Care Plan) form.",
+                "Understand the purpose of each section of the form for newborn care documentation.",
+                "Learn how to read and interpret the details shown in the form images.",
+                "Recognize the key fields that must be completed for accurate neonatal reporting."
+            ],
+            "subsections": [
+                {
+                    "title": "Form Image \u2013 Page B",
+                    "description": "Zoomed\u2011in view of the second page of the Neonatal CCP form, showing field layouts and sample entries.",
+                    "imageLink": "../images/App3b.png"
+                },
+                {
+                    "title": "Form Image \u2013 Page A",
+                    "description": "Zoomed\u2011in view of the first page of the Neonatal CCP form, illustrating header information and introductory sections.",
+                    "imageLink": "../images/App3a.png"
+                }
+            ]
+        }
+    ],
+    "imageLinks": [
+        "../images/App3b.png",
+        "../images/App3a.png"
+    ],
+    "_source_file": "A3_CCP.html"
+}

@@ -1,0 +1,213 @@
+{
+    "title": "Acronyms and Abbreviations",
+    "description": "A reference list of common medical, clinical and programmatic acronyms and abbreviations used in maternal\u2011child health and neonatal care.",
+    "learningObjectives": [
+        "Identify the most frequently used acronyms in maternal and child health (MCH) documentation.",
+        "Interpret dosage and administration abbreviations (e.g., BD, OD, TID/TDS).",
+        "Recognize health\u2011system and program acronyms (e.g., MOH, UNICEF, BFHI).",
+        "Apply the correct meaning of clinical condition abbreviations (e.g., ARI, HIE, TB).",
+        "Use the acronym list as a quick reference when reading protocols, guidelines, and patient charts."
+    ],
+    "sections": [
+        {
+            "title": "Acronym List",
+            "subsections": [
+                {
+                    "title": "All Acronyms & Definitions",
+                    "items": [
+                        {
+                            "abbreviation": "<",
+                            "definition": "Below or less than"
+                        },
+                        {
+                            "abbreviation": ">",
+                            "definition": "Above or more than"
+                        },
+                        {
+                            "abbreviation": "AMAMI",
+                            "definition": "Association of Malawian Midwives"
+                        },
+                        {
+                            "abbreviation": "ARI",
+                            "definition": "Acute Respiratory Infection"
+                        },
+                        {
+                            "abbreviation": "bCPAP",
+                            "definition": "bubble Continuous Positive Airways pressure"
+                        },
+                        {
+                            "abbreviation": "BD",
+                            "definition": "Twice per day"
+                        },
+                        {
+                            "abbreviation": "BFHI",
+                            "definition": "Baby Friendly Hospital Initiative"
+                        },
+                        {
+                            "abbreviation": "BMV",
+                            "definition": "Bag Mask Ventilation"
+                        },
+                        {
+                            "abbreviation": "CHSU",
+                            "definition": "Community Health Services Unit"
+                        },
+                        {
+                            "abbreviation": "COM",
+                            "definition": "College of Medicine"
+                        },
+                        {
+                            "abbreviation": "COIN",
+                            "definition": "Care of the Infant and Neonate"
+                        },
+                        {
+                            "abbreviation": "ETAT",
+                            "definition": "Emergency Triage Assessment and Treatment"
+                        },
+                        {
+                            "abbreviation": "ENAP",
+                            "definition": "Every Neonate Action Plan"
+                        },
+                        {
+                            "abbreviation": "HBB",
+                            "definition": "Help Babies Breathe"
+                        },
+                        {
+                            "abbreviation": "HIV",
+                            "definition": "Human Immunodeficiency Virus"
+                        },
+                        {
+                            "abbreviation": "HIE",
+                            "definition": "Hypoxic Ischaemic Encephalopathy"
+                        },
+                        {
+                            "abbreviation": "IM",
+                            "definition": "Intramuscular"
+                        },
+                        {
+                            "abbreviation": "IMCI",
+                            "definition": "Integrated Management of Childhood Illness"
+                        },
+                        {
+                            "abbreviation": "IUGR",
+                            "definition": "Intrauterine Growth Retardation"
+                        },
+                        {
+                            "abbreviation": "IV",
+                            "definition": "Intravenous (fluids)"
+                        },
+                        {
+                            "abbreviation": "KCH",
+                            "definition": "Kamuzu Central Hospital"
+                        },
+                        {
+                            "abbreviation": "KCN",
+                            "definition": "Kamuzu College of Nursing"
+                        },
+                        {
+                            "abbreviation": "KMC",
+                            "definition": "Kangaroo Mother Care"
+                        },
+                        {
+                            "abbreviation": "LBW",
+                            "definition": "Low Birth Weight"
+                        },
+                        {
+                            "abbreviation": "MCH",
+                            "definition": "Maternal and Child Health"
+                        },
+                        {
+                            "abbreviation": "MCQ",
+                            "definition": "Multiple choice Question"
+                        },
+                        {
+                            "abbreviation": "MNH",
+                            "definition": "Maternal and Neonatal (Newborn) Health"
+                        },
+                        {
+                            "abbreviation": "MOH",
+                            "definition": "Ministry of Health"
+                        },
+                        {
+                            "abbreviation": "NG(T)",
+                            "definition": "Naso Gastric (Tube)"
+                        },
+                        {
+                            "abbreviation": "OD",
+                            "definition": "Once per day"
+                        },
+                        {
+                            "abbreviation": "OG(T)",
+                            "definition": "Oro Gastric (Tube)"
+                        },
+                        {
+                            "abbreviation": "PACHA",
+                            "definition": "Paediatric and Child Health Association"
+                        },
+                        {
+                            "abbreviation": "PO",
+                            "definition": "Per oral"
+                        },
+                        {
+                            "abbreviation": "QI D",
+                            "definition": "Four times per day"
+                        },
+                        {
+                            "abbreviation": "QECH",
+                            "definition": "Queen Elizabeth Central Hospital"
+                        },
+                        {
+                            "abbreviation": "RHD",
+                            "definition": "Reproductive Health Department"
+                        },
+                        {
+                            "abbreviation": "SGA",
+                            "definition": "Small for Gestational Age"
+                        },
+                        {
+                            "abbreviation": "SNCU",
+                            "definition": "Sick Newborn Care Unit"
+                        },
+                        {
+                            "abbreviation": "SpO2",
+                            "definition": "Peripheral blood oxygen saturation"
+                        },
+                        {
+                            "abbreviation": "STAT",
+                            "definition": "Immediately"
+                        },
+                        {
+                            "abbreviation": "TB",
+                            "definition": "Tuberculosis"
+                        },
+                        {
+                            "abbreviation": "TEO",
+                            "definition": "Tetracycline Eye Ointment"
+                        },
+                        {
+                            "abbreviation": "TID/TDS",
+                            "definition": "Three times per day"
+                        },
+                        {
+                            "abbreviation": "TPR",
+                            "definition": "Temperature, Pulse rate and Respiratory rate"
+                        },
+                        {
+                            "abbreviation": "UNICEF",
+                            "definition": "United Nations Children\u2019s Emergency Fund"
+                        },
+                        {
+                            "abbreviation": "VDRL",
+                            "definition": "Venereal Disease Reference Laboratory"
+                        },
+                        {
+                            "abbreviation": "NYI",
+                            "definition": "Neonate and Young Infant"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "imageLinks": [],
+    "_source_file": "acronyms.html"
+}
