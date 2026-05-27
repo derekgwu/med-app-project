@@ -1,6 +1,8 @@
 import React, { useRef } from 'react';
 import { SafeAreaView, Platform } from 'react-native';
 import { WebView } from 'react-native-webview';
+import TopBar from './TopBar';
+
 
 // Import all HTML files you need
 const pages = {
@@ -28,6 +30,9 @@ export default function App() {
 
   return (
     <SafeAreaView style={{ flex: 1 }}>
+      {currentPage !== 'title.html' && (
+        <TopBar onNavigate={setCurrentPage} />
+      )}
       <WebView
         ref={webViewRef}
         source={pages[currentPage]}

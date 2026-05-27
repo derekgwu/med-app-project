@@ -1,21 +1,21 @@
 import React from 'react';
-import { StyleSheet, View, Platform, Text } from 'react-native';
+import { StyleSheet, View, Text } from 'react-native';
 
-const TopBar = () => {
+const TopBar = ({ onNavigate }) => {
     return (
         <View style={styles.bar}>
-            <Text>TopBar</Text>
+            <Text onPress={() => onNavigate('title.html')}>← Back</Text>    
         </View>
     )
 }
 
 const styles = StyleSheet.create({
-    bar : {
+    bar: {
         height: "10%",
         width: "100%",
         paddingLeft: "5%",
-        paddingRight : "5%",
-        alignItems : "center",
+        paddingRight: "5%",
+        alignItems: "center",
         justifyContent: "center"
     }
 })
