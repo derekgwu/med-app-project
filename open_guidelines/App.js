@@ -1,41 +1,41 @@
-import React from 'react';
-import { StyleSheet, View, Platform, Text } from 'react-native';
-import {WebView} from 'react-native-webview'
-import {NavigationContainer} from '@react-navigation/native';
-import {createNativeStackNavigator} from '@react-navigation/native-stack';
-import TopBar from './TopBar';
-import Home from './Home.js'
+import React, { useRef } from 'react';
+import { SafeAreaView, Platform } from 'react-native';
+import { WebView } from 'react-native-webview';
 
-const Stack = createNativeStackNavigator();
+// Import all HTML files you need
+const pages = {
+  'title.html': require('./assets/title.html'),
+  'demo.html': require('./assets/demo.html'),
+};
 
-const Demo = () => {
+export default function App() {
+  const webViewRef = useRef(null);
+  const [currentPage, setCurrentPage] = React.useState('title.html');
+
+  // Intercept navigation requests
+  const handleNavigation = (request) => {
+    const url = request.url;
+
+    // Check if it's a local HTML file link
+    const match = Object.keys(pages).find(page => url.endsWith(page));
+    if (match) {
+      setCurrentPage(match);
+      return false; // Block WebView from handling it
+    }
+
+    return true; // Allow external URLs
+  };
+
   return (
-    <View style={styles.container}>
-      <TopBar/>
+    <SafeAreaView style={{ flex: 1 }}>
       <WebView
-        source={require('./assets/demo.html')}
-        style={{ flex: 1 }}
+        ref={webViewRef}
+        source={pages[currentPage]}
+        originWhitelist={['*']}
+        onShouldStartLoadWithRequest={handleNavigation}
+        allowFileAccess={true}
+        javaScriptEnabled={true}
       />
-    </View>
+    </SafeAreaView>
   );
 }
-
-const App = () => {
-  return (
-    <NavigationContainer>
-      <Stack.Navigator initialRouteName="Main" screenOptions={{ headerShown: false }}>
-        <Stack.Screen name="Main" component={Home}/>
-        <Stack.Screen name="Demo" component={Demo}/>
-      </Stack.Navigator>
-    </NavigationContainer>
-  );
-}
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-  },
-});
-
-export default App;
