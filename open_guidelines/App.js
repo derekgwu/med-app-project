@@ -1,25 +1,31 @@
 import React from 'react';
 import { StyleSheet, View, Platform, Text } from 'react-native';
 import {WebView} from 'react-native-webview'
-import TopBar  from './TopBar.js';
 import {NavigationContainer} from '@react-navigation/native';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
+import TopBar from './TopBar';
 import Home from './Home.js'
 
 const Stack = createNativeStackNavigator();
 
-const App = () => {
-  const source = {
-    link : require('./assets/demo.html')
-  }
-  const htmlFilePath = require('./assets/demo.html');
-  const uri = htmlFilePath
+const Demo = () => {
+  return (
+    <View style={styles.container}>
+      <TopBar/>
+      <WebView
+        source={require('./assets/demo.html')}
+        style={{ flex: 1 }}
+      />
+    </View>
+  );
+}
 
+const App = () => {
   return (
     <NavigationContainer>
       <Stack.Navigator initialRouteName="Main" screenOptions={{ headerShown: false }}>
         <Stack.Screen name="Main" component={Home}/>
-      
+        <Stack.Screen name="Demo" component={Demo}/>
       </Stack.Navigator>
     </NavigationContainer>
   );
