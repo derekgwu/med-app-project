@@ -6,7 +6,7 @@
 
 ### 📱 Project Overview
 
-We are seeking compassionate software engineers to help **modernize and restore a clinical guidelines mobile application** that serves doctors, nurses, midwives, and biomedical technicians across **Malawi**. This critical app provides access to **neonatal and newborn care guidelines** developed in partnership with:
+This critical app provides access to **neonatal and newborn care guidelines** developed in partnership with:
 
 - **Malawi's Ministry of Health**
 - **NEST 360°** (a collaboration between Rice University and Malawi College of Medicine)
