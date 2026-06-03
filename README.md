@@ -22,6 +22,37 @@ The original application has become **outdated and is no longer available** on t
 
 # Application Setup
 
+## macOS
+1. Install `node.js` and node package manager
+
+Install `node.js` through and verify:
+```
+brew install node
+node -v
+npm -v
+```
+
+2. Download XCode from the app store (may require a software update)
+
+3. Navigate to the settings to install the iOS component
+```
+Xcode -> Settings -> Components
+```
+
+4. 
+Open and run the simulator 
+```
+open -a Siulator
+```
+
+#### Common Errors
+If you get `error: tool 'xcodebuild' requires Xcode but active developer directory is a command line tool instance:
+
+```
+sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+xcode-select -p
+```
+
 ## Windows
 
 ### Emulator Installation
@@ -103,7 +134,90 @@ Go into Android Studio and start up an emulator (Pixel 4 API 30 will work fine).
 npx expo start --clear
 ```
 
-When prompted, press S to switch to Expo Go mode and press A to run on android
+Press `A` to run on android
+
+### Emulator Tips
+
+The Android emulator is a virtual machine with its own network stack.
+`localhost` inside the emulator points to itself, not your Windows machine.
+
+| Address | Resolves To |
+|---|---|
+| `localhost` / `127.0.0.1` | The emulator itself |
+| `10.0.2.2` | Your Windows host machine |
+
+---
+
+####  Step 1 — Set the Packager Hostname
+
+In your terminal before starting Expo:
+```bash
+set REACT_NATIVE_PACKAGER_HOSTNAME=10.0.2.2
+```
+
+Or set it permanently in `app.json`:
+```json
+{
+  "expo": {
+    "hostUri": "10.0.2.2:8081"
+  }
+}
+```
+
+---
+
+#### Step 2 — Forward the Port via ADB
+
+Make sure the emulator is fully booted (Android home screen visible), then run:
+```bash
+adb reverse tcp:8081 tcp:8081
+```
+
+This should return immediately with just:
+```
+8081
+```
+
+If it hangs, the emulator isn't ready yet. Verify with:
+```bash
+adb devices
+```
+
+You should see `device` (not `offline`):
+```
+List of devices attached
+emulator-5554   device
+```
+
+If the list is empty, restart the ADB server:
+```bash
+adb kill-server
+adb start-server
+adb devices
+```
+
+---
+
+#### Step 3 — Start Expo
+
+```bash
+npx expo start
+```
+
+---
+
+## Full Command Sequence
+
+```bash
+adb reverse tcp:8081 tcp:8081 && set REACT_NATIVE_PACKAGER_HOSTNAME=10.0.2.2 && npx expo start
+```
+
+---
+
+## Notes
+- Run `adb reverse` again any time the emulator restarts
+- If `adb` is not recognized, find it at:
+  `C:\Users\<you>\AppData\Local\Android\Sdk\platform-tools\adb.exe`
 
 ### RAG Offline Model
 

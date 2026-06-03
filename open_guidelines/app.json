@@ -1,3 +1,6 @@
 {
-  "name": "open_guidelines"
+  "expo": {
+    "name": "Open Guidelines", 
+    "hostUri": "10.0.2.2:8081"
+  }
 }
