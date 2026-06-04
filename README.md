@@ -42,7 +42,7 @@ Xcode -> Settings -> Components
 4. 
 Open and run the simulator 
 ```
-open -a Siulator
+open -a Simulator
 ```
 
 #### Common Errors
