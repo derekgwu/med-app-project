@@ -1,24 +1,5 @@
 # Open Guidelines
 
-## 🌍 Making Clinical Guidelines Accessible to Healthcare Workers in Malawi
-
-**Open Guidelines** is an initiative dedicated to providing free, unrestricted access to clinical guidelines used by healthcare professionals in hospitals worldwide. We believe that life-saving medical knowledge should be available to every healthcare worker, regardless of their location or resources.
-
-### 📱 Project Overview
-
-This critical app provides access to **neonatal and newborn care guidelines** developed in partnership with:
-
-- **Malawi's Ministry of Health**
-- **NEST 360°** (a collaboration between Rice University and Malawi College of Medicine)
-
-The application supports healthcare workers in managing **neonatal morbidity and mortality** and properly utilizing **essential newborn care technologies**—directly impacting maternal, newborn, and child health outcomes across Malawi.
-
-
-The original application has become **outdated and is no longer available** on the Apple App Store or Google Play Store due to device incompatibilities. Despite this setback, **clinicians in Malawi continue to request access** to this vital resource, highlighting the urgent need for a modern, compatible solution.
-
-
-
-
 
 # Application Setup
 
