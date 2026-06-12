@@ -107,10 +107,13 @@ Launch Android Studio on your computer.
 
 
 #### 6. Install Node.js
-Install [Node.js](https://nodejs.org/en) here and run through the setup. To check if Node.js is installed, run: 
+Install [Node.js](https://nodejs.org/en) here and run through the setup. To check if Node.js is installed open up a terminal in Android Studio (pictured below), and type into the terminal: 
 ```bash
 node -v
 ```
+![Step 1](./images/terminalstep1.gif)
+
+
 If you get a version number like `v20.11.1`, it is installed.
 
 ### Install Node Package Manager (npm)
@@ -119,22 +122,25 @@ Node Package Manager should be installed with Node.js. You can check by running
 npm -v
 ```
 
-Additionally, you may need to install the dependecies of the app which are
+
+Install the dependecies of the application by inputting into the terminal and running
 ``` bash
-npm install -g create-react-native-app
-npm install react-native-webview
+npm install
 ```
 
-(you can likely bypass this by run `npm install`)
+![Step 2](./images/terminalstep2.gif)
 
 ### Running the App
 Go into Android Studio and start up an emulator (Pixel 4 API 30 will work fine). Once the emulator is running, run 
 
 ```bash
-npx expo start --clear
+cd open_guidelines
+npx expo start
 ```
 
-Press `A` to run on android
+![Step 3](./images/terminalstep3.gif)
+
+When the QR Code appears on screen, press `A` to run on android. This will connect the app to the phone
 
 ### Emulator Tips
 
