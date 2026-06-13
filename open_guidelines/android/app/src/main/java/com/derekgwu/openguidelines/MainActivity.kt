@@ -1,4 +1,4 @@
-package com.openguidelines
+package com.derekgwu.openguidelines
 
 import android.os.Build
 import android.os.Bundle
