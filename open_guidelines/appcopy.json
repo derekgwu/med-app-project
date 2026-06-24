@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Open Guidelines",
+    "hostUri": "10.0.2.2:8081",
+    "extra": {
+      "eas": {
+        "projectId": "8ee272ff-b1b6-4695-b7ad-68283b85a3ac"
+      }
+    },
+    "updates": {
+      "enabled": false
+    },
+    "android": {
+      "package": "com.derekgwu.openguidelines",
+      "usesCleartextTraffic": true
+    }
+  }
+}

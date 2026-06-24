@@ -7,4 +7,4 @@
 .DS_Store
 android/build/
 android/app/build/
-android/.gradle/
+android/.gradle/android/.gradle/ 
