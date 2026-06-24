@@ -1,7 +1,7 @@
-import React, { useRef } from 'react';
-import { SafeAreaView, Platform } from 'react-native';
+import React, { useRef, useState, useEffect } from 'react';
+import { SafeAreaView } from 'react-native';
 import { WebView } from 'react-native-webview';
-//WebView.setWebContentsDebuggingEnabled(true);
+import { Asset } from 'expo-asset';
 import TopBar from './TopBar';
 
 
@@ -86,23 +86,36 @@ const pages = {
 
 
 export default function App() {
-  
   const webViewRef = useRef(null);
-  const [currentPage, setCurrentPage] = React.useState('title.html');
+  const [currentPage, setCurrentPage] = useState('title.html');
+  const [resolvedUris, setResolvedUris] = useState({});
 
-  // Intercept navigation requests
+  useEffect(() => {
+    const resolveAssets = async () => {
+      const uris = {};
+      for (const [name, module] of Object.entries(pages)) {
+        const asset = Asset.fromModule(module);
+        await asset.downloadAsync();
+        uris[name] = { uri: asset.localUri };
+      }
+      setResolvedUris(uris);
+    };
+    resolveAssets();
+  }, []);
+
   const handleNavigation = (request) => {
     const url = request.url;
-
-    // Check if it's a local HTML file link
     const match = Object.keys(pages).find(page => url.endsWith(page));
     if (match) {
       setCurrentPage(match);
-      return false; // Block WebView from handling it
+      return false;
     }
-
-    return false; // Disallow extranel urls
+    return false;
   };
+
+  if (!resolvedUris['title.html']) {
+    return null; // or a loading spinner
+  }
 
   return (
     <SafeAreaView style={{ flex: 1 }}>
@@ -111,10 +124,12 @@ export default function App() {
       )}
       <WebView
         ref={webViewRef}
-        source={pages[currentPage]}
+        source={resolvedUris[currentPage]}
         originWhitelist={['*']}
         onShouldStartLoadWithRequest={handleNavigation}
         allowFileAccess={true}
+        allowFileAccessFromFileURLs={true}
+        allowUniversalAccessFromFileURLs={true}
         javaScriptEnabled={true}
       />
     </SafeAreaView>
