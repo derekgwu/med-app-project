@@ -1,0 +1,51 @@
+Initialized native services in: C:\Users\dchen\.gradle\native
+Initialized jansi services in: C:\Users\dchen\.gradle\native
+The client will now receive all logging from the daemon (pid: 13728). The daemon log file: C:\Users\dchen\.gradle\daemon\9.3.1\daemon-13728.out.log
+Starting 5th build in daemon [uptime: 34 mins 42.432 secs, performance: 100%, GC rate: 0.00/s, heap usage: 0% of 2 GiB, non-heap usage: 60% of 512 MiB]
+Using 8 worker leases.
+Operational build model parameters: {requiresToolingModels=false, parallelProjectExecution=true, configureOnDemand=false, configurationCache=false, configurationCacheParallelStore=false, configurationCacheParallelLoad=true, isolatedProjects=false, parallelProjectConfiguration=false, intermediateModelCache=false, parallelToolingApiActions=true, invalidateCoupledProjects=false, modelAsProjectDependency=false, resilientModelBuilding=false}
+Invalidating in-memory cache of C:\Users\dchen\Desktop\og\open_guidelines\android\.gradle\9.3.1\fileHashes\fileHashes.bin
+Invalidating in-memory cache of C:\Users\dchen\Desktop\og\open_guidelines\android\.gradle\9.3.1\fileHashes\resourceHashesCache.bin
+Now considering [C:\Users\dchen\Desktop\og\open_guidelines\android, C:\Users\dchen\Desktop\og\open_guidelines\node_modules\expo-modules-core\expo-module-gradle-plugin, C:\Users\dchen\Desktop\og\open_guidelines\node_modules\expo-modules-autolinking\android\expo-gradle-plugin, C:\Users\dchen\Desktop\og\open_guidelines\node_modules\@react-native\gradle-plugin] as hierarchies to watch
+Watching the file system is configured to be enabled if available
+File system watching is active
+Starting Build
+Starting process 'command 'node''. Working directory: C:\Users\dchen\Desktop\og\open_guidelines\android Command: node --print require.resolve('@react-native/gradle-plugin/package.json', { paths: [require.resolve('react-native/package.json')] })
+Successfully started process 'command 'node''
+Starting process 'command 'node''. Working directory: C:\Users\dchen\Desktop\og\open_guidelines\android Command: node --print require.resolve('expo-modules-autolinking/package.json', { paths: [require.resolve('expo/package.json')] })
+Successfully started process 'command 'node''
+Now considering [C:\Users\dchen\Desktop\og\open_guidelines\node_modules\@react-native\gradle-plugin, C:\Users\dchen\Desktop\og\open_guidelines\android, C:\Users\dchen\Desktop\og\open_guidelines\node_modules\expo-modules-core\expo-module-gradle-plugin, C:\Users\dchen\Desktop\og\open_guidelines\node_modules\expo-modules-autolinking\android\expo-gradle-plugin] as hierarchies to watch
+Invalidating in-memory cache of C:\Users\dchen\Desktop\og\open_guidelines\node_modules\@react-native\gradle-plugin\.gradle\buildOutputCleanup\outputFiles.bin
+Resolved plugin [id: 'org.gradle.toolchains.foojay-resolver-convention', version: '0.5.0']
+Invalidating in-memory cache of C:\Users\dchen\.gradle\caches\journal-1\file-access.bin
+Invalidating in-memory cache of C:\Users\dchen\.gradle\caches\9.3.1\fileHashes\kotlinDslCompileAvoidanceClasspathHashCache.bin
+Invalidating in-memory cache of C:\Users\dchen\.gradle\caches\9.3.1\fileHashes\fileHashes.bin
+Invalidating in-memory cache of C:\Users\dchen\.gradle\caches\9.3.1\fileHashes\resourceHashesCache.bin
+Now considering [C:\Users\dchen\Desktop\og\open_guidelines\node_modules\expo-modules-autolinking\android\expo-gradle-plugin, C:\Users\dchen\Desktop\og\open_guidelines\node_modules\@react-native\gradle-plugin, C:\Users\dchen\Desktop\og\open_guidelines\android, C:\Users\dchen\Desktop\og\open_guidelines\node_modules\expo-modules-core\expo-module-gradle-plugin] as hierarchies to watch
+Invalidating in-memory cache of C:\Users\dchen\Desktop\og\open_guidelines\node_modules\expo-modules-autolinking\android\expo-gradle-plugin\.gradle\buildOutputCleanup\outputFiles.bin
+
+> Configure project :gradle-plugin
+Evaluating project ':gradle-plugin' using build file 'C:\Users\dchen\Desktop\og\open_guidelines\node_modules\@react-native\gradle-plugin\build.gradle.kts'.
+Resolved plugin [id: 'org.jetbrains.kotlin.jvm', version: '2.1.20', apply: false]
+Resolved plugin [id: 'com.ncorti.ktfmt.gradle', version: '0.22.0']
+
+> Configure project :gradle-plugin:react-native-gradle-plugin
+Evaluating project ':gradle-plugin:react-native-gradle-plugin' using build file 'C:\Users\dchen\Desktop\og\open_guidelines\node_modules\@react-native\gradle-plugin\react-native-gradle-plugin\build.gradle.kts'.
+Resolved plugin [id: 'org.jetbrains.kotlin.jvm', version: '2.1.20']
+Resolved plugin [id: 'com.ncorti.ktfmt.gradle', version: '0.22.0']
+Resolved plugin [id: 'java-gradle-plugin']
+Build fff5068d-c987-4b50-93bc-29f43d3b4891 is started
+Using Kotlin Gradle Plugin gradle85 variant
+kotlin scripting plugin: created the scripting discovery configuration: kotlinScriptDef
+kotlin scripting plugin: created the scripting discovery configuration: testKotlinScriptDef
+
+> Configure project :gradle-plugin:settings-plugin
+Evaluating project ':gradle-plugin:settings-plugin' using build file 'C:\Users\dchen\Desktop\og\open_guidelines\node_modules\@react-native\gradle-plugin\settings-plugin\build.gradle.kts'.
+Resolved plugin [id: 'org.jetbrains.kotlin.jvm', version: '2.1.20']
+Resolved plugin [id: 'com.ncorti.ktfmt.gradle', version: '0.22.0']
+Resolved plugin [id: 'java-gradle-plugin']
+Using Kotlin Gradle Plugin gradle85 variant
+kotlin scripting plugin: created the scripting discovery configuration: kotlinScriptDef
+kotlin scripting plugin: created the scripting discovery configuration: testKotlinScriptDef
+^CTerminate batch job (Y/N)? 
+^C
