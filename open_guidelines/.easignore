@@ -1,9 +1,10 @@
 /node_modules
 /.expo
-/android
 /ios
 /build
 /dist
-
 *.log
 .DS_Store
+android/build/
+android/app/build/
+android/.gradle/
