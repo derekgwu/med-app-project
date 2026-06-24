@@ -1,7 +1,7 @@
 {
     "title": "Wall Chart H \u2013 Neonatal Resuscitation Algorithm",
     "metadata": {
-        "stylesheet": "../include/layout.css",
+        "stylesheet": "./include/layout.css",
         "charset": "utf-8",
         "viewport": "width=device-width, initial-scale=1.0"
     },

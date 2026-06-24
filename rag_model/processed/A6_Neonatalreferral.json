@@ -53,7 +53,7 @@
     "metadata": {
         "charset": "utf-8",
         "viewport": "width=device-width, initial-scale=1.0",
-        "stylesheet": "../include/layout.css"
+        "stylesheet": "./include/layout.css"
     },
     "_source_file": "A6_Neonatalreferral.html"
 }

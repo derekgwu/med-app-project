@@ -180,7 +180,7 @@
         "metadata": {
             "charset": "utf-8",
             "viewport": "width=device-width, initial-scale=1.0",
-            "stylesheet": "../include/layout.css"
+            "stylesheet": "./include/layout.css"
         },
         "_source_file": "A6_Neonatalreferral.html"
     },
@@ -9027,7 +9027,7 @@
     {
         "title": "Wall Chart H \u2013 Neonatal Resuscitation Algorithm",
         "metadata": {
-            "stylesheet": "../include/layout.css",
+            "stylesheet": "./include/layout.css",
             "charset": "utf-8",
             "viewport": "width=device-width, initial-scale=1.0"
         },
@@ -9060,7 +9060,7 @@
     {
         "title": "Wall Chart I \u2013 Algorithm: Emergency assessment and management of NYI airway and breathing",
         "metadata": {
-            "stylesheet": "../include/layout.css",
+            "stylesheet": "./include/layout.css",
             "charset": "utf-8",
             "viewport": "width=device-width, initial-scale=1.0"
         },
@@ -9192,7 +9192,7 @@
         "metadata": {
             "source": "wall\u2011chart.html",
             "viewport": "width=device-width, initial-scale=1.0",
-            "styleSheet": "../include/layout.css",
+            "styleSheet": "./include/layout.css",
             "encoding": "utf-8"
         },
         "sections": [
