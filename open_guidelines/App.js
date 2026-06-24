@@ -1,6 +1,7 @@
 import React, { useRef } from 'react';
 import { SafeAreaView, Platform } from 'react-native';
 import { WebView } from 'react-native-webview';
+//WebView.setWebContentsDebuggingEnabled(true);
 import TopBar from './TopBar';
 
 
@@ -10,7 +11,10 @@ const pages = {
   'demo.html': require('./assets/demo.html'),
 };
 
+
+
 export default function App() {
+  
   const webViewRef = useRef(null);
   const [currentPage, setCurrentPage] = React.useState('title.html');
 
@@ -25,7 +29,7 @@ export default function App() {
       return false; // Block WebView from handling it
     }
 
-    return true; // Allow external URLs
+    return false; // Disallow extranel urls
   };
 
   return (

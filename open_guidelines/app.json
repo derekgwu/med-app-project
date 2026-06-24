@@ -8,7 +8,8 @@
       }
     },
     "android": {
-      "package": "com.derekgwu.openguidelines"
+      "package": "com.derekgwu.openguidelines",
+      "usesCleartextTraffic": true
     }
   }
 }

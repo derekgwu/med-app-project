@@ -206,9 +206,21 @@ adb reverse tcp:8081 tcp:8081 && set REACT_NATIVE_PACKAGER_HOSTNAME=10.0.2.2 && 
 - If `adb` is not recognized, find it at:
   `C:\Users\<you>\AppData\Local\Android\Sdk\platform-tools\adb.exe`
 
+
+
 ### RAG Offline Model
 
 Start the virtual environment
 ```
 source venv/bin/activate
 ```
+
+## Production CI/CD Pipeline
+
+1. Navigate to `./open_guidelines/android`
+2. Run 
+```
+gradlew.bat app:assembleRelease
+adb install -r app\build\outputs\apk\release\app-release.apk
+```
+3. Spin up the emulator and run `adb shell monkey -p com.derekgwu.openguidelines 1`
