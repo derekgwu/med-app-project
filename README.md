@@ -217,6 +217,17 @@ source venv/bin/activate
 
 ## Production CI/CD Pipeline
 
+### Android
+
+1. Create the `android` subdirectory
+```
+npx expo prebuild -p android
+```
+
+2. Add a `local.properties` file in the `android` folder with the following line
+```
+sdk.dir=C:/path/to/Android/Sdk
+```
 1. Navigate to `./open_guidelines/android`
 2. Run 
 ```
