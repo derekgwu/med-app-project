@@ -30,14 +30,15 @@ jobs:
 
       - name: Install JS dependencies
         run: npm install
+        working-directory: open_guidelines
 
       - name: Create keystore file from secret
         run: |
-          echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 --decode > android/keystore.jks
+          echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 --decode > open_guidelines/android/keystore.jks
 
       - name: Create keystore.properties
         run: |
-          cat > android/keystore.properties << EOF
+          cat > open_guidelines/android/keystore.properties << EOF
           MYAPP_UPLOAD_FILE=keystore.jks
           MYAPP_UPLOAD_STORE_PASSWORD=${{ secrets.KEYSTORE_STORE_PASSWORD }}
           MYAPP_UPLOAD_KEY_ALIAS=${{ secrets.KEYSTORE_KEY_ALIAS }}
@@ -45,14 +46,14 @@ jobs:
           EOF
 
       - name: Make gradlew executable
-        run: chmod +x android/gradlew
+        run: chmod +x open_guidelines/android/gradlew
 
       - name: Build release APK
-        run: cd android && ./gradlew app:assembleRelease
+        run: cd open_guidelines/android && ./gradlew app:assembleRelease
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
           name: release-apk
-          path: android/app/build/outputs/apk/release/*.apk
+          path: open_guidelines/android/app/build/outputs/apk/release/*.apk
           retention-days: 7
