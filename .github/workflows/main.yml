@@ -39,7 +39,7 @@ jobs:
       - name: Create keystore.properties
         run: |
           cat > open_guidelines/android/keystore.properties << EOF
-          MYAPP_UPLOAD_FILE=keystore.jks
+          MYAPP_UPLOAD_FILE=$GITHUB_WORKSPACE/open_guidelines/android/keystore.jks
           MYAPP_UPLOAD_STORE_PASSWORD=${{ secrets.KEYSTORE_STORE_PASSWORD }}
           MYAPP_UPLOAD_KEY_ALIAS=${{ secrets.KEYSTORE_KEY_ALIAS }}
           MYAPP_UPLOAD_KEY_PASSWORD=${{ secrets.KEYSTORE_KEY_PASSWORD }}
