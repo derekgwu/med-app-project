@@ -12,7 +12,9 @@
     },
     "android": {
       "package": "net.openguidelines2.www",
-      "usesCleartextTraffic": true
+      "usesCleartextTraffic": true,
+      "buildType": "app-bundle",
+      "credentialsSource": "remote"
     }
   }
 }
