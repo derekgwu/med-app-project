@@ -34,7 +34,7 @@ jobs:
           cache: 'npm'
 
       - name: Install JS dependencies
-        run: npm ci
+        run: npm install
 
       - name: Create keystore file from secret
         run: |
