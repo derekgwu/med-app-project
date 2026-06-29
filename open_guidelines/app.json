@@ -11,8 +11,10 @@
       "enabled": false
     },
     "android": {
-      "package": "com.derekgwu.openguidelines",
-      "usesCleartextTraffic": true
+      "package": "net.openguidelines2.www",
+      "usesCleartextTraffic": true,
+      "buildType": "app-bundle",
+      "credentialsSource": "remote"
     }
   }
 }
