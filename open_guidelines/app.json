@@ -11,7 +11,7 @@
       "enabled": false
     },
     "android": {
-      "package": "com.derekgwu.openguidelines",
+      "package": "net.openguidelines2.www",
       "usesCleartextTraffic": true
     }
   }

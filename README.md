@@ -217,6 +217,8 @@ source venv/bin/activate
 
 ## Production CI/CD Pipeline
 
+
+### Testing
 1. Navigate to `./open_guidelines/android`
 2. Run 
 ```
@@ -224,3 +226,7 @@ gradlew.bat app:assembleRelease
 adb install -r app\build\outputs\apk\release\app-release.apk
 ```
 3. Spin up the emulator and run `adb shell monkey -p com.derekgwu.openguidelines 1`
+
+### Bundling
+ 
+`gradlew.bat app:bundleRelease`
