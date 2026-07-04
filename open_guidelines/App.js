@@ -2,7 +2,7 @@ import React, { useRef, useState, useEffect } from 'react';
 import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import { WebView } from 'react-native-webview';
 import TopBar from './TopBar';
-import pages from './pagesMap.js';
+import assetManifest from './assetManifest.js';
 import { ensureAssetsCopied } from './copyAssests';
 
 export default function App() {
@@ -16,7 +16,9 @@ export default function App() {
 
   const handleNavigation = (request) => {
     const url = request.url;
-    const match = Object.keys(pages).find(page => url.endsWith(page));
+    console.log('Navigation requested:', url);
+    const match = Object.keys(assetManifest).find(page => url.endsWith(page));
+    console.log('Matched page:', match);
     if (match) {
       setCurrentPage(match);
       return false;
@@ -25,7 +27,7 @@ export default function App() {
   };
 
   if (!assetsRoot) {
-    return null; // or a loading spinner
+    return null;
   }
 
   return (

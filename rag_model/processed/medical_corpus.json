@@ -1811,7 +1811,7 @@
                 "href": "WD_Antibiotic and Aminophylline doses.html"
             }
         ],
-        "_source_file": "C17_Meningitis.html"
+        "_source_file": "C17_Meningitis2.html"
     },
     {
         "title": "Diarrhoea and Dehydration in NYI (Chapter\u202f18)",
@@ -2289,7 +2289,7 @@
             }
         ],
         "imageLinks": [],
-        "_source_file": "C1_Triage.html"
+        "_source_file": "C1_triage2022.html"
     },
     {
         "title": "Discharge from the Hospital (Chapter 20)",
@@ -4901,7 +4901,7 @@
                 "imageLinks": []
             }
         ],
-        "_source_file": "disccoin.html"
+        "_source_file": "disccoin2.html"
     },
     {
         "title": "E 10 Use of the Syringe Driver (Pump) \u2013 Kasupe",
@@ -7375,7 +7375,7 @@
                             },
                             {
                                 "text": "Meningitis",
-                                "link": "C17_Meningitis.html"
+                                "link": "C17_Meningitis2.html"
                             }
                         ],
                         "notes": null,
@@ -7446,7 +7446,7 @@
                             },
                             {
                                 "text": "Meningitis",
-                                "link": "C17_Meningitis.html"
+                                "link": "C17_Meningitis2.html"
                             }
                         ],
                         "notes": null,
@@ -7468,7 +7468,7 @@
                             },
                             {
                                 "text": "Meningitis",
-                                "link": "C17_Meningitis.html"
+                                "link": "C17_Meningitis2.html"
                             },
                             {
                                 "text": "Bloody diarrhoea (5\u202fdays)",
@@ -7585,7 +7585,7 @@
                             },
                             {
                                 "text": "Meningitis",
-                                "link": "C17_Meningitis.html"
+                                "link": "C17_Meningitis2.html"
                             }
                         ],
                         "notes": "Risk of ototoxicity and nephrotoxicity.",
@@ -7992,7 +7992,7 @@
                     },
                     {
                         "title": "Disclaimer",
-                        "link": "disccoin.html",
+                        "link": "disccoin2.html",
                         "learningObjectives": [],
                         "imageLinks": []
                     },
@@ -8005,7 +8005,7 @@
                 ]
             }
         ],
-        "_source_file": "The Background.html"
+        "_source_file": "The backgroundchapters.html"
     },
     {
         "title": "Wall Charts",

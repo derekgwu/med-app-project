@@ -1,11 +1,11 @@
 import * as FileSystem from 'expo-file-system/legacy';
 import { Asset } from 'expo-asset';
-import pages from './pagesMap.js';
+import assetManifest from './assetManifest.js';
 
 const DEST_ROOT = FileSystem.documentDirectory + 'assets/';
 
 export async function ensureAssetsCopied(onProgress) {
-  const entries = Object.entries(pages);
+  const entries = Object.entries(assetManifest);
   let done = 0;
 
   for (const [relativePath, moduleId] of entries) {
