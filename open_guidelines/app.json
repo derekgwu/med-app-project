@@ -15,6 +15,7 @@
       "usesCleartextTraffic": true,
       "buildType": "app-bundle",
       "credentialsSource": "remote"
-    }
+    },
+    "assetBundlePatterns": ["assets/**/*"]
   }
 }
