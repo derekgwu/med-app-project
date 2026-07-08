@@ -225,7 +225,7 @@ source venv/bin/activate
 gradlew.bat app:assembleRelease
 adb install -r app\build\outputs\apk\release\app-release.apk
 ```
-3. Spin up the emulator and run `adb shell monkey -p com.derekgwu.openguidelines 1`
+3. Spin up the emulator and run `adb shell monkey -p net.openguidelines2.www 1`
 
 ### Bundling
  
