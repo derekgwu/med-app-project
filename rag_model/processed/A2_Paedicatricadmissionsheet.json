@@ -42,7 +42,7 @@
         }
     ],
     "metadata": {
-        "styleSheet": "./include/layout.css",
+        "styleSheet": "layout.css",
         "charset": "utf-8",
         "viewport": "width=device-width, initial-scale=1.0"
     },

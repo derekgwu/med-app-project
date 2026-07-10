@@ -3,7 +3,7 @@
     "metadata": {
         "source": "wall\u2011chart.html",
         "viewport": "width=device-width, initial-scale=1.0",
-        "styleSheet": "./include/layout.css",
+        "styleSheet": "layout.css",
         "encoding": "utf-8"
     },
     "sections": [

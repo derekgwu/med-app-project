@@ -1,7 +1,7 @@
 {
     "title": "Wall Chart I \u2013 Algorithm: Emergency assessment and management of NYI airway and breathing",
     "metadata": {
-        "stylesheet": "./include/layout.css",
+        "stylesheet": "layout.css",
         "charset": "utf-8",
         "viewport": "width=device-width, initial-scale=1.0"
     },

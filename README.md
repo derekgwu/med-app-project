@@ -188,6 +188,7 @@ adb devices
 #### Step 3 — Start Expo
 
 ```bash
+adb shell pm clear host.exp.exponent
 npx expo start
 ```
 
@@ -224,6 +225,7 @@ source venv/bin/activate
 ```
 gradlew.bat app:assembleRelease
 adb install -r app\build\outputs\apk\release\app-release.apk
+adb shell monkey -p net.openguidelines2.www 1
 ```
 3. Spin up the emulator and run `adb shell monkey -p net.openguidelines2.www 1`
 
